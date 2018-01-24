@@ -1,0 +1,5177 @@
+[
+    {
+        "id": "1",
+        "name": "Titi Tinggi",
+        "negeri_code": "pl",
+        "parliament_code": "P1",
+        "parliament_code_num": "1",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "2",
+        "name": "Beseri",
+        "negeri_code": "pl",
+        "parliament_code": "P1",
+        "parliament_code_num": "1",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "3",
+        "name": "Chuping",
+        "negeri_code": "pl",
+        "parliament_code": "P1",
+        "parliament_code_num": "1",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "4",
+        "name": "Mata Ayer",
+        "negeri_code": "pl",
+        "parliament_code": "P1",
+        "parliament_code_num": "1",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "5",
+        "name": "Santan",
+        "negeri_code": "pl",
+        "parliament_code": "P1",
+        "parliament_code_num": "1",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "6",
+        "name": "Bintong",
+        "negeri_code": "pl",
+        "parliament_code": "P2",
+        "parliament_code_num": "2",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "7",
+        "name": "Sena",
+        "negeri_code": "pl",
+        "parliament_code": "P2",
+        "parliament_code_num": "2",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "8",
+        "name": "Indera Kayangan",
+        "negeri_code": "pl",
+        "parliament_code": "P2",
+        "parliament_code_num": "2",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "9",
+        "name": "Kuala Perlis",
+        "negeri_code": "pl",
+        "parliament_code": "P2",
+        "parliament_code_num": "2",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "10",
+        "name": "Kayang",
+        "negeri_code": "pl",
+        "parliament_code": "P2",
+        "parliament_code_num": "2",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "11",
+        "name": "Pauh",
+        "negeri_code": "pl",
+        "parliament_code": "P3",
+        "parliament_code_num": "3",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "12",
+        "name": "Tambun Tulang",
+        "negeri_code": "pl",
+        "parliament_code": "P3",
+        "parliament_code_num": "3",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "13",
+        "name": "Guar Sanji",
+        "negeri_code": "pl",
+        "parliament_code": "P3",
+        "parliament_code_num": "3",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "14",
+        "name": "Simpang Empat",
+        "negeri_code": "pl",
+        "parliament_code": "P3",
+        "parliament_code_num": "3",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "15",
+        "name": "Sanglang",
+        "negeri_code": "pl",
+        "parliament_code": "P3",
+        "parliament_code_num": "3",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "16",
+        "name": "Ayer Hangat",
+        "negeri_code": "kd",
+        "parliament_code": "P4",
+        "parliament_code_num": "4",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "17",
+        "name": "Kuah",
+        "negeri_code": "kd",
+        "parliament_code": "P4",
+        "parliament_code_num": "4",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "18",
+        "name": "Kota Siputeh",
+        "negeri_code": "kd",
+        "parliament_code": "P5",
+        "parliament_code_num": "5",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "19",
+        "name": "Ayer Hitam",
+        "negeri_code": "kd",
+        "parliament_code": "P5",
+        "parliament_code_num": "5",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "20",
+        "name": "Bukit Kayu Hitam",
+        "negeri_code": "kd",
+        "parliament_code": "P6",
+        "parliament_code_num": "6",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "21",
+        "name": "Jitra",
+        "negeri_code": "kd",
+        "parliament_code": "P6",
+        "parliament_code_num": "6",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "22",
+        "name": "Kuala Nerang",
+        "negeri_code": "kd",
+        "parliament_code": "P7",
+        "parliament_code_num": "7",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "23",
+        "name": "Pedu",
+        "negeri_code": "kd",
+        "parliament_code": "P7",
+        "parliament_code_num": "7",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "24",
+        "name": "Bukit Lada",
+        "negeri_code": "kd",
+        "parliament_code": "P8",
+        "parliament_code_num": "8",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "25",
+        "name": "Bukit Pinang",
+        "negeri_code": "kd",
+        "parliament_code": "P8",
+        "parliament_code_num": "8",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "26",
+        "name": "Derga",
+        "negeri_code": "kd",
+        "parliament_code": "P8",
+        "parliament_code_num": "8",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "27",
+        "name": "Bakar Bata",
+        "negeri_code": "kd",
+        "parliament_code": "P9",
+        "parliament_code_num": "9",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "28",
+        "name": "Kota Darulaman",
+        "negeri_code": "kd",
+        "parliament_code": "P9",
+        "parliament_code_num": "9",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "29",
+        "name": "Alor Mengkudu",
+        "negeri_code": "kd",
+        "parliament_code": "P9",
+        "parliament_code_num": "9",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "30",
+        "name": "Anak Bukit",
+        "negeri_code": "kd",
+        "parliament_code": "P10",
+        "parliament_code_num": "10",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "31",
+        "name": "Kubang Rotan",
+        "negeri_code": "kd",
+        "parliament_code": "P10",
+        "parliament_code_num": "10",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "32",
+        "name": "Pengkalan Kundor",
+        "negeri_code": "kd",
+        "parliament_code": "P10",
+        "parliament_code_num": "10",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "33",
+        "name": "Tokai",
+        "negeri_code": "kd",
+        "parliament_code": "P11",
+        "parliament_code_num": "11",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "34",
+        "name": "Sungai Tiang",
+        "negeri_code": "kd",
+        "parliament_code": "P11",
+        "parliament_code_num": "11",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "35",
+        "name": "Sungai Limau",
+        "negeri_code": "kd",
+        "parliament_code": "P12",
+        "parliament_code_num": "12",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "36",
+        "name": "Guar Chempedak",
+        "negeri_code": "kd",
+        "parliament_code": "P12",
+        "parliament_code_num": "12",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "37",
+        "name": "Gurun",
+        "negeri_code": "kd",
+        "parliament_code": "P12",
+        "parliament_code_num": "12",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "38",
+        "name": "Belantek",
+        "negeri_code": "kd",
+        "parliament_code": "P13",
+        "parliament_code_num": "13",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "39",
+        "name": "Jeneri",
+        "negeri_code": "kd",
+        "parliament_code": "P13",
+        "parliament_code_num": "13",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "40",
+        "name": "Bukit Selambau",
+        "negeri_code": "kd",
+        "parliament_code": "P14",
+        "parliament_code_num": "14",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "41",
+        "name": "Tanjong Dawai",
+        "negeri_code": "kd",
+        "parliament_code": "P14",
+        "parliament_code_num": "14",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "42",
+        "name": "Pantai Merdeka",
+        "negeri_code": "kd",
+        "parliament_code": "P15",
+        "parliament_code_num": "15",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "43",
+        "name": "Bakar Arang",
+        "negeri_code": "kd",
+        "parliament_code": "P15",
+        "parliament_code_num": "15",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "44",
+        "name": "Sidam",
+        "negeri_code": "kd",
+        "parliament_code": "P15",
+        "parliament_code_num": "15",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "45",
+        "name": "Bayu",
+        "negeri_code": "kd",
+        "parliament_code": "P16",
+        "parliament_code_num": "16",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "46",
+        "name": "Kupang",
+        "negeri_code": "kd",
+        "parliament_code": "P16",
+        "parliament_code_num": "16",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "47",
+        "name": "Kuala Ketil",
+        "negeri_code": "kd",
+        "parliament_code": "P16",
+        "parliament_code_num": "16",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "48",
+        "name": "Merbau Pulas",
+        "negeri_code": "kd",
+        "parliament_code": "P17",
+        "parliament_code_num": "17",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "49",
+        "name": "Lunas",
+        "negeri_code": "kd",
+        "parliament_code": "P17",
+        "parliament_code_num": "17",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "50",
+        "name": "Kulim",
+        "negeri_code": "kd",
+        "parliament_code": "P18",
+        "parliament_code_num": "18",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "51",
+        "name": "Bandar Baharu",
+        "negeri_code": "kd",
+        "parliament_code": "P18",
+        "parliament_code_num": "18",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "52",
+        "name": "Pengkalan Kubor",
+        "negeri_code": "ke",
+        "parliament_code": "P19",
+        "parliament_code_num": "19",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "53",
+        "name": "Kelaboran",
+        "negeri_code": "ke",
+        "parliament_code": "P19",
+        "parliament_code_num": "19",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "54",
+        "name": "Pasir Pekan",
+        "negeri_code": "ke",
+        "parliament_code": "P19",
+        "parliament_code_num": "19",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "55",
+        "name": "Wakaf Bharu",
+        "negeri_code": "ke",
+        "parliament_code": "P19",
+        "parliament_code_num": "19",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "56",
+        "name": "Kijang",
+        "negeri_code": "ke",
+        "parliament_code": "P20",
+        "parliament_code_num": "20",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "57",
+        "name": "Chempaka",
+        "negeri_code": "ke",
+        "parliament_code": "P20",
+        "parliament_code_num": "20",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "58",
+        "name": "Panchor",
+        "negeri_code": "ke",
+        "parliament_code": "P20",
+        "parliament_code_num": "20",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "59",
+        "name": "Tanjong Mas",
+        "negeri_code": "ke",
+        "parliament_code": "P21",
+        "parliament_code_num": "21",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "60",
+        "name": "Kota Lama",
+        "negeri_code": "ke",
+        "parliament_code": "P21",
+        "parliament_code_num": "21",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "61",
+        "name": "Bunut Payong",
+        "negeri_code": "ke",
+        "parliament_code": "P21",
+        "parliament_code_num": "21",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "62",
+        "name": "Tendong",
+        "negeri_code": "ke",
+        "parliament_code": "P22",
+        "parliament_code_num": "22",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "63",
+        "name": "Pengkalan Pasir",
+        "negeri_code": "ke",
+        "parliament_code": "P22",
+        "parliament_code_num": "22",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "64",
+        "name": "Chetok",
+        "negeri_code": "ke",
+        "parliament_code": "P22",
+        "parliament_code_num": "22",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "65",
+        "name": "Meranti",
+        "negeri_code": "ke",
+        "parliament_code": "P23",
+        "parliament_code_num": "23",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "66",
+        "name": "Gual Periok",
+        "negeri_code": "ke",
+        "parliament_code": "P23",
+        "parliament_code_num": "23",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "67",
+        "name": "Bukit Tuku",
+        "negeri_code": "ke",
+        "parliament_code": "P23",
+        "parliament_code_num": "23",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "68",
+        "name": "Salor",
+        "negeri_code": "ke",
+        "parliament_code": "P24",
+        "parliament_code_num": "24",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "69",
+        "name": "Pasir Tumboh",
+        "negeri_code": "ke",
+        "parliament_code": "P24",
+        "parliament_code_num": "24",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "70",
+        "name": "Demit",
+        "negeri_code": "ke",
+        "parliament_code": "P24",
+        "parliament_code_num": "24",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "71",
+        "name": "Tawang",
+        "negeri_code": "ke",
+        "parliament_code": "P25",
+        "parliament_code_num": "25",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "72",
+        "name": "Perupok",
+        "negeri_code": "ke",
+        "parliament_code": "P25",
+        "parliament_code_num": "25",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "73",
+        "name": "Jelawat",
+        "negeri_code": "ke",
+        "parliament_code": "P25",
+        "parliament_code_num": "25",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "74",
+        "name": "Melor",
+        "negeri_code": "ke",
+        "parliament_code": "P26",
+        "parliament_code_num": "26",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "75",
+        "name": "Kadok",
+        "negeri_code": "ke",
+        "parliament_code": "P26",
+        "parliament_code_num": "26",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "76",
+        "name": "Kok Lanas",
+        "negeri_code": "ke",
+        "parliament_code": "P26",
+        "parliament_code_num": "26",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "77",
+        "name": "Bukit Panau",
+        "negeri_code": "ke",
+        "parliament_code": "P27",
+        "parliament_code_num": "27",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "78",
+        "name": "Gual Ipoh",
+        "negeri_code": "ke",
+        "parliament_code": "P27",
+        "parliament_code_num": "27",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "79",
+        "name": "Kemahang",
+        "negeri_code": "ke",
+        "parliament_code": "P27",
+        "parliament_code_num": "27",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "80",
+        "name": "Selising",
+        "negeri_code": "ke",
+        "parliament_code": "P28",
+        "parliament_code_num": "28",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "81",
+        "name": "Limbongan",
+        "negeri_code": "ke",
+        "parliament_code": "P28",
+        "parliament_code_num": "28",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "82",
+        "name": "Semerak",
+        "negeri_code": "ke",
+        "parliament_code": "P28",
+        "parliament_code_num": "28",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "83",
+        "name": "Gaal",
+        "negeri_code": "ke",
+        "parliament_code": "P28",
+        "parliament_code_num": "28",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "84",
+        "name": "Pulai Chondong",
+        "negeri_code": "ke",
+        "parliament_code": "P29",
+        "parliament_code_num": "29",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "85",
+        "name": "Temangan",
+        "negeri_code": "ke",
+        "parliament_code": "P29",
+        "parliament_code_num": "29",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "86",
+        "name": "Kemuning",
+        "negeri_code": "ke",
+        "parliament_code": "P29",
+        "parliament_code_num": "29",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "87",
+        "name": "Bukit Bunga",
+        "negeri_code": "ke",
+        "parliament_code": "P30",
+        "parliament_code_num": "30",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "88",
+        "name": "Air Lanas",
+        "negeri_code": "ke",
+        "parliament_code": "P30",
+        "parliament_code_num": "30",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "89",
+        "name": "Kuala Balah",
+        "negeri_code": "ke",
+        "parliament_code": "P30",
+        "parliament_code_num": "30",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "90",
+        "name": "Mengkebang",
+        "negeri_code": "ke",
+        "parliament_code": "P31",
+        "parliament_code_num": "31",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "91",
+        "name": "Guchil",
+        "negeri_code": "ke",
+        "parliament_code": "P31",
+        "parliament_code_num": "31",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "92",
+        "name": "Manek Urai",
+        "negeri_code": "ke",
+        "parliament_code": "P31",
+        "parliament_code_num": "31",
+        "state_code": "N41",
+        "state_code_num": "41"
+    },
+    {
+        "id": "93",
+        "name": "Dabong",
+        "negeri_code": "ke",
+        "parliament_code": "P31",
+        "parliament_code_num": "31",
+        "state_code": "N42",
+        "state_code_num": "42"
+    },
+    {
+        "id": "94",
+        "name": "Nenggiri",
+        "negeri_code": "ke",
+        "parliament_code": "P32",
+        "parliament_code_num": "32",
+        "state_code": "N43",
+        "state_code_num": "43"
+    },
+    {
+        "id": "95",
+        "name": "Paloh",
+        "negeri_code": "ke",
+        "parliament_code": "P32",
+        "parliament_code_num": "32",
+        "state_code": "N44",
+        "state_code_num": "44"
+    },
+    {
+        "id": "96",
+        "name": "Galas",
+        "negeri_code": "ke",
+        "parliament_code": "P32",
+        "parliament_code_num": "32",
+        "state_code": "N45",
+        "state_code_num": "45"
+    },
+    {
+        "id": "97",
+        "name": "Kuala Besut",
+        "negeri_code": "kt",
+        "parliament_code": "P33",
+        "parliament_code_num": "33",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "98",
+        "name": "Kota Putera",
+        "negeri_code": "kt",
+        "parliament_code": "P33",
+        "parliament_code_num": "33",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "99",
+        "name": "Jertih",
+        "negeri_code": "kt",
+        "parliament_code": "P33",
+        "parliament_code_num": "33",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "100",
+        "name": "Hulu Besut",
+        "negeri_code": "kt",
+        "parliament_code": "P33",
+        "parliament_code_num": "33",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "101",
+        "name": "Jabi",
+        "negeri_code": "kt",
+        "parliament_code": "P34",
+        "parliament_code_num": "34",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "102",
+        "name": "Permaisuri",
+        "negeri_code": "kt",
+        "parliament_code": "P34",
+        "parliament_code_num": "34",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "103",
+        "name": "Langkap",
+        "negeri_code": "kt",
+        "parliament_code": "P34",
+        "parliament_code_num": "34",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "104",
+        "name": "Batu Rakit",
+        "negeri_code": "kt",
+        "parliament_code": "P34",
+        "parliament_code_num": "34",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "105",
+        "name": "Tepuh",
+        "negeri_code": "kt",
+        "parliament_code": "P35",
+        "parliament_code_num": "35",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "106",
+        "name": "Teluk Pasu",
+        "negeri_code": "kt",
+        "parliament_code": "P35",
+        "parliament_code_num": "35",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "107",
+        "name": "Seberang Takir",
+        "negeri_code": "kt",
+        "parliament_code": "P35",
+        "parliament_code_num": "35",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "108",
+        "name": "Bukit Tunggal",
+        "negeri_code": "kt",
+        "parliament_code": "P35",
+        "parliament_code_num": "35",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "109",
+        "name": "Wakaf Mempelam",
+        "negeri_code": "kt",
+        "parliament_code": "P36",
+        "parliament_code_num": "36",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "110",
+        "name": "Bandar",
+        "negeri_code": "kt",
+        "parliament_code": "P36",
+        "parliament_code_num": "36",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "111",
+        "name": "Ladang",
+        "negeri_code": "kt",
+        "parliament_code": "P36",
+        "parliament_code_num": "36",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "112",
+        "name": "Batu Buruk",
+        "negeri_code": "kt",
+        "parliament_code": "P36",
+        "parliament_code_num": "36",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "113",
+        "name": "Alur Limbat",
+        "negeri_code": "kt",
+        "parliament_code": "P37",
+        "parliament_code_num": "37",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "114",
+        "name": "Bukit Payung",
+        "negeri_code": "kt",
+        "parliament_code": "P37",
+        "parliament_code_num": "37",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "115",
+        "name": "Ru Rendang",
+        "negeri_code": "kt",
+        "parliament_code": "P37",
+        "parliament_code_num": "37",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "116",
+        "name": "Pengkalan Berangan",
+        "negeri_code": "kt",
+        "parliament_code": "P37",
+        "parliament_code_num": "37",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "117",
+        "name": "Telemung",
+        "negeri_code": "kt",
+        "parliament_code": "P38",
+        "parliament_code_num": "38",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "118",
+        "name": "Manir",
+        "negeri_code": "kt",
+        "parliament_code": "P38",
+        "parliament_code_num": "38",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "119",
+        "name": "Kuala Berang",
+        "negeri_code": "kt",
+        "parliament_code": "P38",
+        "parliament_code_num": "38",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "120",
+        "name": "Ajil",
+        "negeri_code": "kt",
+        "parliament_code": "P38",
+        "parliament_code_num": "38",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "121",
+        "name": "Bukit Besi",
+        "negeri_code": "kt",
+        "parliament_code": "P39",
+        "parliament_code_num": "39",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "122",
+        "name": "Rantau Abang",
+        "negeri_code": "kt",
+        "parliament_code": "P39",
+        "parliament_code_num": "39",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "123",
+        "name": "Sura",
+        "negeri_code": "kt",
+        "parliament_code": "P39",
+        "parliament_code_num": "39",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "124",
+        "name": "Paka",
+        "negeri_code": "kt",
+        "parliament_code": "P39",
+        "parliament_code_num": "39",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "125",
+        "name": "Kemasek",
+        "negeri_code": "kt",
+        "parliament_code": "P40",
+        "parliament_code_num": "40",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "126",
+        "name": "Kijal",
+        "negeri_code": "kt",
+        "parliament_code": "P40",
+        "parliament_code_num": "40",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "127",
+        "name": "Chukai",
+        "negeri_code": "kt",
+        "parliament_code": "P40",
+        "parliament_code_num": "40",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "128",
+        "name": "Air Putih",
+        "negeri_code": "kt",
+        "parliament_code": "P40",
+        "parliament_code_num": "40",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "129",
+        "name": "Penaga",
+        "negeri_code": "pn",
+        "parliament_code": "P41",
+        "parliament_code_num": "41",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "130",
+        "name": "Bertam",
+        "negeri_code": "pn",
+        "parliament_code": "P41",
+        "parliament_code_num": "41",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "131",
+        "name": "Pinang Tunggal",
+        "negeri_code": "pn",
+        "parliament_code": "P41",
+        "parliament_code_num": "41",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "132",
+        "name": "Permatang Berangan",
+        "negeri_code": "pn",
+        "parliament_code": "P42",
+        "parliament_code_num": "42",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "133",
+        "name": "Sungai Dua",
+        "negeri_code": "pn",
+        "parliament_code": "P42",
+        "parliament_code_num": "42",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "134",
+        "name": "Telok Ayer Tawar",
+        "negeri_code": "pn",
+        "parliament_code": "P42",
+        "parliament_code_num": "42",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "135",
+        "name": "Sungai Puyu",
+        "negeri_code": "pn",
+        "parliament_code": "P43",
+        "parliament_code_num": "43",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "136",
+        "name": "Bagan Jermal",
+        "negeri_code": "pn",
+        "parliament_code": "P43",
+        "parliament_code_num": "43",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "137",
+        "name": "Bagan Dalam",
+        "negeri_code": "pn",
+        "parliament_code": "P43",
+        "parliament_code_num": "43",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "138",
+        "name": "Seberang Jaya",
+        "negeri_code": "pn",
+        "parliament_code": "P44",
+        "parliament_code_num": "44",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "139",
+        "name": "Permatang Pasir",
+        "negeri_code": "pn",
+        "parliament_code": "P44",
+        "parliament_code_num": "44",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "140",
+        "name": "Penanti",
+        "negeri_code": "pn",
+        "parliament_code": "P44",
+        "parliament_code_num": "44",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "141",
+        "name": "Berapit",
+        "negeri_code": "pn",
+        "parliament_code": "P45",
+        "parliament_code_num": "45",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "142",
+        "name": "Machang Bubok",
+        "negeri_code": "pn",
+        "parliament_code": "P45",
+        "parliament_code_num": "45",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "143",
+        "name": "Padang Lalang",
+        "negeri_code": "pn",
+        "parliament_code": "P45",
+        "parliament_code_num": "45",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "144",
+        "name": "Perai",
+        "negeri_code": "pn",
+        "parliament_code": "P46",
+        "parliament_code_num": "46",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "145",
+        "name": "Bukit Tengah",
+        "negeri_code": "pn",
+        "parliament_code": "P46",
+        "parliament_code_num": "46",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "146",
+        "name": "Bukit Tambun",
+        "negeri_code": "pn",
+        "parliament_code": "P46",
+        "parliament_code_num": "46",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "147",
+        "name": "Jawi",
+        "negeri_code": "pn",
+        "parliament_code": "P47",
+        "parliament_code_num": "47",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "148",
+        "name": "Sungai Bakap",
+        "negeri_code": "pn",
+        "parliament_code": "P47",
+        "parliament_code_num": "47",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "149",
+        "name": "Sungai Acheh",
+        "negeri_code": "pn",
+        "parliament_code": "P47",
+        "parliament_code_num": "47",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "150",
+        "name": "Tanjong Bunga",
+        "negeri_code": "pn",
+        "parliament_code": "P48",
+        "parliament_code_num": "48",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "151",
+        "name": "Air Putih",
+        "negeri_code": "pn",
+        "parliament_code": "P48",
+        "parliament_code_num": "48",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "152",
+        "name": "Kebun Bunga",
+        "negeri_code": "pn",
+        "parliament_code": "P48",
+        "parliament_code_num": "48",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "153",
+        "name": "Pulau Tikus",
+        "negeri_code": "pn",
+        "parliament_code": "P48",
+        "parliament_code_num": "48",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "154",
+        "name": "Padang Kota",
+        "negeri_code": "pn",
+        "parliament_code": "P49",
+        "parliament_code_num": "49",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "155",
+        "name": "Pengkalan Kota",
+        "negeri_code": "pn",
+        "parliament_code": "P49",
+        "parliament_code_num": "49",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "156",
+        "name": "Komtar",
+        "negeri_code": "pn",
+        "parliament_code": "P49",
+        "parliament_code_num": "49",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "157",
+        "name": "Datok Keramat",
+        "negeri_code": "pn",
+        "parliament_code": "P50",
+        "parliament_code_num": "50",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "158",
+        "name": "Sungai Pinang",
+        "negeri_code": "pn",
+        "parliament_code": "P50",
+        "parliament_code_num": "50",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "159",
+        "name": "Batu Lancang",
+        "negeri_code": "pn",
+        "parliament_code": "P50",
+        "parliament_code_num": "50",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "160",
+        "name": "Seri Delima",
+        "negeri_code": "pn",
+        "parliament_code": "P51",
+        "parliament_code_num": "51",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "161",
+        "name": "Air Itam",
+        "negeri_code": "pn",
+        "parliament_code": "P51",
+        "parliament_code_num": "51",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "162",
+        "name": "Paya Terubong",
+        "negeri_code": "pn",
+        "parliament_code": "P51",
+        "parliament_code_num": "51",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "163",
+        "name": "Batu Uban",
+        "negeri_code": "pn",
+        "parliament_code": "P52",
+        "parliament_code_num": "52",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "164",
+        "name": "Pantai Jerejak",
+        "negeri_code": "pn",
+        "parliament_code": "P52",
+        "parliament_code_num": "52",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "165",
+        "name": "Batu Maung",
+        "negeri_code": "pn",
+        "parliament_code": "P52",
+        "parliament_code_num": "52",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "166",
+        "name": "Bayan Lepas",
+        "negeri_code": "pn",
+        "parliament_code": "P53",
+        "parliament_code_num": "53",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "167",
+        "name": "Pulau Betong",
+        "negeri_code": "pn",
+        "parliament_code": "P53",
+        "parliament_code_num": "53",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "168",
+        "name": "Telok Bahang",
+        "negeri_code": "pn",
+        "parliament_code": "P53",
+        "parliament_code_num": "53",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "169",
+        "name": "Pengkalan Hulu",
+        "negeri_code": "pr",
+        "parliament_code": "P54",
+        "parliament_code_num": "54",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "170",
+        "name": "Temegor",
+        "negeri_code": "pr",
+        "parliament_code": "P54",
+        "parliament_code_num": "54",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "171",
+        "name": "Kenering",
+        "negeri_code": "pr",
+        "parliament_code": "P55",
+        "parliament_code_num": "55",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "172",
+        "name": "Kota Tampan",
+        "negeri_code": "pr",
+        "parliament_code": "P55",
+        "parliament_code_num": "55",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "173",
+        "name": "Selama",
+        "negeri_code": "pr",
+        "parliament_code": "P56",
+        "parliament_code_num": "56",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "174",
+        "name": "Kubu Gajah",
+        "negeri_code": "pr",
+        "parliament_code": "P56",
+        "parliament_code_num": "56",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "175",
+        "name": "Batu Kurau",
+        "negeri_code": "pr",
+        "parliament_code": "P56",
+        "parliament_code_num": "56",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "176",
+        "name": "Titi Serong",
+        "negeri_code": "pr",
+        "parliament_code": "P57",
+        "parliament_code_num": "57",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "177",
+        "name": "Kuala Kurau",
+        "negeri_code": "pr",
+        "parliament_code": "P57",
+        "parliament_code_num": "57",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "178",
+        "name": "Alor Pongsu",
+        "negeri_code": "pr",
+        "parliament_code": "P58",
+        "parliament_code_num": "58",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "179",
+        "name": "Gunong Semanggol",
+        "negeri_code": "pr",
+        "parliament_code": "P58",
+        "parliament_code_num": "58",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "180",
+        "name": "Selinsing",
+        "negeri_code": "pr",
+        "parliament_code": "P58",
+        "parliament_code_num": "58",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "181",
+        "name": "Kuala Sapetang",
+        "negeri_code": "pr",
+        "parliament_code": "P59",
+        "parliament_code_num": "59",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "182",
+        "name": "Changkat Jering",
+        "negeri_code": "pr",
+        "parliament_code": "P59",
+        "parliament_code_num": "59",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "183",
+        "name": "Trong",
+        "negeri_code": "pr",
+        "parliament_code": "P59",
+        "parliament_code_num": "59",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "184",
+        "name": "Kamunting",
+        "negeri_code": "pr",
+        "parliament_code": "P60",
+        "parliament_code_num": "60",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "185",
+        "name": "Pokok Assam",
+        "negeri_code": "pr",
+        "parliament_code": "P60",
+        "parliament_code_num": "60",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "186",
+        "name": "Aulong",
+        "negeri_code": "pr",
+        "parliament_code": "P60",
+        "parliament_code_num": "60",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "187",
+        "name": "Chenderoh",
+        "negeri_code": "pr",
+        "parliament_code": "P61",
+        "parliament_code_num": "61",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "188",
+        "name": "Lubok Merbau",
+        "negeri_code": "pr",
+        "parliament_code": "P61",
+        "parliament_code_num": "61",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "189",
+        "name": "Lintang",
+        "negeri_code": "pr",
+        "parliament_code": "P62",
+        "parliament_code_num": "62",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "190",
+        "name": "Jalong",
+        "negeri_code": "pr",
+        "parliament_code": "P62",
+        "parliament_code_num": "62",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "191",
+        "name": "Manjoi",
+        "negeri_code": "pr",
+        "parliament_code": "P63",
+        "parliament_code_num": "63",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "192",
+        "name": "Hulu Kinta",
+        "negeri_code": "pr",
+        "parliament_code": "P63",
+        "parliament_code_num": "63",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "193",
+        "name": "Canning",
+        "negeri_code": "pr",
+        "parliament_code": "P64",
+        "parliament_code_num": "64",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "194",
+        "name": "Tebing Tinggi",
+        "negeri_code": "pr",
+        "parliament_code": "P64",
+        "parliament_code_num": "64",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "195",
+        "name": "Pasir Pinji",
+        "negeri_code": "pr",
+        "parliament_code": "P64",
+        "parliament_code_num": "64",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "196",
+        "name": "Bercham",
+        "negeri_code": "pr",
+        "parliament_code": "P65",
+        "parliament_code_num": "65",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "197",
+        "name": "Kepayang",
+        "negeri_code": "pr",
+        "parliament_code": "P65",
+        "parliament_code_num": "65",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "198",
+        "name": "Buntong",
+        "negeri_code": "pr",
+        "parliament_code": "P65",
+        "parliament_code_num": "65",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "199",
+        "name": "Jelapang",
+        "negeri_code": "pr",
+        "parliament_code": "P66",
+        "parliament_code_num": "66",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "200",
+        "name": "Menglembu",
+        "negeri_code": "pr",
+        "parliament_code": "P66",
+        "parliament_code_num": "66",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "201",
+        "name": "Tronoh",
+        "negeri_code": "pr",
+        "parliament_code": "P66",
+        "parliament_code_num": "66",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "202",
+        "name": "Bukit Chandan",
+        "negeri_code": "pr",
+        "parliament_code": "P67",
+        "parliament_code_num": "67",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "203",
+        "name": "Manong",
+        "negeri_code": "pr",
+        "parliament_code": "P67",
+        "parliament_code_num": "67",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "204",
+        "name": "Pengkalan Baru",
+        "negeri_code": "pr",
+        "parliament_code": "P68",
+        "parliament_code_num": "68",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "205",
+        "name": "Pantai Remis",
+        "negeri_code": "pr",
+        "parliament_code": "P68",
+        "parliament_code_num": "68",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "206",
+        "name": "Belanja",
+        "negeri_code": "pr",
+        "parliament_code": "P69",
+        "parliament_code_num": "69",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "207",
+        "name": "Bota",
+        "negeri_code": "pr",
+        "parliament_code": "P69",
+        "parliament_code_num": "69",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "208",
+        "name": "Malim Nawar",
+        "negeri_code": "pr",
+        "parliament_code": "P70",
+        "parliament_code_num": "70",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "209",
+        "name": "Keranji",
+        "negeri_code": "pr",
+        "parliament_code": "P70",
+        "parliament_code_num": "70",
+        "state_code": "N41",
+        "state_code_num": "41"
+    },
+    {
+        "id": "210",
+        "name": "Tualang Sekah",
+        "negeri_code": "pr",
+        "parliament_code": "P70",
+        "parliament_code_num": "70",
+        "state_code": "N42",
+        "state_code_num": "42"
+    },
+    {
+        "id": "211",
+        "name": "Sungai Rapat",
+        "negeri_code": "pr",
+        "parliament_code": "P71",
+        "parliament_code_num": "71",
+        "state_code": "N43",
+        "state_code_num": "43"
+    },
+    {
+        "id": "212",
+        "name": "Simpang Pulai",
+        "negeri_code": "pr",
+        "parliament_code": "P71",
+        "parliament_code_num": "71",
+        "state_code": "N44",
+        "state_code_num": "44"
+    },
+    {
+        "id": "213",
+        "name": "Teja",
+        "negeri_code": "pr",
+        "parliament_code": "P71",
+        "parliament_code_num": "71",
+        "state_code": "N45",
+        "state_code_num": "45"
+    },
+    {
+        "id": "214",
+        "name": "Chenderiang",
+        "negeri_code": "pr",
+        "parliament_code": "P72",
+        "parliament_code_num": "72",
+        "state_code": "N46",
+        "state_code_num": "46"
+    },
+    {
+        "id": "215",
+        "name": "Ayer Kuning",
+        "negeri_code": "pr",
+        "parliament_code": "P72",
+        "parliament_code_num": "72",
+        "state_code": "N47",
+        "state_code_num": "47"
+    },
+    {
+        "id": "216",
+        "name": "Sungei Manik",
+        "negeri_code": "pr",
+        "parliament_code": "P73",
+        "parliament_code_num": "73",
+        "state_code": "N48",
+        "state_code_num": "48"
+    },
+    {
+        "id": "217",
+        "name": "Kampong Gajah",
+        "negeri_code": "pr",
+        "parliament_code": "P73",
+        "parliament_code_num": "73",
+        "state_code": "N49",
+        "state_code_num": "49"
+    },
+    {
+        "id": "218",
+        "name": "Sitiawan",
+        "negeri_code": "pr",
+        "parliament_code": "P74",
+        "parliament_code_num": "74",
+        "state_code": "N50",
+        "state_code_num": "50"
+    },
+    {
+        "id": "219",
+        "name": "Pasir Panjang",
+        "negeri_code": "pr",
+        "parliament_code": "P74",
+        "parliament_code_num": "74",
+        "state_code": "N51",
+        "state_code_num": "51"
+    },
+    {
+        "id": "220",
+        "name": "Pangkor",
+        "negeri_code": "pr",
+        "parliament_code": "P74",
+        "parliament_code_num": "74",
+        "state_code": "N52",
+        "state_code_num": "52"
+    },
+    {
+        "id": "221",
+        "name": "Rungkup",
+        "negeri_code": "pr",
+        "parliament_code": "P75",
+        "parliament_code_num": "75",
+        "state_code": "N53",
+        "state_code_num": "53"
+    },
+    {
+        "id": "222",
+        "name": "Hutan Melintang",
+        "negeri_code": "pr",
+        "parliament_code": "P75",
+        "parliament_code_num": "75",
+        "state_code": "N54",
+        "state_code_num": "54"
+    },
+    {
+        "id": "223",
+        "name": "Pasir Bedemar",
+        "negeri_code": "pr",
+        "parliament_code": "P76",
+        "parliament_code_num": "76",
+        "state_code": "N55",
+        "state_code_num": "55"
+    },
+    {
+        "id": "224",
+        "name": "Changkat Jong",
+        "negeri_code": "pr",
+        "parliament_code": "P76",
+        "parliament_code_num": "76",
+        "state_code": "N56",
+        "state_code_num": "56"
+    },
+    {
+        "id": "225",
+        "name": "Sungkai",
+        "negeri_code": "pr",
+        "parliament_code": "P77",
+        "parliament_code_num": "77",
+        "state_code": "N57",
+        "state_code_num": "57"
+    },
+    {
+        "id": "226",
+        "name": "Slim",
+        "negeri_code": "pr",
+        "parliament_code": "P77",
+        "parliament_code_num": "77",
+        "state_code": "N58",
+        "state_code_num": "58"
+    },
+    {
+        "id": "227",
+        "name": "Behrang",
+        "negeri_code": "pr",
+        "parliament_code": "P77",
+        "parliament_code_num": "77",
+        "state_code": "N59",
+        "state_code_num": "59"
+    },
+    {
+        "id": "228",
+        "name": "Tanah Rata",
+        "negeri_code": "ph",
+        "parliament_code": "P78",
+        "parliament_code_num": "78",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "229",
+        "name": "Jelai",
+        "negeri_code": "ph",
+        "parliament_code": "P78",
+        "parliament_code_num": "78",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "230",
+        "name": "Padang Tengku",
+        "negeri_code": "ph",
+        "parliament_code": "P79",
+        "parliament_code_num": "79",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "231",
+        "name": "Ceka",
+        "negeri_code": "ph",
+        "parliament_code": "P79",
+        "parliament_code_num": "79",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "232",
+        "name": "Benta",
+        "negeri_code": "ph",
+        "parliament_code": "P79",
+        "parliament_code_num": "79",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "233",
+        "name": "Batu Talam",
+        "negeri_code": "ph",
+        "parliament_code": "P80",
+        "parliament_code_num": "80",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "234",
+        "name": "Teras",
+        "negeri_code": "ph",
+        "parliament_code": "P80",
+        "parliament_code_num": "80",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "235",
+        "name": "Dong",
+        "negeri_code": "ph",
+        "parliament_code": "P80",
+        "parliament_code_num": "80",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "236",
+        "name": "Tahan",
+        "negeri_code": "ph",
+        "parliament_code": "P81",
+        "parliament_code_num": "81",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "237",
+        "name": "Damak",
+        "negeri_code": "ph",
+        "parliament_code": "P81",
+        "parliament_code_num": "81",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "238",
+        "name": "Pulau Tawar",
+        "negeri_code": "ph",
+        "parliament_code": "P81",
+        "parliament_code_num": "81",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "239",
+        "name": "Beserah",
+        "negeri_code": "ph",
+        "parliament_code": "P82",
+        "parliament_code_num": "82",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "240",
+        "name": "Semambu",
+        "negeri_code": "ph",
+        "parliament_code": "P82",
+        "parliament_code_num": "82",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "241",
+        "name": "Teruntum",
+        "negeri_code": "ph",
+        "parliament_code": "P83",
+        "parliament_code_num": "83",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "242",
+        "name": "Tanjung Lumpur",
+        "negeri_code": "ph",
+        "parliament_code": "P83",
+        "parliament_code_num": "83",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "243",
+        "name": "Inderapura",
+        "negeri_code": "ph",
+        "parliament_code": "P83",
+        "parliament_code_num": "83",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "244",
+        "name": "Sungai Lembing",
+        "negeri_code": "ph",
+        "parliament_code": "P84",
+        "parliament_code_num": "84",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "245",
+        "name": "Lepar",
+        "negeri_code": "ph",
+        "parliament_code": "P84",
+        "parliament_code_num": "84",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "246",
+        "name": "Panching",
+        "negeri_code": "ph",
+        "parliament_code": "P84",
+        "parliament_code_num": "84",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "247",
+        "name": "Pulau Manis",
+        "negeri_code": "ph",
+        "parliament_code": "P85",
+        "parliament_code_num": "85",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "248",
+        "name": "Peramu Jaya",
+        "negeri_code": "ph",
+        "parliament_code": "P85",
+        "parliament_code_num": "85",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "249",
+        "name": "Bebar",
+        "negeri_code": "ph",
+        "parliament_code": "P85",
+        "parliament_code_num": "85",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "250",
+        "name": "Cini",
+        "negeri_code": "ph",
+        "parliament_code": "P85",
+        "parliament_code_num": "85",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "251",
+        "name": "Luit",
+        "negeri_code": "ph",
+        "parliament_code": "P86",
+        "parliament_code_num": "86",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "252",
+        "name": "Kuala Sentul",
+        "negeri_code": "ph",
+        "parliament_code": "P86",
+        "parliament_code_num": "86",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "253",
+        "name": "Cenur",
+        "negeri_code": "ph",
+        "parliament_code": "P86",
+        "parliament_code_num": "86",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "254",
+        "name": "Jenderak",
+        "negeri_code": "ph",
+        "parliament_code": "P87",
+        "parliament_code_num": "87",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "255",
+        "name": "Kerdau",
+        "negeri_code": "ph",
+        "parliament_code": "P87",
+        "parliament_code_num": "87",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "256",
+        "name": "Jengka",
+        "negeri_code": "ph",
+        "parliament_code": "P87",
+        "parliament_code_num": "87",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "257",
+        "name": "Mentakab",
+        "negeri_code": "ph",
+        "parliament_code": "P88",
+        "parliament_code_num": "88",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "258",
+        "name": "Lancang",
+        "negeri_code": "ph",
+        "parliament_code": "P88",
+        "parliament_code_num": "88",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "259",
+        "name": "Kuala Semantan",
+        "negeri_code": "ph",
+        "parliament_code": "P88",
+        "parliament_code_num": "88",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "260",
+        "name": "Bilut",
+        "negeri_code": "ph",
+        "parliament_code": "P89",
+        "parliament_code_num": "89",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "261",
+        "name": "Ketari",
+        "negeri_code": "ph",
+        "parliament_code": "P89",
+        "parliament_code_num": "89",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "262",
+        "name": "Sabai",
+        "negeri_code": "ph",
+        "parliament_code": "P89",
+        "parliament_code_num": "89",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "263",
+        "name": "Pelangai",
+        "negeri_code": "ph",
+        "parliament_code": "P89",
+        "parliament_code_num": "89",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "264",
+        "name": "Guai",
+        "negeri_code": "ph",
+        "parliament_code": "P90",
+        "parliament_code_num": "90",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "265",
+        "name": "Teriang",
+        "negeri_code": "ph",
+        "parliament_code": "P90",
+        "parliament_code_num": "90",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "266",
+        "name": "Kemayan",
+        "negeri_code": "ph",
+        "parliament_code": "P90",
+        "parliament_code_num": "90",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "267",
+        "name": "Bukit Ibam",
+        "negeri_code": "ph",
+        "parliament_code": "P91",
+        "parliament_code_num": "91",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "268",
+        "name": "Muadzam Shah",
+        "negeri_code": "ph",
+        "parliament_code": "P91",
+        "parliament_code_num": "91",
+        "state_code": "N41",
+        "state_code_num": "41"
+    },
+    {
+        "id": "269",
+        "name": "Tioman",
+        "negeri_code": "ph",
+        "parliament_code": "P91",
+        "parliament_code_num": "91",
+        "state_code": "N42",
+        "state_code_num": "42"
+    },
+    {
+        "id": "270",
+        "name": "Sungai Ayer Tawar",
+        "negeri_code": "sl",
+        "parliament_code": "P92",
+        "parliament_code_num": "92",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "271",
+        "name": "Sabak",
+        "negeri_code": "sl",
+        "parliament_code": "P92",
+        "parliament_code_num": "92",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "272",
+        "name": "Sungai Panjang",
+        "negeri_code": "sl",
+        "parliament_code": "P93",
+        "parliament_code_num": "93",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "273",
+        "name": "Sekinchan",
+        "negeri_code": "sl",
+        "parliament_code": "P93",
+        "parliament_code_num": "93",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "274",
+        "name": "Ulu Bernam",
+        "negeri_code": "sl",
+        "parliament_code": "P94",
+        "parliament_code_num": "94",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "275",
+        "name": "Kuala Kubu Bahru",
+        "negeri_code": "sl",
+        "parliament_code": "P94",
+        "parliament_code_num": "94",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "276",
+        "name": "Batang Kali",
+        "negeri_code": "sl",
+        "parliament_code": "P94",
+        "parliament_code_num": "94",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "277",
+        "name": "Sungai Burong",
+        "negeri_code": "sl",
+        "parliament_code": "P95",
+        "parliament_code_num": "95",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "278",
+        "name": "Permatang",
+        "negeri_code": "sl",
+        "parliament_code": "P95",
+        "parliament_code_num": "95",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "279",
+        "name": "Bukit Melawati",
+        "negeri_code": "sl",
+        "parliament_code": "P96",
+        "parliament_code_num": "96",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "280",
+        "name": "Ijok",
+        "negeri_code": "sl",
+        "parliament_code": "P96",
+        "parliament_code_num": "96",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "281",
+        "name": "Jeram",
+        "negeri_code": "sl",
+        "parliament_code": "P96",
+        "parliament_code_num": "96",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "282",
+        "name": "Kuang",
+        "negeri_code": "sl",
+        "parliament_code": "P97",
+        "parliament_code_num": "97",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "283",
+        "name": "Rawang",
+        "negeri_code": "sl",
+        "parliament_code": "P97",
+        "parliament_code_num": "97",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "284",
+        "name": "Taman Templar",
+        "negeri_code": "sl",
+        "parliament_code": "P97",
+        "parliament_code_num": "97",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "285",
+        "name": "Batu Caves",
+        "negeri_code": "sl",
+        "parliament_code": "P98",
+        "parliament_code_num": "98",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "286",
+        "name": "Gombak Setia",
+        "negeri_code": "sl",
+        "parliament_code": "P98",
+        "parliament_code_num": "98",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "287",
+        "name": "Ulu Kelang",
+        "negeri_code": "sl",
+        "parliament_code": "P98",
+        "parliament_code_num": "98",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "288",
+        "name": "Bukit Antarabangsa",
+        "negeri_code": "sl",
+        "parliament_code": "P99",
+        "parliament_code_num": "99",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "289",
+        "name": "Lembah Jaya",
+        "negeri_code": "sl",
+        "parliament_code": "P99",
+        "parliament_code_num": "99",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "290",
+        "name": "Chempaka",
+        "negeri_code": "sl",
+        "parliament_code": "P100",
+        "parliament_code_num": "100",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "291",
+        "name": "Teratai",
+        "negeri_code": "sl",
+        "parliament_code": "P100",
+        "parliament_code_num": "100",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "292",
+        "name": "Dusun Tua",
+        "negeri_code": "sl",
+        "parliament_code": "P101",
+        "parliament_code_num": "101",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "293",
+        "name": "Semenyih",
+        "negeri_code": "sl",
+        "parliament_code": "P101",
+        "parliament_code_num": "101",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "294",
+        "name": "Kajang",
+        "negeri_code": "sl",
+        "parliament_code": "P101",
+        "parliament_code_num": "101",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "295",
+        "name": "Bangi",
+        "negeri_code": "sl",
+        "parliament_code": "P102",
+        "parliament_code_num": "102",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "296",
+        "name": "Balakong",
+        "negeri_code": "sl",
+        "parliament_code": "P102",
+        "parliament_code_num": "102",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "297",
+        "name": "Sri Kembangan",
+        "negeri_code": "sl",
+        "parliament_code": "P102",
+        "parliament_code_num": "102",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "298",
+        "name": "Sri Serdang",
+        "negeri_code": "sl",
+        "parliament_code": "P103",
+        "parliament_code_num": "103",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "299",
+        "name": "Kinrara",
+        "negeri_code": "sl",
+        "parliament_code": "P103",
+        "parliament_code_num": "103",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "300",
+        "name": "Subang Jaya",
+        "negeri_code": "sl",
+        "parliament_code": "P104",
+        "parliament_code_num": "104",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "301",
+        "name": "Seri Setia",
+        "negeri_code": "sl",
+        "parliament_code": "P104",
+        "parliament_code_num": "104",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "302",
+        "name": "Taman Medan",
+        "negeri_code": "sl",
+        "parliament_code": "P105",
+        "parliament_code_num": "105",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "303",
+        "name": "Bukit Gasing",
+        "negeri_code": "sl",
+        "parliament_code": "P105",
+        "parliament_code_num": "105",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "304",
+        "name": "Kampung Tunku",
+        "negeri_code": "sl",
+        "parliament_code": "P106",
+        "parliament_code_num": "106",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "305",
+        "name": "Damansara Utama",
+        "negeri_code": "sl",
+        "parliament_code": "P106",
+        "parliament_code_num": "106",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "306",
+        "name": "Bukit Lanjan",
+        "negeri_code": "sl",
+        "parliament_code": "P107",
+        "parliament_code_num": "107",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "307",
+        "name": "Paya Jaras",
+        "negeri_code": "sl",
+        "parliament_code": "P107",
+        "parliament_code_num": "107",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "308",
+        "name": "Kota Damansara",
+        "negeri_code": "sl",
+        "parliament_code": "P107",
+        "parliament_code_num": "107",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "309",
+        "name": "Kota Anggerik",
+        "negeri_code": "sl",
+        "parliament_code": "P108",
+        "parliament_code_num": "108",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "310",
+        "name": "Batu Tiga",
+        "negeri_code": "sl",
+        "parliament_code": "P108",
+        "parliament_code_num": "108",
+        "state_code": "N41",
+        "state_code_num": "41"
+    },
+    {
+        "id": "311",
+        "name": "Meru",
+        "negeri_code": "sl",
+        "parliament_code": "P109",
+        "parliament_code_num": "109",
+        "state_code": "N42",
+        "state_code_num": "42"
+    },
+    {
+        "id": "312",
+        "name": "Sementa",
+        "negeri_code": "sl",
+        "parliament_code": "P109",
+        "parliament_code_num": "109",
+        "state_code": "N43",
+        "state_code_num": "43"
+    },
+    {
+        "id": "313",
+        "name": "Sungai Pinang",
+        "negeri_code": "sl",
+        "parliament_code": "P109",
+        "parliament_code_num": "109",
+        "state_code": "N44",
+        "state_code_num": "44"
+    },
+    {
+        "id": "314",
+        "name": "Selat Klang",
+        "negeri_code": "sl",
+        "parliament_code": "P109",
+        "parliament_code_num": "109",
+        "state_code": "N45",
+        "state_code_num": "45"
+    },
+    {
+        "id": "315",
+        "name": "Pelabuhan Klang",
+        "negeri_code": "sl",
+        "parliament_code": "P110",
+        "parliament_code_num": "110",
+        "state_code": "N46",
+        "state_code_num": "46"
+    },
+    {
+        "id": "316",
+        "name": "Pandamaran",
+        "negeri_code": "sl",
+        "parliament_code": "P110",
+        "parliament_code_num": "110",
+        "state_code": "N47",
+        "state_code_num": "47"
+    },
+    {
+        "id": "317",
+        "name": "Kota Alam Shah",
+        "negeri_code": "sl",
+        "parliament_code": "P110",
+        "parliament_code_num": "110",
+        "state_code": "N48",
+        "state_code_num": "48"
+    },
+    {
+        "id": "318",
+        "name": "Seri Andalas",
+        "negeri_code": "sl",
+        "parliament_code": "P111",
+        "parliament_code_num": "111",
+        "state_code": "N49",
+        "state_code_num": "49"
+    },
+    {
+        "id": "319",
+        "name": "Sri Muda",
+        "negeri_code": "sl",
+        "parliament_code": "P111",
+        "parliament_code_num": "111",
+        "state_code": "N50",
+        "state_code_num": "50"
+    },
+    {
+        "id": "320",
+        "name": "Sijangkang",
+        "negeri_code": "sl",
+        "parliament_code": "P112",
+        "parliament_code_num": "112",
+        "state_code": "N51",
+        "state_code_num": "51"
+    },
+    {
+        "id": "321",
+        "name": "Teluk Datuk",
+        "negeri_code": "sl",
+        "parliament_code": "P112",
+        "parliament_code_num": "112",
+        "state_code": "N52",
+        "state_code_num": "52"
+    },
+    {
+        "id": "322",
+        "name": "Morib",
+        "negeri_code": "sl",
+        "parliament_code": "P112",
+        "parliament_code_num": "112",
+        "state_code": "N53",
+        "state_code_num": "53"
+    },
+    {
+        "id": "323",
+        "name": "Tanjong Sepat",
+        "negeri_code": "sl",
+        "parliament_code": "P113",
+        "parliament_code_num": "113",
+        "state_code": "N54",
+        "state_code_num": "54"
+    },
+    {
+        "id": "324",
+        "name": "Dengkil",
+        "negeri_code": "sl",
+        "parliament_code": "P113",
+        "parliament_code_num": "113",
+        "state_code": "N55",
+        "state_code_num": "55"
+    },
+    {
+        "id": "325",
+        "name": "Sungai Pelek",
+        "negeri_code": "sl",
+        "parliament_code": "P113",
+        "parliament_code_num": "113",
+        "state_code": "N56",
+        "state_code_num": "56"
+    },
+    {
+        "id": "326",
+        "name": "Chennah",
+        "negeri_code": "ns",
+        "parliament_code": "P126",
+        "parliament_code_num": "126",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "327",
+        "name": "Pertang",
+        "negeri_code": "ns",
+        "parliament_code": "P126",
+        "parliament_code_num": "126",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "328",
+        "name": "Sungai Lui",
+        "negeri_code": "ns",
+        "parliament_code": "P126",
+        "parliament_code_num": "126",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "329",
+        "name": "Klawang",
+        "negeri_code": "ns",
+        "parliament_code": "P126",
+        "parliament_code_num": "126",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "330",
+        "name": "Serting",
+        "negeri_code": "ns",
+        "parliament_code": "P127",
+        "parliament_code_num": "127",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "331",
+        "name": "Palong",
+        "negeri_code": "ns",
+        "parliament_code": "P127",
+        "parliament_code_num": "127",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "332",
+        "name": "Jeram Padang",
+        "negeri_code": "ns",
+        "parliament_code": "P127",
+        "parliament_code_num": "127",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "333",
+        "name": "Bahau",
+        "negeri_code": "ns",
+        "parliament_code": "P127",
+        "parliament_code_num": "127",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "334",
+        "name": "Lenggeng",
+        "negeri_code": "ns",
+        "parliament_code": "P128",
+        "parliament_code_num": "128",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "335",
+        "name": "Nilai",
+        "negeri_code": "ns",
+        "parliament_code": "P128",
+        "parliament_code_num": "128",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "336",
+        "name": "Lobak",
+        "negeri_code": "ns",
+        "parliament_code": "P128",
+        "parliament_code_num": "128",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "337",
+        "name": "Temiang",
+        "negeri_code": "ns",
+        "parliament_code": "P128",
+        "parliament_code_num": "128",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "338",
+        "name": "Sikamat",
+        "negeri_code": "ns",
+        "parliament_code": "P128",
+        "parliament_code_num": "128",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "339",
+        "name": "Ampangan",
+        "negeri_code": "ns",
+        "parliament_code": "P128",
+        "parliament_code_num": "128",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "340",
+        "name": "Juasseh",
+        "negeri_code": "ns",
+        "parliament_code": "P129",
+        "parliament_code_num": "129",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "341",
+        "name": "Seri Menanti",
+        "negeri_code": "ns",
+        "parliament_code": "P129",
+        "parliament_code_num": "129",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "342",
+        "name": "Senaling",
+        "negeri_code": "ns",
+        "parliament_code": "P129",
+        "parliament_code_num": "129",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "343",
+        "name": "Pilah",
+        "negeri_code": "ns",
+        "parliament_code": "P129",
+        "parliament_code_num": "129",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "344",
+        "name": "Johol",
+        "negeri_code": "ns",
+        "parliament_code": "P129",
+        "parliament_code_num": "129",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "345",
+        "name": "Labu",
+        "negeri_code": "ns",
+        "parliament_code": "P130",
+        "parliament_code_num": "130",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "346",
+        "name": "Bukit Kepayang",
+        "negeri_code": "ns",
+        "parliament_code": "P130",
+        "parliament_code_num": "130",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "347",
+        "name": "Rahang",
+        "negeri_code": "ns",
+        "parliament_code": "P130",
+        "parliament_code_num": "130",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "348",
+        "name": "Mambau",
+        "negeri_code": "ns",
+        "parliament_code": "P130",
+        "parliament_code_num": "130",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "349",
+        "name": "Senawang",
+        "negeri_code": "ns",
+        "parliament_code": "P130",
+        "parliament_code_num": "130",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "350",
+        "name": "Paroi",
+        "negeri_code": "ns",
+        "parliament_code": "P131",
+        "parliament_code_num": "131",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "351",
+        "name": "Chembong",
+        "negeri_code": "ns",
+        "parliament_code": "P131",
+        "parliament_code_num": "131",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "352",
+        "name": "Rantau",
+        "negeri_code": "ns",
+        "parliament_code": "P131",
+        "parliament_code_num": "131",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "353",
+        "name": "Kota",
+        "negeri_code": "ns",
+        "parliament_code": "P131",
+        "parliament_code_num": "131",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "354",
+        "name": "Chuah",
+        "negeri_code": "ns",
+        "parliament_code": "P132",
+        "parliament_code_num": "132",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "355",
+        "name": "Lukut",
+        "negeri_code": "ns",
+        "parliament_code": "P132",
+        "parliament_code_num": "132",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "356",
+        "name": "Bagan Pinang",
+        "negeri_code": "ns",
+        "parliament_code": "P132",
+        "parliament_code_num": "132",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "357",
+        "name": "Linggi",
+        "negeri_code": "ns",
+        "parliament_code": "P132",
+        "parliament_code_num": "132",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "358",
+        "name": "Port Dickson",
+        "negeri_code": "ns",
+        "parliament_code": "P132",
+        "parliament_code_num": "132",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "359",
+        "name": "Gemas",
+        "negeri_code": "ns",
+        "parliament_code": "P133",
+        "parliament_code_num": "133",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "360",
+        "name": "Gemencheh",
+        "negeri_code": "ns",
+        "parliament_code": "P133",
+        "parliament_code_num": "133",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "361",
+        "name": "Repah",
+        "negeri_code": "ns",
+        "parliament_code": "P133",
+        "parliament_code_num": "133",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "362",
+        "name": "Kuala Linggi",
+        "negeri_code": "mk",
+        "parliament_code": "P134",
+        "parliament_code_num": "134",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "363",
+        "name": "Tanjong Bidara",
+        "negeri_code": "mk",
+        "parliament_code": "P134",
+        "parliament_code_num": "134",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "364",
+        "name": "Ayer Limau",
+        "negeri_code": "mk",
+        "parliament_code": "P134",
+        "parliament_code_num": "134",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "365",
+        "name": "Lendu",
+        "negeri_code": "mk",
+        "parliament_code": "P134",
+        "parliament_code_num": "134",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "366",
+        "name": "Taboh Naning",
+        "negeri_code": "mk",
+        "parliament_code": "P134",
+        "parliament_code_num": "134",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "367",
+        "name": "Rembia",
+        "negeri_code": "mk",
+        "parliament_code": "P135",
+        "parliament_code_num": "135",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "368",
+        "name": "Gadek",
+        "negeri_code": "mk",
+        "parliament_code": "P135",
+        "parliament_code_num": "135",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "369",
+        "name": "Machap",
+        "negeri_code": "mk",
+        "parliament_code": "P135",
+        "parliament_code_num": "135",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "370",
+        "name": "Durian Tunggal",
+        "negeri_code": "mk",
+        "parliament_code": "P135",
+        "parliament_code_num": "135",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "371",
+        "name": "Asahan",
+        "negeri_code": "mk",
+        "parliament_code": "P135",
+        "parliament_code_num": "135",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "372",
+        "name": "Sungai Udang",
+        "negeri_code": "mk",
+        "parliament_code": "P136",
+        "parliament_code_num": "136",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "373",
+        "name": "Pantai Kundor",
+        "negeri_code": "mk",
+        "parliament_code": "P136",
+        "parliament_code_num": "136",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "374",
+        "name": "Paya Rumput",
+        "negeri_code": "mk",
+        "parliament_code": "P136",
+        "parliament_code_num": "136",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "375",
+        "name": "Kelebang",
+        "negeri_code": "mk",
+        "parliament_code": "P136",
+        "parliament_code_num": "136",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "376",
+        "name": "Bachang",
+        "negeri_code": "mk",
+        "parliament_code": "P137",
+        "parliament_code_num": "137",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "377",
+        "name": "Ayer Keroh",
+        "negeri_code": "mk",
+        "parliament_code": "P137",
+        "parliament_code_num": "137",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "378",
+        "name": "Bukit Baru",
+        "negeri_code": "mk",
+        "parliament_code": "P137",
+        "parliament_code_num": "137",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "379",
+        "name": "Ayer Molek",
+        "negeri_code": "mk",
+        "parliament_code": "P137",
+        "parliament_code_num": "137",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "380",
+        "name": "Kesidang",
+        "negeri_code": "mk",
+        "parliament_code": "P138",
+        "parliament_code_num": "138",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "381",
+        "name": "Kota Laksamana",
+        "negeri_code": "mk",
+        "parliament_code": "P138",
+        "parliament_code_num": "138",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "382",
+        "name": "Duyong",
+        "negeri_code": "mk",
+        "parliament_code": "P138",
+        "parliament_code_num": "138",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "383",
+        "name": "Bandar Hilir",
+        "negeri_code": "mk",
+        "parliament_code": "P138",
+        "parliament_code_num": "138",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "384",
+        "name": "Telok Mas",
+        "negeri_code": "mk",
+        "parliament_code": "P138",
+        "parliament_code_num": "138",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "385",
+        "name": "Bemban",
+        "negeri_code": "mk",
+        "parliament_code": "P139",
+        "parliament_code_num": "139",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "386",
+        "name": "Rim",
+        "negeri_code": "mk",
+        "parliament_code": "P139",
+        "parliament_code_num": "139",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "387",
+        "name": "Serkam",
+        "negeri_code": "mk",
+        "parliament_code": "P139",
+        "parliament_code_num": "139",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "388",
+        "name": "Merlimau",
+        "negeri_code": "mk",
+        "parliament_code": "P139",
+        "parliament_code_num": "139",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "389",
+        "name": "Sungai Rambai",
+        "negeri_code": "mk",
+        "parliament_code": "P139",
+        "parliament_code_num": "139",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "390",
+        "name": "Buloh Kasap",
+        "negeri_code": "jh",
+        "parliament_code": "P140",
+        "parliament_code_num": "140",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "391",
+        "name": "Jemetah",
+        "negeri_code": "jh",
+        "parliament_code": "P140",
+        "parliament_code_num": "140",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "392",
+        "name": "Pemanis",
+        "negeri_code": "jh",
+        "parliament_code": "P141",
+        "parliament_code_num": "141",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "393",
+        "name": "Kemelah",
+        "negeri_code": "jh",
+        "parliament_code": "P141",
+        "parliament_code_num": "141",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "394",
+        "name": "Tenang",
+        "negeri_code": "jh",
+        "parliament_code": "P142",
+        "parliament_code_num": "142",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "395",
+        "name": "Bekok",
+        "negeri_code": "jh",
+        "parliament_code": "P142",
+        "parliament_code_num": "142",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "396",
+        "name": "Bukit Serampang",
+        "negeri_code": "jh",
+        "parliament_code": "P143",
+        "parliament_code_num": "143",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "397",
+        "name": "Jorak",
+        "negeri_code": "jh",
+        "parliament_code": "P143",
+        "parliament_code_num": "143",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "398",
+        "name": "Gambir",
+        "negeri_code": "jh",
+        "parliament_code": "P144",
+        "parliament_code_num": "144",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "399",
+        "name": "Tangkak",
+        "negeri_code": "jh",
+        "parliament_code": "P144",
+        "parliament_code_num": "144",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "400",
+        "name": "Serom",
+        "negeri_code": "jh",
+        "parliament_code": "P144",
+        "parliament_code_num": "144",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "401",
+        "name": "Bentayan",
+        "negeri_code": "jh",
+        "parliament_code": "P145",
+        "parliament_code_num": "145",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "402",
+        "name": "Sungai Abong",
+        "negeri_code": "jh",
+        "parliament_code": "P145",
+        "parliament_code_num": "145",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "403",
+        "name": "Bukit Naning",
+        "negeri_code": "jh",
+        "parliament_code": "P145",
+        "parliament_code_num": "145",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "404",
+        "name": "Maharani",
+        "negeri_code": "jh",
+        "parliament_code": "P146",
+        "parliament_code_num": "146",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "405",
+        "name": "Sungai Balang",
+        "negeri_code": "jh",
+        "parliament_code": "P146",
+        "parliament_code_num": "146",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "406",
+        "name": "Semerah",
+        "negeri_code": "jh",
+        "parliament_code": "P147",
+        "parliament_code_num": "147",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "407",
+        "name": "Sri Medan",
+        "negeri_code": "jh",
+        "parliament_code": "P147",
+        "parliament_code_num": "147",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "408",
+        "name": "Yong Peng",
+        "negeri_code": "jh",
+        "parliament_code": "P148",
+        "parliament_code_num": "148",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "409",
+        "name": "Semarang",
+        "negeri_code": "jh",
+        "parliament_code": "P148",
+        "parliament_code_num": "148",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "410",
+        "name": "Parit Yaani",
+        "negeri_code": "jh",
+        "parliament_code": "P149",
+        "parliament_code_num": "149",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "411",
+        "name": "Parit Raja",
+        "negeri_code": "jh",
+        "parliament_code": "P149",
+        "parliament_code_num": "149",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "412",
+        "name": "Penggaram",
+        "negeri_code": "jh",
+        "parliament_code": "P150",
+        "parliament_code_num": "150",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "413",
+        "name": "Senggarang",
+        "negeri_code": "jh",
+        "parliament_code": "P150",
+        "parliament_code_num": "150",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "414",
+        "name": "Rengit",
+        "negeri_code": "jh",
+        "parliament_code": "P150",
+        "parliament_code_num": "150",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "415",
+        "name": "Machap",
+        "negeri_code": "jh",
+        "parliament_code": "P151",
+        "parliament_code_num": "151",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "416",
+        "name": "Layang-Layang",
+        "negeri_code": "jh",
+        "parliament_code": "P151",
+        "parliament_code_num": "151",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "417",
+        "name": "Mengkibol",
+        "negeri_code": "jh",
+        "parliament_code": "P152",
+        "parliament_code_num": "152",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "418",
+        "name": "Mahkota",
+        "negeri_code": "jh",
+        "parliament_code": "P152",
+        "parliament_code_num": "152",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "419",
+        "name": "Paloh",
+        "negeri_code": "jh",
+        "parliament_code": "P153",
+        "parliament_code_num": "153",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "420",
+        "name": "Kahang",
+        "negeri_code": "jh",
+        "parliament_code": "P153",
+        "parliament_code_num": "153",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "421",
+        "name": "Endau",
+        "negeri_code": "jh",
+        "parliament_code": "P154",
+        "parliament_code_num": "154",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "422",
+        "name": "Tenggaroh",
+        "negeri_code": "jh",
+        "parliament_code": "P154",
+        "parliament_code_num": "154",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "423",
+        "name": "Panti",
+        "negeri_code": "jh",
+        "parliament_code": "P155",
+        "parliament_code_num": "155",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "424",
+        "name": "Pasir Raja",
+        "negeri_code": "jh",
+        "parliament_code": "P155",
+        "parliament_code_num": "155",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "425",
+        "name": "Sedili",
+        "negeri_code": "jh",
+        "parliament_code": "P156",
+        "parliament_code_num": "156",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "426",
+        "name": "Johor Lama",
+        "negeri_code": "jh",
+        "parliament_code": "P156",
+        "parliament_code_num": "156",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "427",
+        "name": "Penawar",
+        "negeri_code": "jh",
+        "parliament_code": "P157",
+        "parliament_code_num": "157",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "428",
+        "name": "Tanjong Surat",
+        "negeri_code": "jh",
+        "parliament_code": "P157",
+        "parliament_code_num": "157",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "429",
+        "name": "Tiram",
+        "negeri_code": "jh",
+        "parliament_code": "P158",
+        "parliament_code_num": "158",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "430",
+        "name": "Puteri Wangsa",
+        "negeri_code": "jh",
+        "parliament_code": "P158",
+        "parliament_code_num": "158",
+        "state_code": "N41",
+        "state_code_num": "41"
+    },
+    {
+        "id": "431",
+        "name": "Johor Jaya",
+        "negeri_code": "jh",
+        "parliament_code": "P159",
+        "parliament_code_num": "159",
+        "state_code": "N42",
+        "state_code_num": "42"
+    },
+    {
+        "id": "432",
+        "name": "Permas",
+        "negeri_code": "jh",
+        "parliament_code": "P159",
+        "parliament_code_num": "159",
+        "state_code": "N43",
+        "state_code_num": "43"
+    },
+    {
+        "id": "433",
+        "name": "Tanjong Puteri",
+        "negeri_code": "jh",
+        "parliament_code": "P160",
+        "parliament_code_num": "160",
+        "state_code": "N44",
+        "state_code_num": "44"
+    },
+    {
+        "id": "434",
+        "name": "Stulang",
+        "negeri_code": "jh",
+        "parliament_code": "P160",
+        "parliament_code_num": "160",
+        "state_code": "N45",
+        "state_code_num": "45"
+    },
+    {
+        "id": "435",
+        "name": "Pengkalan Rinting",
+        "negeri_code": "jh",
+        "parliament_code": "P161",
+        "parliament_code_num": "161",
+        "state_code": "N46",
+        "state_code_num": "46"
+    },
+    {
+        "id": "436",
+        "name": "Kempas",
+        "negeri_code": "jh",
+        "parliament_code": "P161",
+        "parliament_code_num": "161",
+        "state_code": "N47",
+        "state_code_num": "47"
+    },
+    {
+        "id": "437",
+        "name": "Skudai",
+        "negeri_code": "jh",
+        "parliament_code": "P162",
+        "parliament_code_num": "162",
+        "state_code": "N48",
+        "state_code_num": "48"
+    },
+    {
+        "id": "438",
+        "name": "Nusa Jaya",
+        "negeri_code": "jh",
+        "parliament_code": "P162",
+        "parliament_code_num": "162",
+        "state_code": "N49",
+        "state_code_num": "49"
+    },
+    {
+        "id": "439",
+        "name": "Bukit Permai",
+        "negeri_code": "jh",
+        "parliament_code": "P163",
+        "parliament_code_num": "163",
+        "state_code": "N50",
+        "state_code_num": "50"
+    },
+    {
+        "id": "440",
+        "name": "Bukit Batu",
+        "negeri_code": "jh",
+        "parliament_code": "P163",
+        "parliament_code_num": "163",
+        "state_code": "N51",
+        "state_code_num": "51"
+    },
+    {
+        "id": "441",
+        "name": "Senai",
+        "negeri_code": "jh",
+        "parliament_code": "P163",
+        "parliament_code_num": "163",
+        "state_code": "N52",
+        "state_code_num": "52"
+    },
+    {
+        "id": "442",
+        "name": "Benut",
+        "negeri_code": "jh",
+        "parliament_code": "P164",
+        "parliament_code_num": "164",
+        "state_code": "N53",
+        "state_code_num": "53"
+    },
+    {
+        "id": "443",
+        "name": "Pulai Sebatang",
+        "negeri_code": "jh",
+        "parliament_code": "P164",
+        "parliament_code_num": "164",
+        "state_code": "N54",
+        "state_code_num": "54"
+    },
+    {
+        "id": "444",
+        "name": "Pekan Nenas",
+        "negeri_code": "jh",
+        "parliament_code": "P165",
+        "parliament_code_num": "165",
+        "state_code": "N55",
+        "state_code_num": "55"
+    },
+    {
+        "id": "445",
+        "name": "Kukup",
+        "negeri_code": "jh",
+        "parliament_code": "P165",
+        "parliament_code_num": "165",
+        "state_code": "N56",
+        "state_code_num": "56"
+    },
+    {
+        "id": "446",
+        "name": " Tempasuk ",
+        "negeri_code": "sb",
+        "parliament_code": "P169",
+        "parliament_code_num": "169",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "447",
+        "name": " Tandek ",
+        "negeri_code": "sb",
+        "parliament_code": "P168",
+        "parliament_code_num": "168",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "448",
+        "name": " Matunggong ",
+        "negeri_code": "sb",
+        "parliament_code": "P168",
+        "parliament_code_num": "168",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "449",
+        "name": " Banggi ",
+        "negeri_code": "sb",
+        "parliament_code": "P167",
+        "parliament_code_num": "167",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "450",
+        "name": " Tanjong Kapar ",
+        "negeri_code": "sb",
+        "parliament_code": "P167",
+        "parliament_code_num": "167",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "451",
+        "name": " Pitas ",
+        "negeri_code": "sb",
+        "parliament_code": "P167",
+        "parliament_code_num": "167",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "452",
+        "name": " Lahad Datu ",
+        "negeri_code": "sb",
+        "parliament_code": "P188",
+        "parliament_code_num": "188",
+        "state_code": "N50",
+        "state_code_num": "50"
+    },
+    {
+        "id": "453",
+        "name": " Tungku ",
+        "negeri_code": "sb",
+        "parliament_code": "P188",
+        "parliament_code_num": "188",
+        "state_code": "N49",
+        "state_code_num": "49"
+    },
+    {
+        "id": "454",
+        "name": " Sukau ",
+        "negeri_code": "sb",
+        "parliament_code": "P187",
+        "parliament_code_num": "187",
+        "state_code": "N48",
+        "state_code_num": "48"
+    },
+    {
+        "id": "455",
+        "name": " Kuamut ",
+        "negeri_code": "sb",
+        "parliament_code": "P187",
+        "parliament_code_num": "187",
+        "state_code": "N47",
+        "state_code_num": "47"
+    },
+    {
+        "id": "456",
+        "name": " Tanjong Papat ",
+        "negeri_code": "sb",
+        "parliament_code": "P186",
+        "parliament_code_num": "186",
+        "state_code": "N46",
+        "state_code_num": "46"
+    },
+    {
+        "id": "457",
+        "name": " Elopura ",
+        "negeri_code": "sb",
+        "parliament_code": "P186",
+        "parliament_code_num": "186",
+        "state_code": "N45",
+        "state_code_num": "45"
+    },
+    {
+        "id": "458",
+        "name": "  Karamunting ",
+        "negeri_code": "sb",
+        "parliament_code": "P185",
+        "parliament_code_num": "185",
+        "state_code": "N44",
+        "state_code_num": "44"
+    },
+    {
+        "id": "459",
+        "name": " Sekong ",
+        "negeri_code": "sb",
+        "parliament_code": "P185",
+        "parliament_code_num": "185",
+        "state_code": "N43",
+        "state_code_num": "43"
+    },
+    {
+        "id": "460",
+        "name": " Sungai Sibuga ",
+        "negeri_code": "sb",
+        "parliament_code": "P184",
+        "parliament_code_num": "184",
+        "state_code": "N42",
+        "state_code_num": "42"
+    },
+    {
+        "id": "461",
+        "name": " Labuk ",
+        "negeri_code": "sb",
+        "parliament_code": "P183",
+        "parliament_code_num": "183",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "462",
+        "name": " Gum-Gum ",
+        "negeri_code": "sb",
+        "parliament_code": "P184",
+        "parliament_code_num": "184",
+        "state_code": "N41",
+        "state_code_num": "41"
+    },
+    {
+        "id": "463",
+        "name": " Sugut ",
+        "negeri_code": "sb",
+        "parliament_code": "P183",
+        "parliament_code_num": "183",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "464",
+        "name": " Nabawan ",
+        "negeri_code": "sb",
+        "parliament_code": "P182",
+        "parliament_code_num": "182",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "465",
+        "name": " Sook ",
+        "negeri_code": "sb",
+        "parliament_code": "P182",
+        "parliament_code_num": "182",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "466",
+        "name": " Kemabong ",
+        "negeri_code": "sb",
+        "parliament_code": "P181",
+        "parliament_code_num": "181",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "467",
+        "name": " Melalap ",
+        "negeri_code": "sb",
+        "parliament_code": "P181",
+        "parliament_code_num": "181",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "468",
+        "name": " Liawan ",
+        "negeri_code": "sb",
+        "parliament_code": "P180",
+        "parliament_code_num": "180",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "469",
+        "name": " Bingkor ",
+        "negeri_code": "sb",
+        "parliament_code": "P180",
+        "parliament_code_num": "180",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "470",
+        "name": " Tambunan ",
+        "negeri_code": "sb",
+        "parliament_code": "P180",
+        "parliament_code_num": "180",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "471",
+        "name": " Paginatan ",
+        "negeri_code": "sb",
+        "parliament_code": "P179",
+        "parliament_code_num": "179",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "472",
+        "name": " Karanaan ",
+        "negeri_code": "sb",
+        "parliament_code": "P179",
+        "parliament_code_num": "179",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "473",
+        "name": " Kundasang ",
+        "negeri_code": "sb",
+        "parliament_code": "P179",
+        "parliament_code_num": "179",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "474",
+        "name": " Sindumin ",
+        "negeri_code": "sb",
+        "parliament_code": "P178",
+        "parliament_code_num": "178",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "475",
+        "name": " Lumadan ",
+        "negeri_code": "sb",
+        "parliament_code": "P178",
+        "parliament_code_num": "178",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "476",
+        "name": " Klias ",
+        "negeri_code": "sb",
+        "parliament_code": "P177",
+        "parliament_code_num": "177",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "477",
+        "name": " Kuala Penyu ",
+        "negeri_code": "sb",
+        "parliament_code": "P177",
+        "parliament_code_num": "177",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "478",
+        "name": " Bongawan ",
+        "negeri_code": "sb",
+        "parliament_code": "P176",
+        "parliament_code_num": "176",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "479",
+        "name": " Membakut ",
+        "negeri_code": "sb",
+        "parliament_code": "P176",
+        "parliament_code_num": "176",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "480",
+        "name": " Pantai Manis ",
+        "negeri_code": "sb",
+        "parliament_code": "P175",
+        "parliament_code_num": "175",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "481",
+        "name": " Kawang ",
+        "negeri_code": "sb",
+        "parliament_code": "P175",
+        "parliament_code_num": "175",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "482",
+        "name": " Moyog ",
+        "negeri_code": "sb",
+        "parliament_code": "P174",
+        "parliament_code_num": "174",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "483",
+        "name": " Kapayan ",
+        "negeri_code": "sb",
+        "parliament_code": "P174",
+        "parliament_code_num": "174",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "484",
+        "name": " Petagas ",
+        "negeri_code": "sb",
+        "parliament_code": "P173",
+        "parliament_code_num": "173",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "485",
+        "name": " Tanjong Aru ",
+        "negeri_code": "sb",
+        "parliament_code": "P173",
+        "parliament_code_num": "173",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "486",
+        "name": " Api-Api ",
+        "negeri_code": "sb",
+        "parliament_code": "P172",
+        "parliament_code_num": "172",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "487",
+        "name": " Luyang ",
+        "negeri_code": "sb",
+        "parliament_code": "P172",
+        "parliament_code_num": "172",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "488",
+        "name": " Likas ",
+        "negeri_code": "sb",
+        "parliament_code": "P172",
+        "parliament_code_num": "172",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "489",
+        "name": " Inanam ",
+        "negeri_code": "sb",
+        "parliament_code": "P171",
+        "parliament_code_num": "171",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "490",
+        "name": " Karambunai ",
+        "negeri_code": "sb",
+        "parliament_code": "P171",
+        "parliament_code_num": "171",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "491",
+        "name": " Kiulu ",
+        "negeri_code": "sb",
+        "parliament_code": "P170",
+        "parliament_code_num": "170",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "492",
+        "name": " Sulaman ",
+        "negeri_code": "sb",
+        "parliament_code": "P170",
+        "parliament_code_num": "170",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "493",
+        "name": " Tamparuli ",
+        "negeri_code": "sb",
+        "parliament_code": "P170",
+        "parliament_code_num": "170",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "494",
+        "name": " Usukan ",
+        "negeri_code": "sb",
+        "parliament_code": "P169",
+        "parliament_code_num": "169",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "495",
+        "name": " Kadamaian ",
+        "negeri_code": "sb",
+        "parliament_code": "P169",
+        "parliament_code_num": "169",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "496",
+        "name": "Opar",
+        "negeri_code": "sw",
+        "parliament_code": "P192",
+        "parliament_code_num": "192",
+        "state_code": "N1",
+        "state_code_num": "1"
+    },
+    {
+        "id": "497",
+        "name": "Tasik Biru",
+        "negeri_code": "sw",
+        "parliament_code": "P192",
+        "parliament_code_num": "192",
+        "state_code": "N2",
+        "state_code_num": "2"
+    },
+    {
+        "id": "498",
+        "name": "Tanjong Datu",
+        "negeri_code": "sw",
+        "parliament_code": "P193",
+        "parliament_code_num": "193",
+        "state_code": "N3",
+        "state_code_num": "3"
+    },
+    {
+        "id": "499",
+        "name": "Pantai Damai",
+        "negeri_code": "sw",
+        "parliament_code": "P193",
+        "parliament_code_num": "193",
+        "state_code": "N4",
+        "state_code_num": "4"
+    },
+    {
+        "id": "500",
+        "name": "Demak Laut",
+        "negeri_code": "sw",
+        "parliament_code": "P193",
+        "parliament_code_num": "193",
+        "state_code": "N5",
+        "state_code_num": "5"
+    },
+    {
+        "id": "501",
+        "name": "Tupong",
+        "negeri_code": "sw",
+        "parliament_code": "P194",
+        "parliament_code_num": "194",
+        "state_code": "N6",
+        "state_code_num": "6"
+    },
+    {
+        "id": "502",
+        "name": "Samariang",
+        "negeri_code": "sw",
+        "parliament_code": "P194",
+        "parliament_code_num": "194",
+        "state_code": "N7",
+        "state_code_num": "7"
+    },
+    {
+        "id": "503",
+        "name": "Satok",
+        "negeri_code": "sw",
+        "parliament_code": "P194",
+        "parliament_code_num": "194",
+        "state_code": "N8",
+        "state_code_num": "8"
+    },
+    {
+        "id": "504",
+        "name": "Padungan",
+        "negeri_code": "sw",
+        "parliament_code": "P195",
+        "parliament_code_num": "195",
+        "state_code": "N9",
+        "state_code_num": "9"
+    },
+    {
+        "id": "505",
+        "name": "Pending",
+        "negeri_code": "sw",
+        "parliament_code": "P195",
+        "parliament_code_num": "195",
+        "state_code": "N10",
+        "state_code_num": "10"
+    },
+    {
+        "id": "506",
+        "name": "Batu Lintang",
+        "negeri_code": "sw",
+        "parliament_code": "P196",
+        "parliament_code_num": "196",
+        "state_code": "N11",
+        "state_code_num": "11"
+    },
+    {
+        "id": "507",
+        "name": "Kota Sentosa",
+        "negeri_code": "sw",
+        "parliament_code": "P196",
+        "parliament_code_num": "196",
+        "state_code": "N12",
+        "state_code_num": "12"
+    },
+    {
+        "id": "508",
+        "name": "Batu Kawah",
+        "negeri_code": "sw",
+        "parliament_code": "P196",
+        "parliament_code_num": "196",
+        "state_code": "N13",
+        "state_code_num": "13"
+    },
+    {
+        "id": "509",
+        "name": "Asajaya",
+        "negeri_code": "sw",
+        "parliament_code": "P197",
+        "parliament_code_num": "197",
+        "state_code": "N14",
+        "state_code_num": "14"
+    },
+    {
+        "id": "510",
+        "name": "Muara Tuang",
+        "negeri_code": "sw",
+        "parliament_code": "P197",
+        "parliament_code_num": "197",
+        "state_code": "N15",
+        "state_code_num": "15"
+    },
+    {
+        "id": "511",
+        "name": "Bengoh",
+        "negeri_code": "sw",
+        "parliament_code": "P198",
+        "parliament_code_num": "198",
+        "state_code": "N16",
+        "state_code_num": "16"
+    },
+    {
+        "id": "512",
+        "name": "Tarat",
+        "negeri_code": "sw",
+        "parliament_code": "P198",
+        "parliament_code_num": "198",
+        "state_code": "N17",
+        "state_code_num": "17"
+    },
+    {
+        "id": "513",
+        "name": "Tebedu",
+        "negeri_code": "sw",
+        "parliament_code": "P199",
+        "parliament_code_num": "199",
+        "state_code": "N18",
+        "state_code_num": "18"
+    },
+    {
+        "id": "514",
+        "name": "Kedup",
+        "negeri_code": "sw",
+        "parliament_code": "P199",
+        "parliament_code_num": "199",
+        "state_code": "N19",
+        "state_code_num": "19"
+    },
+    {
+        "id": "515",
+        "name": "Sadong Jaya",
+        "negeri_code": "sw",
+        "parliament_code": "P200",
+        "parliament_code_num": "200",
+        "state_code": "N20",
+        "state_code_num": "20"
+    },
+    {
+        "id": "516",
+        "name": "Simunjan",
+        "negeri_code": "sw",
+        "parliament_code": "P200",
+        "parliament_code_num": "200",
+        "state_code": "N21",
+        "state_code_num": "21"
+    },
+    {
+        "id": "517",
+        "name": "Sebuyau",
+        "negeri_code": "sw",
+        "parliament_code": "P201",
+        "parliament_code_num": "201",
+        "state_code": "N22",
+        "state_code_num": "22"
+    },
+    {
+        "id": "518",
+        "name": "Lingga",
+        "negeri_code": "sw",
+        "parliament_code": "P201",
+        "parliament_code_num": "201",
+        "state_code": "N23",
+        "state_code_num": "23"
+    },
+    {
+        "id": "519",
+        "name": "Beting Maro",
+        "negeri_code": "sw",
+        "parliament_code": "P201",
+        "parliament_code_num": "201",
+        "state_code": "N24",
+        "state_code_num": "24"
+    },
+    {
+        "id": "520",
+        "name": "Balai Ringin",
+        "negeri_code": "sw",
+        "parliament_code": "P202",
+        "parliament_code_num": "202",
+        "state_code": "N25",
+        "state_code_num": "25"
+    },
+    {
+        "id": "521",
+        "name": "Bukit Begunan",
+        "negeri_code": "sw",
+        "parliament_code": "P202",
+        "parliament_code_num": "202",
+        "state_code": "N26",
+        "state_code_num": "26"
+    },
+    {
+        "id": "522",
+        "name": "Simanggang",
+        "negeri_code": "sw",
+        "parliament_code": "P202",
+        "parliament_code_num": "202",
+        "state_code": "N27",
+        "state_code_num": "27"
+    },
+    {
+        "id": "523",
+        "name": "Engkilili",
+        "negeri_code": "sw",
+        "parliament_code": "P203",
+        "parliament_code_num": "203",
+        "state_code": "N28",
+        "state_code_num": "28"
+    },
+    {
+        "id": "524",
+        "name": "Batang Air",
+        "negeri_code": "sw",
+        "parliament_code": "P203",
+        "parliament_code_num": "203",
+        "state_code": "N29",
+        "state_code_num": "29"
+    },
+    {
+        "id": "525",
+        "name": "Saribas",
+        "negeri_code": "sw",
+        "parliament_code": "P204",
+        "parliament_code_num": "204",
+        "state_code": "N30",
+        "state_code_num": "30"
+    },
+    {
+        "id": "526",
+        "name": "Layar",
+        "negeri_code": "sw",
+        "parliament_code": "P204",
+        "parliament_code_num": "204",
+        "state_code": "N31",
+        "state_code_num": "31"
+    },
+    {
+        "id": "527",
+        "name": "Bukit Saban",
+        "negeri_code": "sw",
+        "parliament_code": "P204",
+        "parliament_code_num": "204",
+        "state_code": "N32",
+        "state_code_num": "32"
+    },
+    {
+        "id": "528",
+        "name": "Kalaka",
+        "negeri_code": "sw",
+        "parliament_code": "P205",
+        "parliament_code_num": "205",
+        "state_code": "N33",
+        "state_code_num": "33"
+    },
+    {
+        "id": "529",
+        "name": "Krian",
+        "negeri_code": "sw",
+        "parliament_code": "P205",
+        "parliament_code_num": "205",
+        "state_code": "N34",
+        "state_code_num": "34"
+    },
+    {
+        "id": "530",
+        "name": "Belawai",
+        "negeri_code": "sw",
+        "parliament_code": "P206",
+        "parliament_code_num": "206",
+        "state_code": "N35",
+        "state_code_num": "35"
+    },
+    {
+        "id": "531",
+        "name": "Semop",
+        "negeri_code": "sw",
+        "parliament_code": "P206",
+        "parliament_code_num": "206",
+        "state_code": "N36",
+        "state_code_num": "36"
+    },
+    {
+        "id": "532",
+        "name": "Daro",
+        "negeri_code": "sw",
+        "parliament_code": "P207",
+        "parliament_code_num": "207",
+        "state_code": "N37",
+        "state_code_num": "37"
+    },
+    {
+        "id": "533",
+        "name": "Jemoreng",
+        "negeri_code": "sw",
+        "parliament_code": "P207",
+        "parliament_code_num": "207",
+        "state_code": "N38",
+        "state_code_num": "38"
+    },
+    {
+        "id": "534",
+        "name": "Repok",
+        "negeri_code": "sw",
+        "parliament_code": "P208",
+        "parliament_code_num": "208",
+        "state_code": "N39",
+        "state_code_num": "39"
+    },
+    {
+        "id": "535",
+        "name": "Meradong",
+        "negeri_code": "sw",
+        "parliament_code": "P208",
+        "parliament_code_num": "208",
+        "state_code": "N40",
+        "state_code_num": "40"
+    },
+    {
+        "id": "536",
+        "name": "Pakan",
+        "negeri_code": "sw",
+        "parliament_code": "P209",
+        "parliament_code_num": "209",
+        "state_code": "N41",
+        "state_code_num": "41"
+    },
+    {
+        "id": "537",
+        "name": "Meluan",
+        "negeri_code": "sw",
+        "parliament_code": "P209",
+        "parliament_code_num": "209",
+        "state_code": "N42",
+        "state_code_num": "42"
+    },
+    {
+        "id": "538",
+        "name": "Ngemah",
+        "negeri_code": "sw",
+        "parliament_code": "P210",
+        "parliament_code_num": "210",
+        "state_code": "N43",
+        "state_code_num": "43"
+    },
+    {
+        "id": "539",
+        "name": "Machan",
+        "negeri_code": "sw",
+        "parliament_code": "P210",
+        "parliament_code_num": "210",
+        "state_code": "N44",
+        "state_code_num": "44"
+    },
+    {
+        "id": "540",
+        "name": "Bukit Assek",
+        "negeri_code": "sw",
+        "parliament_code": "P211",
+        "parliament_code_num": "211",
+        "state_code": "N45",
+        "state_code_num": "45"
+    },
+    {
+        "id": "541",
+        "name": "Dudong",
+        "negeri_code": "sw",
+        "parliament_code": "P211",
+        "parliament_code_num": "211",
+        "state_code": "N46",
+        "state_code_num": "46"
+    },
+    {
+        "id": "542",
+        "name": "Bawang Assan",
+        "negeri_code": "sw",
+        "parliament_code": "P212",
+        "parliament_code_num": "212",
+        "state_code": "N47",
+        "state_code_num": "47"
+    },
+    {
+        "id": "543",
+        "name": "Pelawan",
+        "negeri_code": "sw",
+        "parliament_code": "P212",
+        "parliament_code_num": "212",
+        "state_code": "N48",
+        "state_code_num": "48"
+    },
+    {
+        "id": "544",
+        "name": "Nangka",
+        "negeri_code": "sw",
+        "parliament_code": "P212",
+        "parliament_code_num": "212",
+        "state_code": "N49",
+        "state_code_num": "49"
+    },
+    {
+        "id": "545",
+        "name": "Dalat",
+        "negeri_code": "sw",
+        "parliament_code": "P213",
+        "parliament_code_num": "213",
+        "state_code": "N50",
+        "state_code_num": "50"
+    },
+    {
+        "id": "546",
+        "name": "Balingian",
+        "negeri_code": "sw",
+        "parliament_code": "P213",
+        "parliament_code_num": "213",
+        "state_code": "N51",
+        "state_code_num": "51"
+    },
+    {
+        "id": "547",
+        "name": "Tamin",
+        "negeri_code": "sw",
+        "parliament_code": "P214",
+        "parliament_code_num": "214",
+        "state_code": "N52",
+        "state_code_num": "52"
+    },
+    {
+        "id": "548",
+        "name": "Kakus",
+        "negeri_code": "sw",
+        "parliament_code": "P214",
+        "parliament_code_num": "214",
+        "state_code": "N53",
+        "state_code_num": "53"
+    },
+    {
+        "id": "549",
+        "name": "Pelagus",
+        "negeri_code": "sw",
+        "parliament_code": "P215",
+        "parliament_code_num": "215",
+        "state_code": "N54",
+        "state_code_num": "54"
+    },
+    {
+        "id": "550",
+        "name": "Katibas",
+        "negeri_code": "sw",
+        "parliament_code": "P215",
+        "parliament_code_num": "215",
+        "state_code": "N55",
+        "state_code_num": "55"
+    },
+    {
+        "id": "551",
+        "name": "Baleh",
+        "negeri_code": "sw",
+        "parliament_code": "P216",
+        "parliament_code_num": "216",
+        "state_code": "N56",
+        "state_code_num": "56"
+    },
+    {
+        "id": "552",
+        "name": "Belaga",
+        "negeri_code": "sw",
+        "parliament_code": "P216",
+        "parliament_code_num": "216",
+        "state_code": "N57",
+        "state_code_num": "57"
+    },
+    {
+        "id": "553",
+        "name": "Jepak",
+        "negeri_code": "sw",
+        "parliament_code": "P217",
+        "parliament_code_num": "217",
+        "state_code": "N58",
+        "state_code_num": "58"
+    },
+    {
+        "id": "554",
+        "name": "Kidurong",
+        "negeri_code": "sw",
+        "parliament_code": "P217",
+        "parliament_code_num": "217",
+        "state_code": "N59",
+        "state_code_num": "59"
+    },
+    {
+        "id": "555",
+        "name": "Kemena",
+        "negeri_code": "sw",
+        "parliament_code": "P217",
+        "parliament_code_num": "217",
+        "state_code": "N60",
+        "state_code_num": "60"
+    },
+    {
+        "id": "556",
+        "name": "Bekenu",
+        "negeri_code": "sw",
+        "parliament_code": "P218",
+        "parliament_code_num": "218",
+        "state_code": "N61",
+        "state_code_num": "61"
+    },
+    {
+        "id": "557",
+        "name": "Lambir",
+        "negeri_code": "sw",
+        "parliament_code": "P218",
+        "parliament_code_num": "218",
+        "state_code": "N62",
+        "state_code_num": "62"
+    },
+    {
+        "id": "558",
+        "name": "Piasau",
+        "negeri_code": "sw",
+        "parliament_code": "P219",
+        "parliament_code_num": "219",
+        "state_code": "N63",
+        "state_code_num": "63"
+    },
+    {
+        "id": "559",
+        "name": "Pujut",
+        "negeri_code": "sw",
+        "parliament_code": "P219",
+        "parliament_code_num": "219",
+        "state_code": "N64",
+        "state_code_num": "64"
+    },
+    {
+        "id": "560",
+        "name": "Senadin",
+        "negeri_code": "sw",
+        "parliament_code": "P219",
+        "parliament_code_num": "219",
+        "state_code": "N65",
+        "state_code_num": "65"
+    },
+    {
+        "id": "561",
+        "name": "Marudi",
+        "negeri_code": "sw",
+        "parliament_code": "P220",
+        "parliament_code_num": "220",
+        "state_code": "N66",
+        "state_code_num": "66"
+    },
+    {
+        "id": "562",
+        "name": "Telang Usan",
+        "negeri_code": "sw",
+        "parliament_code": "P220",
+        "parliament_code_num": "220",
+        "state_code": "N67",
+        "state_code_num": "67"
+    },
+    {
+        "id": "563",
+        "name": "Batu Kota",
+        "negeri_code": "sw",
+        "parliament_code": "P221",
+        "parliament_code_num": "221",
+        "state_code": "N68",
+        "state_code_num": "68"
+    },
+    {
+        "id": "564",
+        "name": "Batu Danau",
+        "negeri_code": "sw",
+        "parliament_code": "P221",
+        "parliament_code_num": "221",
+        "state_code": "N69",
+        "state_code_num": "69"
+    },
+    {
+        "id": "565",
+        "name": "Bukit Sari",
+        "negeri_code": "sw",
+        "parliament_code": "P222",
+        "parliament_code_num": "222",
+        "state_code": "N71",
+        "state_code_num": "71"
+    },
+    {
+        "id": "566",
+        "name": " Kunak ",
+        "negeri_code": "sb",
+        "parliament_code": "P188",
+        "parliament_code_num": "188",
+        "state_code": "N51",
+        "state_code_num": "51"
+    },
+    {
+        "id": "567",
+        "name": " Sulabayan ",
+        "negeri_code": "sb",
+        "parliament_code": "P189",
+        "parliament_code_num": "189",
+        "state_code": "N52",
+        "state_code_num": "52"
+    },
+    {
+        "id": "568",
+        "name": " Senalingan ",
+        "negeri_code": "sb",
+        "parliament_code": "P189",
+        "parliament_code_num": "189",
+        "state_code": "N53",
+        "state_code_num": "53"
+    },
+    {
+        "id": "569",
+        "name": " Bugaya ",
+        "negeri_code": "sb",
+        "parliament_code": "P189",
+        "parliament_code_num": "189",
+        "state_code": "N54",
+        "state_code_num": "54"
+    },
+    {
+        "id": "570",
+        "name": " Balung ",
+        "negeri_code": "sb",
+        "parliament_code": "P190",
+        "parliament_code_num": "190",
+        "state_code": "N55",
+        "state_code_num": "55"
+    },
+    {
+        "id": "571",
+        "name": " Apas ",
+        "negeri_code": "sb",
+        "parliament_code": "P190",
+        "parliament_code_num": "190",
+        "state_code": "N56",
+        "state_code_num": "56"
+    },
+    {
+        "id": "572",
+        "name": " Sri Tanjong ",
+        "negeri_code": "sb",
+        "parliament_code": "P190",
+        "parliament_code_num": "190",
+        "state_code": "N57",
+        "state_code_num": "57"
+    },
+    {
+        "id": "573",
+        "name": " Merotai ",
+        "negeri_code": "sb",
+        "parliament_code": "P191",
+        "parliament_code_num": "191",
+        "state_code": "N58",
+        "state_code_num": "58"
+    },
+    {
+        "id": "574",
+        "name": " Tanjong Batu ",
+        "negeri_code": "sb",
+        "parliament_code": "P191",
+        "parliament_code_num": "191",
+        "state_code": "N59",
+        "state_code_num": "59"
+    },
+    {
+        "id": "575",
+        "name": " Sebatik ",
+        "negeri_code": "sb",
+        "parliament_code": "P191",
+        "parliament_code_num": "191",
+        "state_code": "N60",
+        "state_code_num": "60"
+    }
+]

@@ -1,0 +1,32 @@
+id|side|umbrella|code|name|sort|hide
+1|BN|BN|UMNO|United Malays National Organization|100|0
+2|BN|BN|MCA|Malaysian Chinese Association|200|0
+3|BN|BN|BN|Barisan Nasional|0|1
+4|BN|BN|GERAKAN|Parti Gerakan Rakyat Malaysia|400|0
+5|BN|BN|MIC|Malaysian Indian Congress|300|0
+6|BN|BN|PBB|Parti Pesaka Bumiputra Bersatu|600|0
+7|BN|BN|PBDS|Parti Bansa Dayak Sarawak|100000|1
+8|BN|BN|PBS|Parti Bersatu Sabah|1000|0
+9|OPP|SAPP|SAPP|Sabah Progressive Party|1800|0
+10|BN|BN|SNAP|Sarawak National Party|1700|0
+11|BN|BN|SUPP|Sarawak United People's Party|800|0
+12|BN|BN|UPKO|United Pasok Momogun Kadazan Organization|1300|0
+13|BN|BN|PPP|People's Progressive Party|500|0
+14|BN|BN|SPDP|Sarawak Progressive Democratic Party|700|0
+15|BN|BN|PBRS|Parti Bersatu Rakyat Sabah|1200|0
+16|BN|BN|LDP|Liberal Democrat Party|1100|0
+17|BN|BN|BERSEKUTU|Parti Barisan Rakyat Sabah Bersekutu|100000|1
+18|BN|BN|SETIA|Parti Demokratik Setiasehati Kuasa Rakyat Bersatu Sabah|100000|1
+19|OPP|PAS|PAS|Parti Islam Semalaysia|1400|0
+20|OPP|PKR|PKR|Parti Keadilan Rakyat|1500|0
+21|OPP|DAP|DAP|Democratic Action Party|1600|0
+22|OPP||MDP|Malaysia Democratic Party|100000|1
+23|OPP||PRM|Parti Rakyat Malaysia|100000|1
+24|OPP|STAR|STAR|State Reform Party of Sarawak|100000|1
+26|OPP|PASOK|PASOK|Pasok Nunuk Ragang National Organisation|100000|1
+27|IND|IND|IND|Independent|1900|0
+28|BN|BN|PRS|Parti Rakyat Sarawak|900|0
+29|OPP|BERSAMA|BERSAMA|Parti Bersatu Sasa Malaysia |100000|0
+30|OPP|PSM|PSM|Parti Sosialis Malaysia|100000|0
+31|OPP|KITA|KITA|Parti Kesejahteraan Insan Tanah Air|100000|0
+32|OPP|BERJASA|BERJASA|Pan-Malaysian Islamic Front|100000|0

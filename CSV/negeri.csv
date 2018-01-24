@@ -1,0 +1,16 @@
+id|code|plate|name|slug|sort|display
+1|PL|R|Perlis|perlis|1|1
+2|KD|K|Kedah|kedah|2|1
+3|PN|P|Penang|penang|5|1
+4|PR|A|Perak|perak|6|1
+5|KE|D|Kelantan|kelantan|3|1
+6|KT|T|Terengganu|terengganu|4|1
+7|PH|C|Pahang|pahang|7|1
+8|SL|B|Selangor|selangor|8|1
+9|WP|W|WP Kuala Lumpur|wilayah-persekutuan|9|1
+10|NS|N|Negeri Sembilan|negeri-sembilan|10|1
+11|MK|M|Melaka|melaka|11|1
+12|JH|J|Johor|johor|12|1
+13|SW|E|Sarawak|sarawak|14|1
+14|LA|L|Labuan|labuan|15|0
+15|SB|S|Sabah|sabah|13|1

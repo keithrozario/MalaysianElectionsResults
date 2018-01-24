@@ -1,0 +1,223 @@
+id|negeri_code|parliaments_code|name
+1|pl|P1|Padang Besar
+2|pl|P2|Kangar
+3|pl|P3|Arau
+4|kd|P4|Langkawi
+5|kd|P5|Jerlun
+6|kd|P6|Kubang Pasu
+7|kd|P7|Padang Terap
+8|kd|P8|Pokok Sena
+9|kd|P9|Alor Setar
+10|kd|P10|Kuala Kedah
+11|kd|P11|Pendang
+12|kd|P12|Jerai
+13|kd|P13|Sik
+14|kd|P14|Merbok
+15|kd|P15|Sungai Petani
+16|kd|P16|Baling
+17|kd|P17|Padang Serai
+18|kd|P18|Kulim Bandar Baharu
+19|ke|P19|Tumpat
+20|ke|P20|Pengkalan Chepa
+21|ke|P21|Kota Bahru
+22|ke|P22|Pasir Mas
+23|ke|P23|Rantau Panjang
+24|ke|P24|Kubang Kerian
+25|ke|P25|Bachok
+26|ke|P26|Ketereh
+27|ke|P27|Tanah Merah
+28|ke|P28|Pasir Puteh
+29|ke|P29|Machang
+30|ke|P30|Jeli
+31|ke|P31|Kuala Krai
+32|ke|P32|Gua Musang
+33|kt|P33|Besut
+34|kt|P34|Setiu
+35|kt|P35|Kuala Nerus
+36|kt|P36|Kuala Terengganu
+37|kt|P37|Marang
+38|kt|P38|Hulu Terengganu
+39|kt|P39|Dungun
+40|kt|P40|Kemaman
+41|pn|P41|Kepala Batas
+42|pn|P42|Tasek Gelugor
+43|pn|P43|Bagan
+44|pn|P44|Permatang Pauh
+45|pn|P45|Bukit Mertajam
+46|pn|P46|Batu Kawan
+47|pn|P47|Nibong Tebal
+48|pn|P48|Bukit Bendera
+49|pn|P49|Tanjong
+50|pn|P50|Jelutong
+51|pn|P51|Bukit Gelugor
+52|pn|P52|Bayan Baru
+53|pn|P53|Balik Pulau
+54|pr|P54|Grik
+55|pr|P55|Lenggong
+56|pr|P56|Larut
+57|pr|P57|Parit Buntar
+58|pr|P58|Bagan Serai
+59|pr|P59|Bukit Gantang
+60|pr|P60|Taiping
+61|pr|P61|Padang Rengas
+62|pr|P62|Sungai Siput
+63|pr|P63|Tambun
+64|pr|P64|Ipoh Timor
+65|pr|P65|Ipoh Barat
+66|pr|P66|Batu Gajah
+67|pr|P67|Kuala Kangsar
+68|pr|P68|Beruas
+69|pr|P69|Parit
+70|pr|P70|Kampar
+71|pr|P71|Gopeng
+72|pr|P72|Tapah
+73|pr|P73|Pasir Salak
+74|pr|P74|Lumut
+75|pr|P75|Bagan Datok
+76|pr|P76|Telok Intan
+77|pr|P77|Tanjong Malim
+78|ph|P78|Cameron Highlands
+79|ph|P79|Lipis
+80|ph|P80|Raub
+81|ph|P81|Jerantut
+82|ph|P82|Indera Mahkota
+83|ph|P83|Kuantan
+84|ph|P84|Paya Besar
+85|ph|P85|Pekan
+86|ph|P86|Maran
+87|ph|P87|Kuala Krau
+88|ph|P88|Temerloh
+89|ph|P89|Bentong
+90|ph|P90|Bera
+91|ph|P91|Rompin
+92|sl|P92|Sabak Bernam
+93|sl|P93|Sungai Besar
+94|sl|P94|Ulu Selangor
+95|sl|P95|Tanjong Karang
+96|sl|P96|Kuala Selangor
+97|sl|P97|Selayang
+98|sl|P98|Gombak
+99|sl|P99|Ampang
+100|sl|P100|Pandan
+101|sl|P101|Hulu Langat
+102|sl|P102|Serdang
+103|sl|P103|Puchong
+104|sl|P104|Kelana Jaya
+105|sl|P105|PJ Selatan
+106|sl|P106|PJ Utara
+107|sl|P107|Subang
+108|sl|P108|Shah Alam
+109|sl|P109|Kapar
+110|sl|P110|Klang
+111|sl|P111|Kota Raja
+112|sl|P112|Kuala Langat
+113|sl|P113|Sepang
+114|wp|P114|Kepong
+115|wp|P115|Batu
+116|wp|P116|Wangsa Maju
+117|wp|P117|Segambut
+118|wp|P118|Setiawangsa
+119|wp|P119|Titiwangsa
+120|wp|P120|Bukit Bintang
+121|wp|P121|Lembah Pantai
+122|wp|P122|Seputeh
+123|wp|P123|Cheras
+124|wp|P124|Bandar Tun Razak
+125|wp|P125|Putrajaya
+126|ns|P126|Jelebu
+127|ns|P127|Jempol
+128|ns|P128|Seremban
+129|ns|P129|Kuala Pilah
+130|ns|P130|Rasah
+131|ns|P131|Rembau
+132|ns|P132|Teluk Kemang
+133|ns|P133|Tampin
+134|mk|P134|Masjid Tanah
+135|mk|P135|Alor Gajah
+136|mk|P136|Tangga Batu
+137|mk|P137|Bukit Katil
+138|mk|P138|Kota Melaka
+139|mk|P139|Jasin
+140|jh|P140|Segamat
+141|jh|P141|Sekijang
+142|jh|P142|Labis
+143|jh|P143|Pagoh
+144|jh|P144|Ledang
+145|jh|P145|Bakri
+146|jh|P146|Muar
+147|jh|P147|Parit Sulong
+148|jh|P148|Ayer Hitam
+149|jh|P149|Sri Gading
+150|jh|P150|Batu Pahat
+151|jh|P151|Simpang Renggam
+152|jh|P152|Kluang
+153|jh|P153|Sembrong
+154|jh|P154|Mersing
+155|jh|P155|Tenggara
+156|jh|P156|Kota Tinggi
+157|jh|P157|Pengerang
+158|jh|P158|Tebrau
+159|jh|P159|Pasir Gudang
+160|jh|P160|Johor Bahru
+161|jh|P161|Pulai
+162|jh|P162|Gelang Patah
+163|jh|P163|Kulai
+164|jh|P164|Pontian
+165|jh|P165|Tanjung Piai
+166|sb|P166|Labuan
+167|sb|P167|Kudat
+168|sb|P168|Kota Marudu
+169|sb|P169|Kota Belud
+170|sb|P170|Tuaran
+171|sb|P171|Sepanggar
+172|sb|P172|Kota Kinabalu
+173|sb|P173|Putatan
+174|sb|P174|Penampang
+175|sb|P175|Papar
+176|sb|P176|Kimanis
+177|sb|P177|Beaufort
+178|sb|P178|Sipitang
+179|sb|P179|Ranau
+180|sb|P180|Keningau
+181|sb|P181|Tenom
+182|sb|P182|Pensiangan
+183|sb|P183|Beluran
+184|sb|P184|Libaran
+185|sb|P185|Batu Sapi
+186|sb|P186|Sandakan
+187|sb|P187|Kinabatangan
+188|sb|P188|Silam
+189|sb|P189|Semporna
+190|sb|P190|Tawau
+191|sb|P191|Kalabakan
+192|sw|P192|Mas Gading
+193|sw|P193|Santubong
+194|sw|P194|Petra Jaya
+195|sw|P195|Bandar Kuching
+196|sw|P196|Stampin
+197|sw|P197|Kota Samarahan
+198|sw|P198|Mambong
+199|sw|P199|Serian
+200|sw|P200|Batang Sadong
+201|sw|P201|Batang Lupar
+202|sw|P202|Sri Aman
+203|sw|P203|Lubok Antu
+204|sw|P204|Betong
+205|sw|P205|Saratok
+206|sw|P206|Kuala Rajang
+207|sw|P207|Igan
+208|sw|P208|Sarikei
+209|sw|P209|Julau
+210|sw|P210|Kanowit
+211|sw|P211|Lanang
+212|sw|P212|Sibu
+213|sw|P213|Mukah
+214|sw|P214|Selangau
+215|sw|P215|Kapit
+216|sw|P216|Hulu Rajang
+217|sw|P217|Bintulu
+218|sw|P218|Sibuti
+219|sw|P219|Miri
+220|sw|P220|Baram
+221|sw|P221|Limbang
+222|sw|P222|Lawas

@@ -1,0 +1,137 @@
+[
+    {
+        "code": "PL",
+        "display": "1",
+        "id": "1",
+        "name": "Perlis",
+        "plate": "R",
+        "slug": "perlis",
+        "sort": "1"
+    },
+    {
+        "code": "KD",
+        "display": "1",
+        "id": "2",
+        "name": "Kedah",
+        "plate": "K",
+        "slug": "kedah",
+        "sort": "2"
+    },
+    {
+        "code": "PN",
+        "display": "1",
+        "id": "3",
+        "name": "Penang",
+        "plate": "P",
+        "slug": "penang",
+        "sort": "5"
+    },
+    {
+        "code": "PR",
+        "display": "1",
+        "id": "4",
+        "name": "Perak",
+        "plate": "A",
+        "slug": "perak",
+        "sort": "6"
+    },
+    {
+        "code": "KE",
+        "display": "1",
+        "id": "5",
+        "name": "Kelantan",
+        "plate": "D",
+        "slug": "kelantan",
+        "sort": "3"
+    },
+    {
+        "code": "KT",
+        "display": "1",
+        "id": "6",
+        "name": "Terengganu",
+        "plate": "T",
+        "slug": "terengganu",
+        "sort": "4"
+    },
+    {
+        "code": "PH",
+        "display": "1",
+        "id": "7",
+        "name": "Pahang",
+        "plate": "C",
+        "slug": "pahang",
+        "sort": "7"
+    },
+    {
+        "code": "SL",
+        "display": "1",
+        "id": "8",
+        "name": "Selangor",
+        "plate": "B",
+        "slug": "selangor",
+        "sort": "8"
+    },
+    {
+        "code": "WP",
+        "display": "1",
+        "id": "9",
+        "name": "WP Kuala Lumpur",
+        "plate": "W",
+        "slug": "wilayah-persekutuan",
+        "sort": "9"
+    },
+    {
+        "code": "NS",
+        "display": "1",
+        "id": "10",
+        "name": "Negeri Sembilan",
+        "plate": "N",
+        "slug": "negeri-sembilan",
+        "sort": "10"
+    },
+    {
+        "code": "MK",
+        "display": "1",
+        "id": "11",
+        "name": "Melaka",
+        "plate": "M",
+        "slug": "melaka",
+        "sort": "11"
+    },
+    {
+        "code": "JH",
+        "display": "1",
+        "id": "12",
+        "name": "Johor",
+        "plate": "J",
+        "slug": "johor",
+        "sort": "12"
+    },
+    {
+        "code": "SW",
+        "display": "1",
+        "id": "13",
+        "name": "Sarawak",
+        "plate": "E",
+        "slug": "sarawak",
+        "sort": "14"
+    },
+    {
+        "code": "LA",
+        "display": "0",
+        "id": "14",
+        "name": "Labuan",
+        "plate": "L",
+        "slug": "labuan",
+        "sort": "15"
+    },
+    {
+        "code": "SB",
+        "display": "1",
+        "id": "15",
+        "name": "Sabah",
+        "plate": "S",
+        "slug": "sabah",
+        "sort": "13"
+    }
+]

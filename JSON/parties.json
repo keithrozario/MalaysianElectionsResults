@@ -1,0 +1,281 @@
+[
+    {
+        "code": "UMNO",
+        "hide": "0",
+        "id": "1",
+        "name": "United Malays National Organization",
+        "side": "BN",
+        "sort": "100",
+        "umbrella": "BN"
+    },
+    {
+        "code": "MCA",
+        "hide": "0",
+        "id": "2",
+        "name": "Malaysian Chinese Association",
+        "side": "BN",
+        "sort": "200",
+        "umbrella": "BN"
+    },
+    {
+        "code": "BN",
+        "hide": "1",
+        "id": "3",
+        "name": "Barisan Nasional",
+        "side": "BN",
+        "sort": "0",
+        "umbrella": "BN"
+    },
+    {
+        "code": "GERAKAN",
+        "hide": "0",
+        "id": "4",
+        "name": "Parti Gerakan Rakyat Malaysia",
+        "side": "BN",
+        "sort": "400",
+        "umbrella": "BN"
+    },
+    {
+        "code": "MIC",
+        "hide": "0",
+        "id": "5",
+        "name": "Malaysian Indian Congress",
+        "side": "BN",
+        "sort": "300",
+        "umbrella": "BN"
+    },
+    {
+        "code": "PBB",
+        "hide": "0",
+        "id": "6",
+        "name": "Parti Pesaka Bumiputra Bersatu",
+        "side": "BN",
+        "sort": "600",
+        "umbrella": "BN"
+    },
+    {
+        "code": "PBDS",
+        "hide": "1",
+        "id": "7",
+        "name": "Parti Bansa Dayak Sarawak",
+        "side": "BN",
+        "sort": "100000",
+        "umbrella": "BN"
+    },
+    {
+        "code": "PBS",
+        "hide": "0",
+        "id": "8",
+        "name": "Parti Bersatu Sabah",
+        "side": "BN",
+        "sort": "1000",
+        "umbrella": "BN"
+    },
+    {
+        "code": "SAPP",
+        "hide": "0",
+        "id": "9",
+        "name": "Sabah Progressive Party",
+        "side": "OPP",
+        "sort": "1800",
+        "umbrella": "SAPP"
+    },
+    {
+        "code": "SNAP",
+        "hide": "0",
+        "id": "10",
+        "name": "Sarawak National Party",
+        "side": "BN",
+        "sort": "1700",
+        "umbrella": "BN"
+    },
+    {
+        "code": "SUPP",
+        "hide": "0",
+        "id": "11",
+        "name": "Sarawak United People's Party",
+        "side": "BN",
+        "sort": "800",
+        "umbrella": "BN"
+    },
+    {
+        "code": "UPKO",
+        "hide": "0",
+        "id": "12",
+        "name": "United Pasok Momogun Kadazan Organization",
+        "side": "BN",
+        "sort": "1300",
+        "umbrella": "BN"
+    },
+    {
+        "code": "PPP",
+        "hide": "0",
+        "id": "13",
+        "name": "People's Progressive Party",
+        "side": "BN",
+        "sort": "500",
+        "umbrella": "BN"
+    },
+    {
+        "code": "SPDP",
+        "hide": "0",
+        "id": "14",
+        "name": "Sarawak Progressive Democratic Party",
+        "side": "BN",
+        "sort": "700",
+        "umbrella": "BN"
+    },
+    {
+        "code": "PBRS",
+        "hide": "0",
+        "id": "15",
+        "name": "Parti Bersatu Rakyat Sabah",
+        "side": "BN",
+        "sort": "1200",
+        "umbrella": "BN"
+    },
+    {
+        "code": "LDP",
+        "hide": "0",
+        "id": "16",
+        "name": "Liberal Democrat Party",
+        "side": "BN",
+        "sort": "1100",
+        "umbrella": "BN"
+    },
+    {
+        "code": "BERSEKUTU",
+        "hide": "1",
+        "id": "17",
+        "name": "Parti Barisan Rakyat Sabah Bersekutu",
+        "side": "BN",
+        "sort": "100000",
+        "umbrella": "BN"
+    },
+    {
+        "code": "SETIA",
+        "hide": "1",
+        "id": "18",
+        "name": "Parti Demokratik Setiasehati Kuasa Rakyat Bersatu Sabah",
+        "side": "BN",
+        "sort": "100000",
+        "umbrella": "BN"
+    },
+    {
+        "code": "PAS",
+        "hide": "0",
+        "id": "19",
+        "name": "Parti Islam Semalaysia",
+        "side": "OPP",
+        "sort": "1400",
+        "umbrella": "PAS"
+    },
+    {
+        "code": "PKR",
+        "hide": "0",
+        "id": "20",
+        "name": "Parti Keadilan Rakyat",
+        "side": "OPP",
+        "sort": "1500",
+        "umbrella": "PKR"
+    },
+    {
+        "code": "DAP",
+        "hide": "0",
+        "id": "21",
+        "name": "Democratic Action Party",
+        "side": "OPP",
+        "sort": "1600",
+        "umbrella": "DAP"
+    },
+    {
+        "code": "MDP",
+        "hide": "1",
+        "id": "22",
+        "name": "Malaysia Democratic Party",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": ""
+    },
+    {
+        "code": "PRM",
+        "hide": "1",
+        "id": "23",
+        "name": "Parti Rakyat Malaysia",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": ""
+    },
+    {
+        "code": "STAR",
+        "hide": "1",
+        "id": "24",
+        "name": "State Reform Party of Sarawak",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": "STAR"
+    },
+    {
+        "code": "PASOK",
+        "hide": "1",
+        "id": "26",
+        "name": "Pasok Nunuk Ragang National Organisation",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": "PASOK"
+    },
+    {
+        "code": "IND",
+        "hide": "0",
+        "id": "27",
+        "name": "Independent",
+        "side": "IND",
+        "sort": "1900",
+        "umbrella": "IND"
+    },
+    {
+        "code": "PRS",
+        "hide": "0",
+        "id": "28",
+        "name": "Parti Rakyat Sarawak",
+        "side": "BN",
+        "sort": "900",
+        "umbrella": "BN"
+    },
+    {
+        "code": "BERSAMA",
+        "hide": "0",
+        "id": "29",
+        "name": "Parti Bersatu Sasa Malaysia ",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": "BERSAMA"
+    },
+    {
+        "code": "PSM",
+        "hide": "0",
+        "id": "30",
+        "name": "Parti Sosialis Malaysia",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": "PSM"
+    },
+    {
+        "code": "KITA",
+        "hide": "0",
+        "id": "31",
+        "name": "Parti Kesejahteraan Insan Tanah Air",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": "KITA"
+    },
+    {
+        "code": "BERJASA",
+        "hide": "0",
+        "id": "32",
+        "name": "Pan-Malaysian Islamic Front",
+        "side": "OPP",
+        "sort": "100000",
+        "umbrella": "BERJASA"
+    }
+]

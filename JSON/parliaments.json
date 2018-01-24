@@ -1,0 +1,1334 @@
+[
+    {
+        "id": "1",
+        "name": "Padang Besar",
+        "negeri_code": "pl",
+        "parliaments_code": "P1"
+    },
+    {
+        "id": "2",
+        "name": "Kangar",
+        "negeri_code": "pl",
+        "parliaments_code": "P2"
+    },
+    {
+        "id": "3",
+        "name": "Arau",
+        "negeri_code": "pl",
+        "parliaments_code": "P3"
+    },
+    {
+        "id": "4",
+        "name": "Langkawi",
+        "negeri_code": "kd",
+        "parliaments_code": "P4"
+    },
+    {
+        "id": "5",
+        "name": "Jerlun",
+        "negeri_code": "kd",
+        "parliaments_code": "P5"
+    },
+    {
+        "id": "6",
+        "name": "Kubang Pasu",
+        "negeri_code": "kd",
+        "parliaments_code": "P6"
+    },
+    {
+        "id": "7",
+        "name": "Padang Terap",
+        "negeri_code": "kd",
+        "parliaments_code": "P7"
+    },
+    {
+        "id": "8",
+        "name": "Pokok Sena",
+        "negeri_code": "kd",
+        "parliaments_code": "P8"
+    },
+    {
+        "id": "9",
+        "name": "Alor Setar",
+        "negeri_code": "kd",
+        "parliaments_code": "P9"
+    },
+    {
+        "id": "10",
+        "name": "Kuala Kedah",
+        "negeri_code": "kd",
+        "parliaments_code": "P10"
+    },
+    {
+        "id": "11",
+        "name": "Pendang",
+        "negeri_code": "kd",
+        "parliaments_code": "P11"
+    },
+    {
+        "id": "12",
+        "name": "Jerai",
+        "negeri_code": "kd",
+        "parliaments_code": "P12"
+    },
+    {
+        "id": "13",
+        "name": "Sik",
+        "negeri_code": "kd",
+        "parliaments_code": "P13"
+    },
+    {
+        "id": "14",
+        "name": "Merbok",
+        "negeri_code": "kd",
+        "parliaments_code": "P14"
+    },
+    {
+        "id": "15",
+        "name": "Sungai Petani",
+        "negeri_code": "kd",
+        "parliaments_code": "P15"
+    },
+    {
+        "id": "16",
+        "name": "Baling",
+        "negeri_code": "kd",
+        "parliaments_code": "P16"
+    },
+    {
+        "id": "17",
+        "name": "Padang Serai",
+        "negeri_code": "kd",
+        "parliaments_code": "P17"
+    },
+    {
+        "id": "18",
+        "name": "Kulim Bandar Baharu",
+        "negeri_code": "kd",
+        "parliaments_code": "P18"
+    },
+    {
+        "id": "19",
+        "name": "Tumpat",
+        "negeri_code": "ke",
+        "parliaments_code": "P19"
+    },
+    {
+        "id": "20",
+        "name": "Pengkalan Chepa",
+        "negeri_code": "ke",
+        "parliaments_code": "P20"
+    },
+    {
+        "id": "21",
+        "name": "Kota Bahru",
+        "negeri_code": "ke",
+        "parliaments_code": "P21"
+    },
+    {
+        "id": "22",
+        "name": "Pasir Mas",
+        "negeri_code": "ke",
+        "parliaments_code": "P22"
+    },
+    {
+        "id": "23",
+        "name": "Rantau Panjang",
+        "negeri_code": "ke",
+        "parliaments_code": "P23"
+    },
+    {
+        "id": "24",
+        "name": "Kubang Kerian",
+        "negeri_code": "ke",
+        "parliaments_code": "P24"
+    },
+    {
+        "id": "25",
+        "name": "Bachok",
+        "negeri_code": "ke",
+        "parliaments_code": "P25"
+    },
+    {
+        "id": "26",
+        "name": "Ketereh",
+        "negeri_code": "ke",
+        "parliaments_code": "P26"
+    },
+    {
+        "id": "27",
+        "name": "Tanah Merah",
+        "negeri_code": "ke",
+        "parliaments_code": "P27"
+    },
+    {
+        "id": "28",
+        "name": "Pasir Puteh",
+        "negeri_code": "ke",
+        "parliaments_code": "P28"
+    },
+    {
+        "id": "29",
+        "name": "Machang",
+        "negeri_code": "ke",
+        "parliaments_code": "P29"
+    },
+    {
+        "id": "30",
+        "name": "Jeli",
+        "negeri_code": "ke",
+        "parliaments_code": "P30"
+    },
+    {
+        "id": "31",
+        "name": "Kuala Krai",
+        "negeri_code": "ke",
+        "parliaments_code": "P31"
+    },
+    {
+        "id": "32",
+        "name": "Gua Musang",
+        "negeri_code": "ke",
+        "parliaments_code": "P32"
+    },
+    {
+        "id": "33",
+        "name": "Besut",
+        "negeri_code": "kt",
+        "parliaments_code": "P33"
+    },
+    {
+        "id": "34",
+        "name": "Setiu",
+        "negeri_code": "kt",
+        "parliaments_code": "P34"
+    },
+    {
+        "id": "35",
+        "name": "Kuala Nerus",
+        "negeri_code": "kt",
+        "parliaments_code": "P35"
+    },
+    {
+        "id": "36",
+        "name": "Kuala Terengganu",
+        "negeri_code": "kt",
+        "parliaments_code": "P36"
+    },
+    {
+        "id": "37",
+        "name": "Marang",
+        "negeri_code": "kt",
+        "parliaments_code": "P37"
+    },
+    {
+        "id": "38",
+        "name": "Hulu Terengganu",
+        "negeri_code": "kt",
+        "parliaments_code": "P38"
+    },
+    {
+        "id": "39",
+        "name": "Dungun",
+        "negeri_code": "kt",
+        "parliaments_code": "P39"
+    },
+    {
+        "id": "40",
+        "name": "Kemaman",
+        "negeri_code": "kt",
+        "parliaments_code": "P40"
+    },
+    {
+        "id": "41",
+        "name": "Kepala Batas",
+        "negeri_code": "pn",
+        "parliaments_code": "P41"
+    },
+    {
+        "id": "42",
+        "name": "Tasek Gelugor",
+        "negeri_code": "pn",
+        "parliaments_code": "P42"
+    },
+    {
+        "id": "43",
+        "name": "Bagan",
+        "negeri_code": "pn",
+        "parliaments_code": "P43"
+    },
+    {
+        "id": "44",
+        "name": "Permatang Pauh",
+        "negeri_code": "pn",
+        "parliaments_code": "P44"
+    },
+    {
+        "id": "45",
+        "name": "Bukit Mertajam",
+        "negeri_code": "pn",
+        "parliaments_code": "P45"
+    },
+    {
+        "id": "46",
+        "name": "Batu Kawan",
+        "negeri_code": "pn",
+        "parliaments_code": "P46"
+    },
+    {
+        "id": "47",
+        "name": "Nibong Tebal",
+        "negeri_code": "pn",
+        "parliaments_code": "P47"
+    },
+    {
+        "id": "48",
+        "name": "Bukit Bendera",
+        "negeri_code": "pn",
+        "parliaments_code": "P48"
+    },
+    {
+        "id": "49",
+        "name": "Tanjong",
+        "negeri_code": "pn",
+        "parliaments_code": "P49"
+    },
+    {
+        "id": "50",
+        "name": "Jelutong",
+        "negeri_code": "pn",
+        "parliaments_code": "P50"
+    },
+    {
+        "id": "51",
+        "name": "Bukit Gelugor",
+        "negeri_code": "pn",
+        "parliaments_code": "P51"
+    },
+    {
+        "id": "52",
+        "name": "Bayan Baru",
+        "negeri_code": "pn",
+        "parliaments_code": "P52"
+    },
+    {
+        "id": "53",
+        "name": "Balik Pulau",
+        "negeri_code": "pn",
+        "parliaments_code": "P53"
+    },
+    {
+        "id": "54",
+        "name": "Grik",
+        "negeri_code": "pr",
+        "parliaments_code": "P54"
+    },
+    {
+        "id": "55",
+        "name": "Lenggong",
+        "negeri_code": "pr",
+        "parliaments_code": "P55"
+    },
+    {
+        "id": "56",
+        "name": "Larut",
+        "negeri_code": "pr",
+        "parliaments_code": "P56"
+    },
+    {
+        "id": "57",
+        "name": "Parit Buntar",
+        "negeri_code": "pr",
+        "parliaments_code": "P57"
+    },
+    {
+        "id": "58",
+        "name": "Bagan Serai",
+        "negeri_code": "pr",
+        "parliaments_code": "P58"
+    },
+    {
+        "id": "59",
+        "name": "Bukit Gantang",
+        "negeri_code": "pr",
+        "parliaments_code": "P59"
+    },
+    {
+        "id": "60",
+        "name": "Taiping",
+        "negeri_code": "pr",
+        "parliaments_code": "P60"
+    },
+    {
+        "id": "61",
+        "name": "Padang Rengas",
+        "negeri_code": "pr",
+        "parliaments_code": "P61"
+    },
+    {
+        "id": "62",
+        "name": "Sungai Siput",
+        "negeri_code": "pr",
+        "parliaments_code": "P62"
+    },
+    {
+        "id": "63",
+        "name": "Tambun",
+        "negeri_code": "pr",
+        "parliaments_code": "P63"
+    },
+    {
+        "id": "64",
+        "name": "Ipoh Timor",
+        "negeri_code": "pr",
+        "parliaments_code": "P64"
+    },
+    {
+        "id": "65",
+        "name": "Ipoh Barat",
+        "negeri_code": "pr",
+        "parliaments_code": "P65"
+    },
+    {
+        "id": "66",
+        "name": "Batu Gajah",
+        "negeri_code": "pr",
+        "parliaments_code": "P66"
+    },
+    {
+        "id": "67",
+        "name": "Kuala Kangsar",
+        "negeri_code": "pr",
+        "parliaments_code": "P67"
+    },
+    {
+        "id": "68",
+        "name": "Beruas",
+        "negeri_code": "pr",
+        "parliaments_code": "P68"
+    },
+    {
+        "id": "69",
+        "name": "Parit",
+        "negeri_code": "pr",
+        "parliaments_code": "P69"
+    },
+    {
+        "id": "70",
+        "name": "Kampar",
+        "negeri_code": "pr",
+        "parliaments_code": "P70"
+    },
+    {
+        "id": "71",
+        "name": "Gopeng",
+        "negeri_code": "pr",
+        "parliaments_code": "P71"
+    },
+    {
+        "id": "72",
+        "name": "Tapah",
+        "negeri_code": "pr",
+        "parliaments_code": "P72"
+    },
+    {
+        "id": "73",
+        "name": "Pasir Salak",
+        "negeri_code": "pr",
+        "parliaments_code": "P73"
+    },
+    {
+        "id": "74",
+        "name": "Lumut",
+        "negeri_code": "pr",
+        "parliaments_code": "P74"
+    },
+    {
+        "id": "75",
+        "name": "Bagan Datok",
+        "negeri_code": "pr",
+        "parliaments_code": "P75"
+    },
+    {
+        "id": "76",
+        "name": "Telok Intan",
+        "negeri_code": "pr",
+        "parliaments_code": "P76"
+    },
+    {
+        "id": "77",
+        "name": "Tanjong Malim",
+        "negeri_code": "pr",
+        "parliaments_code": "P77"
+    },
+    {
+        "id": "78",
+        "name": "Cameron Highlands",
+        "negeri_code": "ph",
+        "parliaments_code": "P78"
+    },
+    {
+        "id": "79",
+        "name": "Lipis",
+        "negeri_code": "ph",
+        "parliaments_code": "P79"
+    },
+    {
+        "id": "80",
+        "name": "Raub",
+        "negeri_code": "ph",
+        "parliaments_code": "P80"
+    },
+    {
+        "id": "81",
+        "name": "Jerantut",
+        "negeri_code": "ph",
+        "parliaments_code": "P81"
+    },
+    {
+        "id": "82",
+        "name": "Indera Mahkota",
+        "negeri_code": "ph",
+        "parliaments_code": "P82"
+    },
+    {
+        "id": "83",
+        "name": "Kuantan",
+        "negeri_code": "ph",
+        "parliaments_code": "P83"
+    },
+    {
+        "id": "84",
+        "name": "Paya Besar",
+        "negeri_code": "ph",
+        "parliaments_code": "P84"
+    },
+    {
+        "id": "85",
+        "name": "Pekan",
+        "negeri_code": "ph",
+        "parliaments_code": "P85"
+    },
+    {
+        "id": "86",
+        "name": "Maran",
+        "negeri_code": "ph",
+        "parliaments_code": "P86"
+    },
+    {
+        "id": "87",
+        "name": "Kuala Krau",
+        "negeri_code": "ph",
+        "parliaments_code": "P87"
+    },
+    {
+        "id": "88",
+        "name": "Temerloh",
+        "negeri_code": "ph",
+        "parliaments_code": "P88"
+    },
+    {
+        "id": "89",
+        "name": "Bentong",
+        "negeri_code": "ph",
+        "parliaments_code": "P89"
+    },
+    {
+        "id": "90",
+        "name": "Bera",
+        "negeri_code": "ph",
+        "parliaments_code": "P90"
+    },
+    {
+        "id": "91",
+        "name": "Rompin",
+        "negeri_code": "ph",
+        "parliaments_code": "P91"
+    },
+    {
+        "id": "92",
+        "name": "Sabak Bernam",
+        "negeri_code": "sl",
+        "parliaments_code": "P92"
+    },
+    {
+        "id": "93",
+        "name": "Sungai Besar",
+        "negeri_code": "sl",
+        "parliaments_code": "P93"
+    },
+    {
+        "id": "94",
+        "name": "Ulu Selangor",
+        "negeri_code": "sl",
+        "parliaments_code": "P94"
+    },
+    {
+        "id": "95",
+        "name": "Tanjong Karang",
+        "negeri_code": "sl",
+        "parliaments_code": "P95"
+    },
+    {
+        "id": "96",
+        "name": "Kuala Selangor",
+        "negeri_code": "sl",
+        "parliaments_code": "P96"
+    },
+    {
+        "id": "97",
+        "name": "Selayang",
+        "negeri_code": "sl",
+        "parliaments_code": "P97"
+    },
+    {
+        "id": "98",
+        "name": "Gombak",
+        "negeri_code": "sl",
+        "parliaments_code": "P98"
+    },
+    {
+        "id": "99",
+        "name": "Ampang",
+        "negeri_code": "sl",
+        "parliaments_code": "P99"
+    },
+    {
+        "id": "100",
+        "name": "Pandan",
+        "negeri_code": "sl",
+        "parliaments_code": "P100"
+    },
+    {
+        "id": "101",
+        "name": "Hulu Langat",
+        "negeri_code": "sl",
+        "parliaments_code": "P101"
+    },
+    {
+        "id": "102",
+        "name": "Serdang",
+        "negeri_code": "sl",
+        "parliaments_code": "P102"
+    },
+    {
+        "id": "103",
+        "name": "Puchong",
+        "negeri_code": "sl",
+        "parliaments_code": "P103"
+    },
+    {
+        "id": "104",
+        "name": "Kelana Jaya",
+        "negeri_code": "sl",
+        "parliaments_code": "P104"
+    },
+    {
+        "id": "105",
+        "name": "PJ Selatan",
+        "negeri_code": "sl",
+        "parliaments_code": "P105"
+    },
+    {
+        "id": "106",
+        "name": "PJ Utara",
+        "negeri_code": "sl",
+        "parliaments_code": "P106"
+    },
+    {
+        "id": "107",
+        "name": "Subang",
+        "negeri_code": "sl",
+        "parliaments_code": "P107"
+    },
+    {
+        "id": "108",
+        "name": "Shah Alam",
+        "negeri_code": "sl",
+        "parliaments_code": "P108"
+    },
+    {
+        "id": "109",
+        "name": "Kapar",
+        "negeri_code": "sl",
+        "parliaments_code": "P109"
+    },
+    {
+        "id": "110",
+        "name": "Klang",
+        "negeri_code": "sl",
+        "parliaments_code": "P110"
+    },
+    {
+        "id": "111",
+        "name": "Kota Raja",
+        "negeri_code": "sl",
+        "parliaments_code": "P111"
+    },
+    {
+        "id": "112",
+        "name": "Kuala Langat",
+        "negeri_code": "sl",
+        "parliaments_code": "P112"
+    },
+    {
+        "id": "113",
+        "name": "Sepang",
+        "negeri_code": "sl",
+        "parliaments_code": "P113"
+    },
+    {
+        "id": "114",
+        "name": "Kepong",
+        "negeri_code": "wp",
+        "parliaments_code": "P114"
+    },
+    {
+        "id": "115",
+        "name": "Batu",
+        "negeri_code": "wp",
+        "parliaments_code": "P115"
+    },
+    {
+        "id": "116",
+        "name": "Wangsa Maju",
+        "negeri_code": "wp",
+        "parliaments_code": "P116"
+    },
+    {
+        "id": "117",
+        "name": "Segambut",
+        "negeri_code": "wp",
+        "parliaments_code": "P117"
+    },
+    {
+        "id": "118",
+        "name": "Setiawangsa",
+        "negeri_code": "wp",
+        "parliaments_code": "P118"
+    },
+    {
+        "id": "119",
+        "name": "Titiwangsa",
+        "negeri_code": "wp",
+        "parliaments_code": "P119"
+    },
+    {
+        "id": "120",
+        "name": "Bukit Bintang",
+        "negeri_code": "wp",
+        "parliaments_code": "P120"
+    },
+    {
+        "id": "121",
+        "name": "Lembah Pantai",
+        "negeri_code": "wp",
+        "parliaments_code": "P121"
+    },
+    {
+        "id": "122",
+        "name": "Seputeh",
+        "negeri_code": "wp",
+        "parliaments_code": "P122"
+    },
+    {
+        "id": "123",
+        "name": "Cheras",
+        "negeri_code": "wp",
+        "parliaments_code": "P123"
+    },
+    {
+        "id": "124",
+        "name": "Bandar Tun Razak",
+        "negeri_code": "wp",
+        "parliaments_code": "P124"
+    },
+    {
+        "id": "125",
+        "name": "Putrajaya",
+        "negeri_code": "wp",
+        "parliaments_code": "P125"
+    },
+    {
+        "id": "126",
+        "name": "Jelebu",
+        "negeri_code": "ns",
+        "parliaments_code": "P126"
+    },
+    {
+        "id": "127",
+        "name": "Jempol",
+        "negeri_code": "ns",
+        "parliaments_code": "P127"
+    },
+    {
+        "id": "128",
+        "name": "Seremban",
+        "negeri_code": "ns",
+        "parliaments_code": "P128"
+    },
+    {
+        "id": "129",
+        "name": "Kuala Pilah",
+        "negeri_code": "ns",
+        "parliaments_code": "P129"
+    },
+    {
+        "id": "130",
+        "name": "Rasah",
+        "negeri_code": "ns",
+        "parliaments_code": "P130"
+    },
+    {
+        "id": "131",
+        "name": "Rembau",
+        "negeri_code": "ns",
+        "parliaments_code": "P131"
+    },
+    {
+        "id": "132",
+        "name": "Teluk Kemang",
+        "negeri_code": "ns",
+        "parliaments_code": "P132"
+    },
+    {
+        "id": "133",
+        "name": "Tampin",
+        "negeri_code": "ns",
+        "parliaments_code": "P133"
+    },
+    {
+        "id": "134",
+        "name": "Masjid Tanah",
+        "negeri_code": "mk",
+        "parliaments_code": "P134"
+    },
+    {
+        "id": "135",
+        "name": "Alor Gajah",
+        "negeri_code": "mk",
+        "parliaments_code": "P135"
+    },
+    {
+        "id": "136",
+        "name": "Tangga Batu",
+        "negeri_code": "mk",
+        "parliaments_code": "P136"
+    },
+    {
+        "id": "137",
+        "name": "Bukit Katil",
+        "negeri_code": "mk",
+        "parliaments_code": "P137"
+    },
+    {
+        "id": "138",
+        "name": "Kota Melaka",
+        "negeri_code": "mk",
+        "parliaments_code": "P138"
+    },
+    {
+        "id": "139",
+        "name": "Jasin",
+        "negeri_code": "mk",
+        "parliaments_code": "P139"
+    },
+    {
+        "id": "140",
+        "name": "Segamat",
+        "negeri_code": "jh",
+        "parliaments_code": "P140"
+    },
+    {
+        "id": "141",
+        "name": "Sekijang",
+        "negeri_code": "jh",
+        "parliaments_code": "P141"
+    },
+    {
+        "id": "142",
+        "name": "Labis",
+        "negeri_code": "jh",
+        "parliaments_code": "P142"
+    },
+    {
+        "id": "143",
+        "name": "Pagoh",
+        "negeri_code": "jh",
+        "parliaments_code": "P143"
+    },
+    {
+        "id": "144",
+        "name": "Ledang",
+        "negeri_code": "jh",
+        "parliaments_code": "P144"
+    },
+    {
+        "id": "145",
+        "name": "Bakri",
+        "negeri_code": "jh",
+        "parliaments_code": "P145"
+    },
+    {
+        "id": "146",
+        "name": "Muar",
+        "negeri_code": "jh",
+        "parliaments_code": "P146"
+    },
+    {
+        "id": "147",
+        "name": "Parit Sulong",
+        "negeri_code": "jh",
+        "parliaments_code": "P147"
+    },
+    {
+        "id": "148",
+        "name": "Ayer Hitam",
+        "negeri_code": "jh",
+        "parliaments_code": "P148"
+    },
+    {
+        "id": "149",
+        "name": "Sri Gading",
+        "negeri_code": "jh",
+        "parliaments_code": "P149"
+    },
+    {
+        "id": "150",
+        "name": "Batu Pahat",
+        "negeri_code": "jh",
+        "parliaments_code": "P150"
+    },
+    {
+        "id": "151",
+        "name": "Simpang Renggam",
+        "negeri_code": "jh",
+        "parliaments_code": "P151"
+    },
+    {
+        "id": "152",
+        "name": "Kluang",
+        "negeri_code": "jh",
+        "parliaments_code": "P152"
+    },
+    {
+        "id": "153",
+        "name": "Sembrong",
+        "negeri_code": "jh",
+        "parliaments_code": "P153"
+    },
+    {
+        "id": "154",
+        "name": "Mersing",
+        "negeri_code": "jh",
+        "parliaments_code": "P154"
+    },
+    {
+        "id": "155",
+        "name": "Tenggara",
+        "negeri_code": "jh",
+        "parliaments_code": "P155"
+    },
+    {
+        "id": "156",
+        "name": "Kota Tinggi",
+        "negeri_code": "jh",
+        "parliaments_code": "P156"
+    },
+    {
+        "id": "157",
+        "name": "Pengerang",
+        "negeri_code": "jh",
+        "parliaments_code": "P157"
+    },
+    {
+        "id": "158",
+        "name": "Tebrau",
+        "negeri_code": "jh",
+        "parliaments_code": "P158"
+    },
+    {
+        "id": "159",
+        "name": "Pasir Gudang",
+        "negeri_code": "jh",
+        "parliaments_code": "P159"
+    },
+    {
+        "id": "160",
+        "name": "Johor Bahru",
+        "negeri_code": "jh",
+        "parliaments_code": "P160"
+    },
+    {
+        "id": "161",
+        "name": "Pulai",
+        "negeri_code": "jh",
+        "parliaments_code": "P161"
+    },
+    {
+        "id": "162",
+        "name": "Gelang Patah",
+        "negeri_code": "jh",
+        "parliaments_code": "P162"
+    },
+    {
+        "id": "163",
+        "name": "Kulai",
+        "negeri_code": "jh",
+        "parliaments_code": "P163"
+    },
+    {
+        "id": "164",
+        "name": "Pontian",
+        "negeri_code": "jh",
+        "parliaments_code": "P164"
+    },
+    {
+        "id": "165",
+        "name": "Tanjung Piai",
+        "negeri_code": "jh",
+        "parliaments_code": "P165"
+    },
+    {
+        "id": "166",
+        "name": "Labuan",
+        "negeri_code": "sb",
+        "parliaments_code": "P166"
+    },
+    {
+        "id": "167",
+        "name": "Kudat",
+        "negeri_code": "sb",
+        "parliaments_code": "P167"
+    },
+    {
+        "id": "168",
+        "name": "Kota Marudu",
+        "negeri_code": "sb",
+        "parliaments_code": "P168"
+    },
+    {
+        "id": "169",
+        "name": "Kota Belud",
+        "negeri_code": "sb",
+        "parliaments_code": "P169"
+    },
+    {
+        "id": "170",
+        "name": "Tuaran",
+        "negeri_code": "sb",
+        "parliaments_code": "P170"
+    },
+    {
+        "id": "171",
+        "name": "Sepanggar",
+        "negeri_code": "sb",
+        "parliaments_code": "P171"
+    },
+    {
+        "id": "172",
+        "name": "Kota Kinabalu",
+        "negeri_code": "sb",
+        "parliaments_code": "P172"
+    },
+    {
+        "id": "173",
+        "name": "Putatan",
+        "negeri_code": "sb",
+        "parliaments_code": "P173"
+    },
+    {
+        "id": "174",
+        "name": "Penampang",
+        "negeri_code": "sb",
+        "parliaments_code": "P174"
+    },
+    {
+        "id": "175",
+        "name": "Papar",
+        "negeri_code": "sb",
+        "parliaments_code": "P175"
+    },
+    {
+        "id": "176",
+        "name": "Kimanis",
+        "negeri_code": "sb",
+        "parliaments_code": "P176"
+    },
+    {
+        "id": "177",
+        "name": "Beaufort",
+        "negeri_code": "sb",
+        "parliaments_code": "P177"
+    },
+    {
+        "id": "178",
+        "name": "Sipitang",
+        "negeri_code": "sb",
+        "parliaments_code": "P178"
+    },
+    {
+        "id": "179",
+        "name": "Ranau",
+        "negeri_code": "sb",
+        "parliaments_code": "P179"
+    },
+    {
+        "id": "180",
+        "name": "Keningau",
+        "negeri_code": "sb",
+        "parliaments_code": "P180"
+    },
+    {
+        "id": "181",
+        "name": "Tenom",
+        "negeri_code": "sb",
+        "parliaments_code": "P181"
+    },
+    {
+        "id": "182",
+        "name": "Pensiangan",
+        "negeri_code": "sb",
+        "parliaments_code": "P182"
+    },
+    {
+        "id": "183",
+        "name": "Beluran",
+        "negeri_code": "sb",
+        "parliaments_code": "P183"
+    },
+    {
+        "id": "184",
+        "name": "Libaran",
+        "negeri_code": "sb",
+        "parliaments_code": "P184"
+    },
+    {
+        "id": "185",
+        "name": "Batu Sapi",
+        "negeri_code": "sb",
+        "parliaments_code": "P185"
+    },
+    {
+        "id": "186",
+        "name": "Sandakan",
+        "negeri_code": "sb",
+        "parliaments_code": "P186"
+    },
+    {
+        "id": "187",
+        "name": "Kinabatangan",
+        "negeri_code": "sb",
+        "parliaments_code": "P187"
+    },
+    {
+        "id": "188",
+        "name": "Silam",
+        "negeri_code": "sb",
+        "parliaments_code": "P188"
+    },
+    {
+        "id": "189",
+        "name": "Semporna",
+        "negeri_code": "sb",
+        "parliaments_code": "P189"
+    },
+    {
+        "id": "190",
+        "name": "Tawau",
+        "negeri_code": "sb",
+        "parliaments_code": "P190"
+    },
+    {
+        "id": "191",
+        "name": "Kalabakan",
+        "negeri_code": "sb",
+        "parliaments_code": "P191"
+    },
+    {
+        "id": "192",
+        "name": "Mas Gading",
+        "negeri_code": "sw",
+        "parliaments_code": "P192"
+    },
+    {
+        "id": "193",
+        "name": "Santubong",
+        "negeri_code": "sw",
+        "parliaments_code": "P193"
+    },
+    {
+        "id": "194",
+        "name": "Petra Jaya",
+        "negeri_code": "sw",
+        "parliaments_code": "P194"
+    },
+    {
+        "id": "195",
+        "name": "Bandar Kuching",
+        "negeri_code": "sw",
+        "parliaments_code": "P195"
+    },
+    {
+        "id": "196",
+        "name": "Stampin",
+        "negeri_code": "sw",
+        "parliaments_code": "P196"
+    },
+    {
+        "id": "197",
+        "name": "Kota Samarahan",
+        "negeri_code": "sw",
+        "parliaments_code": "P197"
+    },
+    {
+        "id": "198",
+        "name": "Mambong",
+        "negeri_code": "sw",
+        "parliaments_code": "P198"
+    },
+    {
+        "id": "199",
+        "name": "Serian",
+        "negeri_code": "sw",
+        "parliaments_code": "P199"
+    },
+    {
+        "id": "200",
+        "name": "Batang Sadong",
+        "negeri_code": "sw",
+        "parliaments_code": "P200"
+    },
+    {
+        "id": "201",
+        "name": "Batang Lupar",
+        "negeri_code": "sw",
+        "parliaments_code": "P201"
+    },
+    {
+        "id": "202",
+        "name": "Sri Aman",
+        "negeri_code": "sw",
+        "parliaments_code": "P202"
+    },
+    {
+        "id": "203",
+        "name": "Lubok Antu",
+        "negeri_code": "sw",
+        "parliaments_code": "P203"
+    },
+    {
+        "id": "204",
+        "name": "Betong",
+        "negeri_code": "sw",
+        "parliaments_code": "P204"
+    },
+    {
+        "id": "205",
+        "name": "Saratok",
+        "negeri_code": "sw",
+        "parliaments_code": "P205"
+    },
+    {
+        "id": "206",
+        "name": "Kuala Rajang",
+        "negeri_code": "sw",
+        "parliaments_code": "P206"
+    },
+    {
+        "id": "207",
+        "name": "Igan",
+        "negeri_code": "sw",
+        "parliaments_code": "P207"
+    },
+    {
+        "id": "208",
+        "name": "Sarikei",
+        "negeri_code": "sw",
+        "parliaments_code": "P208"
+    },
+    {
+        "id": "209",
+        "name": "Julau",
+        "negeri_code": "sw",
+        "parliaments_code": "P209"
+    },
+    {
+        "id": "210",
+        "name": "Kanowit",
+        "negeri_code": "sw",
+        "parliaments_code": "P210"
+    },
+    {
+        "id": "211",
+        "name": "Lanang",
+        "negeri_code": "sw",
+        "parliaments_code": "P211"
+    },
+    {
+        "id": "212",
+        "name": "Sibu",
+        "negeri_code": "sw",
+        "parliaments_code": "P212"
+    },
+    {
+        "id": "213",
+        "name": "Mukah",
+        "negeri_code": "sw",
+        "parliaments_code": "P213"
+    },
+    {
+        "id": "214",
+        "name": "Selangau",
+        "negeri_code": "sw",
+        "parliaments_code": "P214"
+    },
+    {
+        "id": "215",
+        "name": "Kapit",
+        "negeri_code": "sw",
+        "parliaments_code": "P215"
+    },
+    {
+        "id": "216",
+        "name": "Hulu Rajang",
+        "negeri_code": "sw",
+        "parliaments_code": "P216"
+    },
+    {
+        "id": "217",
+        "name": "Bintulu",
+        "negeri_code": "sw",
+        "parliaments_code": "P217"
+    },
+    {
+        "id": "218",
+        "name": "Sibuti",
+        "negeri_code": "sw",
+        "parliaments_code": "P218"
+    },
+    {
+        "id": "219",
+        "name": "Miri",
+        "negeri_code": "sw",
+        "parliaments_code": "P219"
+    },
+    {
+        "id": "220",
+        "name": "Baram",
+        "negeri_code": "sw",
+        "parliaments_code": "P220"
+    },
+    {
+        "id": "221",
+        "name": "Limbang",
+        "negeri_code": "sw",
+        "parliaments_code": "P221"
+    },
+    {
+        "id": "222",
+        "name": "Lawas",
+        "negeri_code": "sw",
+        "parliaments_code": "P222"
+    }
+]
