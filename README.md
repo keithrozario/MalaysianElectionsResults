@@ -11,4 +11,5 @@ Data is available in 4 formats
 + SQLite (in the SQLite folder)
 
 Some data is missing, run the following command (in the SQLite folder to get more details)
+
 python3 compare.py election-db
