@@ -1,576 +1,576 @@
-id|negeri_code|parliament_code|parliament_code_num|state_code|state_code_num|name
-1|pl|P1|1|N1|1|Titi Tinggi
-2|pl|P1|1|N2|2|Beseri
-3|pl|P1|1|N3|3|Chuping
-4|pl|P1|1|N4|4|Mata Ayer
-5|pl|P1|1|N5|5|Santan
-6|pl|P2|2|N6|6|Bintong
-7|pl|P2|2|N7|7|Sena
-8|pl|P2|2|N8|8|Indera Kayangan
-9|pl|P2|2|N9|9|Kuala Perlis
-10|pl|P2|2|N10|10|Kayang
-11|pl|P3|3|N11|11|Pauh
-12|pl|P3|3|N12|12|Tambun Tulang
-13|pl|P3|3|N13|13|Guar Sanji
-14|pl|P3|3|N14|14|Simpang Empat
-15|pl|P3|3|N15|15|Sanglang
-16|kd|P4|4|N1|1|Ayer Hangat
-17|kd|P4|4|N2|2|Kuah
-18|kd|P5|5|N3|3|Kota Siputeh
-19|kd|P5|5|N4|4|Ayer Hitam
-20|kd|P6|6|N5|5|Bukit Kayu Hitam
-21|kd|P6|6|N6|6|Jitra
-22|kd|P7|7|N7|7|Kuala Nerang
-23|kd|P7|7|N8|8|Pedu
-24|kd|P8|8|N9|9|Bukit Lada
-25|kd|P8|8|N10|10|Bukit Pinang
-26|kd|P8|8|N11|11|Derga
-27|kd|P9|9|N12|12|Bakar Bata
-28|kd|P9|9|N13|13|Kota Darulaman
-29|kd|P9|9|N14|14|Alor Mengkudu
-30|kd|P10|10|N15|15|Anak Bukit
-31|kd|P10|10|N16|16|Kubang Rotan
-32|kd|P10|10|N17|17|Pengkalan Kundor
-33|kd|P11|11|N18|18|Tokai
-34|kd|P11|11|N19|19|Sungai Tiang
-35|kd|P12|12|N20|20|Sungai Limau
-36|kd|P12|12|N21|21|Guar Chempedak
-37|kd|P12|12|N22|22|Gurun
-38|kd|P13|13|N23|23|Belantek
-39|kd|P13|13|N24|24|Jeneri
-40|kd|P14|14|N25|25|Bukit Selambau
-41|kd|P14|14|N26|26|Tanjong Dawai
-42|kd|P15|15|N27|27|Pantai Merdeka
-43|kd|P15|15|N28|28|Bakar Arang
-44|kd|P15|15|N29|29|Sidam
-45|kd|P16|16|N30|30|Bayu
-46|kd|P16|16|N31|31|Kupang
-47|kd|P16|16|N32|32|Kuala Ketil
-48|kd|P17|17|N33|33|Merbau Pulas
-49|kd|P17|17|N34|34|Lunas
-50|kd|P18|18|N35|35|Kulim
-51|kd|P18|18|N36|36|Bandar Baharu
-52|ke|P19|19|N1|1|Pengkalan Kubor
-53|ke|P19|19|N2|2|Kelaboran
-54|ke|P19|19|N3|3|Pasir Pekan
-55|ke|P19|19|N4|4|Wakaf Bharu
-56|ke|P20|20|N5|5|Kijang
-57|ke|P20|20|N6|6|Chempaka
-58|ke|P20|20|N7|7|Panchor
-59|ke|P21|21|N8|8|Tanjong Mas
-60|ke|P21|21|N9|9|Kota Lama
-61|ke|P21|21|N10|10|Bunut Payong
-62|ke|P22|22|N11|11|Tendong
-63|ke|P22|22|N12|12|Pengkalan Pasir
-64|ke|P22|22|N13|13|Chetok
-65|ke|P23|23|N14|14|Meranti
-66|ke|P23|23|N15|15|Gual Periok
-67|ke|P23|23|N16|16|Bukit Tuku
-68|ke|P24|24|N17|17|Salor
-69|ke|P24|24|N18|18|Pasir Tumboh
-70|ke|P24|24|N19|19|Demit
-71|ke|P25|25|N20|20|Tawang
-72|ke|P25|25|N21|21|Perupok
-73|ke|P25|25|N22|22|Jelawat
-74|ke|P26|26|N23|23|Melor
-75|ke|P26|26|N24|24|Kadok
-76|ke|P26|26|N25|25|Kok Lanas
-77|ke|P27|27|N26|26|Bukit Panau
-78|ke|P27|27|N27|27|Gual Ipoh
-79|ke|P27|27|N28|28|Kemahang
-80|ke|P28|28|N29|29|Selising
-81|ke|P28|28|N30|30|Limbongan
-82|ke|P28|28|N31|31|Semerak
-83|ke|P28|28|N32|32|Gaal
-84|ke|P29|29|N33|33|Pulai Chondong
-85|ke|P29|29|N34|34|Temangan
-86|ke|P29|29|N35|35|Kemuning
-87|ke|P30|30|N36|36|Bukit Bunga
-88|ke|P30|30|N37|37|Air Lanas
-89|ke|P30|30|N38|38|Kuala Balah
-90|ke|P31|31|N39|39|Mengkebang
-91|ke|P31|31|N40|40|Guchil
-92|ke|P31|31|N41|41|Manek Urai
-93|ke|P31|31|N42|42|Dabong
-94|ke|P32|32|N43|43|Nenggiri
-95|ke|P32|32|N44|44|Paloh
-96|ke|P32|32|N45|45|Galas
-97|kt|P33|33|N1|1|Kuala Besut
-98|kt|P33|33|N2|2|Kota Putera
-99|kt|P33|33|N3|3|Jertih
-100|kt|P33|33|N4|4|Hulu Besut
-101|kt|P34|34|N5|5|Jabi
-102|kt|P34|34|N6|6|Permaisuri
-103|kt|P34|34|N7|7|Langkap
-104|kt|P34|34|N8|8|Batu Rakit
-105|kt|P35|35|N9|9|Tepuh
-106|kt|P35|35|N10|10|Teluk Pasu
-107|kt|P35|35|N11|11|Seberang Takir
-108|kt|P35|35|N12|12|Bukit Tunggal
-109|kt|P36|36|N13|13|Wakaf Mempelam
-110|kt|P36|36|N14|14|Bandar
-111|kt|P36|36|N15|15|Ladang
-112|kt|P36|36|N16|16|Batu Buruk
-113|kt|P37|37|N17|17|Alur Limbat
-114|kt|P37|37|N18|18|Bukit Payung
-115|kt|P37|37|N19|19|Ru Rendang
-116|kt|P37|37|N20|20|Pengkalan Berangan
-117|kt|P38|38|N21|21|Telemung
-118|kt|P38|38|N22|22|Manir
-119|kt|P38|38|N23|23|Kuala Berang
-120|kt|P38|38|N24|24|Ajil
-121|kt|P39|39|N25|25|Bukit Besi
-122|kt|P39|39|N26|26|Rantau Abang
-123|kt|P39|39|N27|27|Sura
-124|kt|P39|39|N28|28|Paka
-125|kt|P40|40|N29|29|Kemasek
-126|kt|P40|40|N30|30|Kijal
-127|kt|P40|40|N31|31|Chukai
-128|kt|P40|40|N32|32|Air Putih
-129|pn|P41|41|N1|1|Penaga
-130|pn|P41|41|N2|2|Bertam
-131|pn|P41|41|N3|3|Pinang Tunggal
-132|pn|P42|42|N4|4|Permatang Berangan
-133|pn|P42|42|N5|5|Sungai Dua
-134|pn|P42|42|N6|6|Telok Ayer Tawar
-135|pn|P43|43|N7|7|Sungai Puyu
-136|pn|P43|43|N8|8|Bagan Jermal
-137|pn|P43|43|N9|9|Bagan Dalam
-138|pn|P44|44|N10|10|Seberang Jaya
-139|pn|P44|44|N11|11|Permatang Pasir
-140|pn|P44|44|N12|12|Penanti
-141|pn|P45|45|N13|13|Berapit
-142|pn|P45|45|N14|14|Machang Bubok
-143|pn|P45|45|N15|15|Padang Lalang
-144|pn|P46|46|N16|16|Perai
-145|pn|P46|46|N17|17|Bukit Tengah
-146|pn|P46|46|N18|18|Bukit Tambun
-147|pn|P47|47|N19|19|Jawi
-148|pn|P47|47|N20|20|Sungai Bakap
-149|pn|P47|47|N21|21|Sungai Acheh
-150|pn|P48|48|N22|22|Tanjong Bunga
-151|pn|P48|48|N23|23|Air Putih
-152|pn|P48|48|N24|24|Kebun Bunga
-153|pn|P48|48|N25|25|Pulau Tikus
-154|pn|P49|49|N26|26|Padang Kota
-155|pn|P49|49|N27|27|Pengkalan Kota
-156|pn|P49|49|N28|28|Komtar
-157|pn|P50|50|N29|29|Datok Keramat
-158|pn|P50|50|N30|30|Sungai Pinang
-159|pn|P50|50|N31|31|Batu Lancang
-160|pn|P51|51|N32|32|Seri Delima
-161|pn|P51|51|N33|33|Air Itam
-162|pn|P51|51|N34|34|Paya Terubong
-163|pn|P52|52|N35|35|Batu Uban
-164|pn|P52|52|N36|36|Pantai Jerejak
-165|pn|P52|52|N37|37|Batu Maung
-166|pn|P53|53|N38|38|Bayan Lepas
-167|pn|P53|53|N39|39|Pulau Betong
-168|pn|P53|53|N40|40|Telok Bahang
-169|pr|P54|54|N1|1|Pengkalan Hulu
-170|pr|P54|54|N2|2|Temegor
-171|pr|P55|55|N3|3|Kenering
-172|pr|P55|55|N4|4|Kota Tampan
-173|pr|P56|56|N5|5|Selama
-174|pr|P56|56|N6|6|Kubu Gajah
-175|pr|P56|56|N7|7|Batu Kurau
-176|pr|P57|57|N8|8|Titi Serong
-177|pr|P57|57|N9|9|Kuala Kurau
-178|pr|P58|58|N10|10|Alor Pongsu
-179|pr|P58|58|N11|11|Gunong Semanggol
-180|pr|P58|58|N12|12|Selinsing
-181|pr|P59|59|N13|13|Kuala Sapetang
-182|pr|P59|59|N14|14|Changkat Jering
-183|pr|P59|59|N15|15|Trong
-184|pr|P60|60|N16|16|Kamunting
-185|pr|P60|60|N17|17|Pokok Assam
-186|pr|P60|60|N18|18|Aulong
-187|pr|P61|61|N19|19|Chenderoh
-188|pr|P61|61|N20|20|Lubok Merbau
-189|pr|P62|62|N21|21|Lintang
-190|pr|P62|62|N22|22|Jalong
-191|pr|P63|63|N23|23|Manjoi
-192|pr|P63|63|N24|24|Hulu Kinta
-193|pr|P64|64|N25|25|Canning
-194|pr|P64|64|N26|26|Tebing Tinggi
-195|pr|P64|64|N27|27|Pasir Pinji
-196|pr|P65|65|N28|28|Bercham
-197|pr|P65|65|N29|29|Kepayang
-198|pr|P65|65|N30|30|Buntong
-199|pr|P66|66|N31|31|Jelapang
-200|pr|P66|66|N32|32|Menglembu
-201|pr|P66|66|N33|33|Tronoh
-202|pr|P67|67|N34|34|Bukit Chandan
-203|pr|P67|67|N35|35|Manong
-204|pr|P68|68|N36|36|Pengkalan Baru
-205|pr|P68|68|N37|37|Pantai Remis
-206|pr|P69|69|N38|38|Belanja
-207|pr|P69|69|N39|39|Bota
-208|pr|P70|70|N40|40|Malim Nawar
-209|pr|P70|70|N41|41|Keranji
-210|pr|P70|70|N42|42|Tualang Sekah
-211|pr|P71|71|N43|43|Sungai Rapat
-212|pr|P71|71|N44|44|Simpang Pulai
-213|pr|P71|71|N45|45|Teja
-214|pr|P72|72|N46|46|Chenderiang
-215|pr|P72|72|N47|47|Ayer Kuning
-216|pr|P73|73|N48|48|Sungei Manik
-217|pr|P73|73|N49|49|Kampong Gajah
-218|pr|P74|74|N50|50|Sitiawan
-219|pr|P74|74|N51|51|Pasir Panjang
-220|pr|P74|74|N52|52|Pangkor
-221|pr|P75|75|N53|53|Rungkup
-222|pr|P75|75|N54|54|Hutan Melintang
-223|pr|P76|76|N55|55|Pasir Bedemar
-224|pr|P76|76|N56|56|Changkat Jong
-225|pr|P77|77|N57|57|Sungkai
-226|pr|P77|77|N58|58|Slim
-227|pr|P77|77|N59|59|Behrang
-228|ph|P78|78|N1|1|Tanah Rata
-229|ph|P78|78|N2|2|Jelai
-230|ph|P79|79|N3|3|Padang Tengku
-231|ph|P79|79|N4|4|Ceka
-232|ph|P79|79|N5|5|Benta
-233|ph|P80|80|N6|6|Batu Talam
-234|ph|P80|80|N7|7|Teras
-235|ph|P80|80|N8|8|Dong
-236|ph|P81|81|N9|9|Tahan
-237|ph|P81|81|N10|10|Damak
-238|ph|P81|81|N11|11|Pulau Tawar
-239|ph|P82|82|N12|12|Beserah
-240|ph|P82|82|N13|13|Semambu
-241|ph|P83|83|N14|14|Teruntum
-242|ph|P83|83|N15|15|Tanjung Lumpur
-243|ph|P83|83|N16|16|Inderapura
-244|ph|P84|84|N17|17|Sungai Lembing
-245|ph|P84|84|N18|18|Lepar
-246|ph|P84|84|N19|19|Panching
-247|ph|P85|85|N20|20|Pulau Manis
-248|ph|P85|85|N21|21|Peramu Jaya
-249|ph|P85|85|N22|22|Bebar
-250|ph|P85|85|N23|23|Cini
-251|ph|P86|86|N24|24|Luit
-252|ph|P86|86|N25|25|Kuala Sentul
-253|ph|P86|86|N26|26|Cenur
-254|ph|P87|87|N27|27|Jenderak
-255|ph|P87|87|N28|28|Kerdau
-256|ph|P87|87|N29|29|Jengka
-257|ph|P88|88|N30|30|Mentakab
-258|ph|P88|88|N31|31|Lancang
-259|ph|P88|88|N32|32|Kuala Semantan
-260|ph|P89|89|N33|33|Bilut
-261|ph|P89|89|N34|34|Ketari
-262|ph|P89|89|N35|35|Sabai
-263|ph|P89|89|N36|36|Pelangai
-264|ph|P90|90|N37|37|Guai
-265|ph|P90|90|N38|38|Teriang
-266|ph|P90|90|N39|39|Kemayan
-267|ph|P91|91|N40|40|Bukit Ibam
-268|ph|P91|91|N41|41|Muadzam Shah
-269|ph|P91|91|N42|42|Tioman
-270|sl|P92|92|N1|1|Sungai Ayer Tawar
-271|sl|P92|92|N2|2|Sabak
-272|sl|P93|93|N3|3|Sungai Panjang
-273|sl|P93|93|N4|4|Sekinchan
-274|sl|P94|94|N5|5|Ulu Bernam
-275|sl|P94|94|N6|6|Kuala Kubu Bahru
-276|sl|P94|94|N7|7|Batang Kali
-277|sl|P95|95|N8|8|Sungai Burong
-278|sl|P95|95|N9|9|Permatang
-279|sl|P96|96|N10|10|Bukit Melawati
-280|sl|P96|96|N11|11|Ijok
-281|sl|P96|96|N12|12|Jeram
-282|sl|P97|97|N13|13|Kuang
-283|sl|P97|97|N14|14|Rawang
-284|sl|P97|97|N15|15|Taman Templar
-285|sl|P98|98|N16|16|Batu Caves
-286|sl|P98|98|N17|17|Gombak Setia
-287|sl|P98|98|N18|18|Ulu Kelang
-288|sl|P99|99|N19|19|Bukit Antarabangsa
-289|sl|P99|99|N20|20|Lembah Jaya
-290|sl|P100|100|N21|21|Chempaka
-291|sl|P100|100|N22|22|Teratai
-292|sl|P101|101|N23|23|Dusun Tua
-293|sl|P101|101|N24|24|Semenyih
-294|sl|P101|101|N25|25|Kajang
-295|sl|P102|102|N26|26|Bangi
-296|sl|P102|102|N27|27|Balakong
-297|sl|P102|102|N28|28|Sri Kembangan
-298|sl|P103|103|N29|29|Sri Serdang
-299|sl|P103|103|N30|30|Kinrara
-300|sl|P104|104|N31|31|Subang Jaya
-301|sl|P104|104|N32|32|Seri Setia
-302|sl|P105|105|N33|33|Taman Medan
-303|sl|P105|105|N34|34|Bukit Gasing
-304|sl|P106|106|N35|35|Kampung Tunku
-305|sl|P106|106|N36|36|Damansara Utama
-306|sl|P107|107|N37|37|Bukit Lanjan
-307|sl|P107|107|N38|38|Paya Jaras
-308|sl|P107|107|N39|39|Kota Damansara
-309|sl|P108|108|N40|40|Kota Anggerik
-310|sl|P108|108|N41|41|Batu Tiga
-311|sl|P109|109|N42|42|Meru
-312|sl|P109|109|N43|43|Sementa
-313|sl|P109|109|N44|44|Sungai Pinang
-314|sl|P109|109|N45|45|Selat Klang
-315|sl|P110|110|N46|46|Pelabuhan Klang
-316|sl|P110|110|N47|47|Pandamaran
-317|sl|P110|110|N48|48|Kota Alam Shah
-318|sl|P111|111|N49|49|Seri Andalas
-319|sl|P111|111|N50|50|Sri Muda
-320|sl|P112|112|N51|51|Sijangkang
-321|sl|P112|112|N52|52|Teluk Datuk
-322|sl|P112|112|N53|53|Morib
-323|sl|P113|113|N54|54|Tanjong Sepat
-324|sl|P113|113|N55|55|Dengkil
-325|sl|P113|113|N56|56|Sungai Pelek
-326|ns|P126|126|N1|1|Chennah
-327|ns|P126|126|N2|2|Pertang
-328|ns|P126|126|N3|3|Sungai Lui
-329|ns|P126|126|N4|4|Klawang
-330|ns|P127|127|N5|5|Serting
-331|ns|P127|127|N6|6|Palong
-332|ns|P127|127|N7|7|Jeram Padang
-333|ns|P127|127|N8|8|Bahau
-334|ns|P128|128|N9|9|Lenggeng
-335|ns|P128|128|N10|10|Nilai
-336|ns|P128|128|N11|11|Lobak
-337|ns|P128|128|N12|12|Temiang
-338|ns|P128|128|N13|13|Sikamat
-339|ns|P128|128|N14|14|Ampangan
-340|ns|P129|129|N15|15|Juasseh
-341|ns|P129|129|N16|16|Seri Menanti
-342|ns|P129|129|N17|17|Senaling
-343|ns|P129|129|N18|18|Pilah
-344|ns|P129|129|N19|19|Johol
-345|ns|P130|130|N20|20|Labu
-346|ns|P130|130|N21|21|Bukit Kepayang
-347|ns|P130|130|N22|22|Rahang
-348|ns|P130|130|N23|23|Mambau
-349|ns|P130|130|N24|24|Senawang
-350|ns|P131|131|N25|25|Paroi
-351|ns|P131|131|N26|26|Chembong
-352|ns|P131|131|N27|27|Rantau
-353|ns|P131|131|N28|28|Kota
-354|ns|P132|132|N29|29|Chuah
-355|ns|P132|132|N30|30|Lukut
-356|ns|P132|132|N31|31|Bagan Pinang
-357|ns|P132|132|N32|32|Linggi
-358|ns|P132|132|N33|33|Port Dickson
-359|ns|P133|133|N34|34|Gemas
-360|ns|P133|133|N35|35|Gemencheh
-361|ns|P133|133|N36|36|Repah
-362|mk|P134|134|N1|1|Kuala Linggi
-363|mk|P134|134|N2|2|Tanjong Bidara
-364|mk|P134|134|N3|3|Ayer Limau
-365|mk|P134|134|N4|4|Lendu
-366|mk|P134|134|N5|5|Taboh Naning
-367|mk|P135|135|N6|6|Rembia
-368|mk|P135|135|N7|7|Gadek
-369|mk|P135|135|N8|8|Machap
-370|mk|P135|135|N9|9|Durian Tunggal
-371|mk|P135|135|N10|10|Asahan
-372|mk|P136|136|N11|11|Sungai Udang
-373|mk|P136|136|N12|12|Pantai Kundor
-374|mk|P136|136|N13|13|Paya Rumput
-375|mk|P136|136|N14|14|Kelebang
-376|mk|P137|137|N15|15|Bachang
-377|mk|P137|137|N16|16|Ayer Keroh
-378|mk|P137|137|N17|17|Bukit Baru
-379|mk|P137|137|N18|18|Ayer Molek
-380|mk|P138|138|N19|19|Kesidang
-381|mk|P138|138|N20|20|Kota Laksamana
-382|mk|P138|138|N21|21|Duyong
-383|mk|P138|138|N22|22|Bandar Hilir
-384|mk|P138|138|N23|23|Telok Mas
-385|mk|P139|139|N24|24|Bemban
-386|mk|P139|139|N25|25|Rim
-387|mk|P139|139|N26|26|Serkam
-388|mk|P139|139|N27|27|Merlimau
-389|mk|P139|139|N28|28|Sungai Rambai
-390|jh|P140|140|N1|1|Buloh Kasap
-391|jh|P140|140|N2|2|Jemetah
-392|jh|P141|141|N3|3|Pemanis
-393|jh|P141|141|N4|4|Kemelah
-394|jh|P142|142|N5|5|Tenang
-395|jh|P142|142|N6|6|Bekok
-396|jh|P143|143|N7|7|Bukit Serampang
-397|jh|P143|143|N8|8|Jorak
-398|jh|P144|144|N9|9|Gambir
-399|jh|P144|144|N10|10|Tangkak
-400|jh|P144|144|N11|11|Serom
-401|jh|P145|145|N12|12|Bentayan
-402|jh|P145|145|N13|13|Sungai Abong
-403|jh|P145|145|N14|14|Bukit Naning
-404|jh|P146|146|N15|15|Maharani
-405|jh|P146|146|N16|16|Sungai Balang
-406|jh|P147|147|N17|17|Semerah
-407|jh|P147|147|N18|18|Sri Medan
-408|jh|P148|148|N19|19|Yong Peng
-409|jh|P148|148|N20|20|Semarang
-410|jh|P149|149|N21|21|Parit Yaani
-411|jh|P149|149|N22|22|Parit Raja
-412|jh|P150|150|N23|23|Penggaram
-413|jh|P150|150|N24|24|Senggarang
-414|jh|P150|150|N25|25|Rengit
-415|jh|P151|151|N26|26|Machap
-416|jh|P151|151|N27|27|Layang-Layang
-417|jh|P152|152|N28|28|Mengkibol
-418|jh|P152|152|N29|29|Mahkota
-419|jh|P153|153|N30|30|Paloh
-420|jh|P153|153|N31|31|Kahang
-421|jh|P154|154|N32|32|Endau
-422|jh|P154|154|N33|33|Tenggaroh
-423|jh|P155|155|N34|34|Panti
-424|jh|P155|155|N35|35|Pasir Raja
-425|jh|P156|156|N36|36|Sedili
-426|jh|P156|156|N37|37|Johor Lama
-427|jh|P157|157|N38|38|Penawar
-428|jh|P157|157|N39|39|Tanjong Surat
-429|jh|P158|158|N40|40|Tiram
-430|jh|P158|158|N41|41|Puteri Wangsa
-431|jh|P159|159|N42|42|Johor Jaya
-432|jh|P159|159|N43|43|Permas
-433|jh|P160|160|N44|44|Tanjong Puteri
-434|jh|P160|160|N45|45|Stulang
-435|jh|P161|161|N46|46|Pengkalan Rinting
-436|jh|P161|161|N47|47|Kempas
-437|jh|P162|162|N48|48|Skudai
-438|jh|P162|162|N49|49|Nusa Jaya
-439|jh|P163|163|N50|50|Bukit Permai
-440|jh|P163|163|N51|51|Bukit Batu
-441|jh|P163|163|N52|52|Senai
-442|jh|P164|164|N53|53|Benut
-443|jh|P164|164|N54|54|Pulai Sebatang
-444|jh|P165|165|N55|55|Pekan Nenas
-445|jh|P165|165|N56|56|Kukup
-446|sb|P169|169|N6|6| Tempasuk 
-447|sb|P168|168|N5|5| Tandek 
-448|sb|P168|168|N4|4| Matunggong 
-449|sb|P167|167|N1|1| Banggi 
-450|sb|P167|167|N2|2| Tanjong Kapar 
-451|sb|P167|167|N3|3| Pitas 
-452|sb|P188|188|N50|50| Lahad Datu 
-453|sb|P188|188|N49|49| Tungku 
-454|sb|P187|187|N48|48| Sukau 
-455|sb|P187|187|N47|47| Kuamut 
-456|sb|P186|186|N46|46| Tanjong Papat 
-457|sb|P186|186|N45|45| Elopura 
-458|sb|P185|185|N44|44|  Karamunting 
-459|sb|P185|185|N43|43| Sekong 
-460|sb|P184|184|N42|42| Sungai Sibuga 
-461|sb|P183|183|N40|40| Labuk 
-462|sb|P184|184|N41|41| Gum-Gum 
-463|sb|P183|183|N39|39| Sugut 
-464|sb|P182|182|N38|38| Nabawan 
-465|sb|P182|182|N37|37| Sook 
-466|sb|P181|181|N36|36| Kemabong 
-467|sb|P181|181|N35|35| Melalap 
-468|sb|P180|180|N34|34| Liawan 
-469|sb|P180|180|N33|33| Bingkor 
-470|sb|P180|180|N32|32| Tambunan 
-471|sb|P179|179|N31|31| Paginatan 
-472|sb|P179|179|N30|30| Karanaan 
-473|sb|P179|179|N29|29| Kundasang 
-474|sb|P178|178|N28|28| Sindumin 
-475|sb|P178|178|N27|27| Lumadan 
-476|sb|P177|177|N25|25| Klias 
-477|sb|P177|177|N26|26| Kuala Penyu 
-478|sb|P176|176|N23|23| Bongawan 
-479|sb|P176|176|N24|24| Membakut 
-480|sb|P175|175|N22|22| Pantai Manis 
-481|sb|P175|175|N21|21| Kawang 
-482|sb|P174|174|N20|20| Moyog 
-483|sb|P174|174|N19|19| Kapayan 
-484|sb|P173|173|N18|18| Petagas 
-485|sb|P173|173|N17|17| Tanjong Aru 
-486|sb|P172|172|N15|15| Api-Api 
-487|sb|P172|172|N16|16| Luyang 
-488|sb|P172|172|N14|14| Likas 
-489|sb|P171|171|N13|13| Inanam 
-490|sb|P171|171|N12|12| Karambunai 
-491|sb|P170|170|N11|11| Kiulu 
-492|sb|P170|170|N10|10| Sulaman 
-493|sb|P170|170|N9|9| Tamparuli 
-494|sb|P169|169|N8|8| Usukan 
-495|sb|P169|169|N7|7| Kadamaian 
-496|sw|P192|192|N1|1|Opar
-497|sw|P192|192|N2|2|Tasik Biru
-498|sw|P193|193|N3|3|Tanjong Datu
-499|sw|P193|193|N4|4|Pantai Damai
-500|sw|P193|193|N5|5|Demak Laut
-501|sw|P194|194|N6|6|Tupong
-502|sw|P194|194|N7|7|Samariang
-503|sw|P194|194|N8|8|Satok
-504|sw|P195|195|N9|9|Padungan
-505|sw|P195|195|N10|10|Pending
-506|sw|P196|196|N11|11|Batu Lintang
-507|sw|P196|196|N12|12|Kota Sentosa
-508|sw|P196|196|N13|13|Batu Kawah
-509|sw|P197|197|N14|14|Asajaya
-510|sw|P197|197|N15|15|Muara Tuang
-511|sw|P198|198|N16|16|Bengoh
-512|sw|P198|198|N17|17|Tarat
-513|sw|P199|199|N18|18|Tebedu
-514|sw|P199|199|N19|19|Kedup
-515|sw|P200|200|N20|20|Sadong Jaya
-516|sw|P200|200|N21|21|Simunjan
-517|sw|P201|201|N22|22|Sebuyau
-518|sw|P201|201|N23|23|Lingga
-519|sw|P201|201|N24|24|Beting Maro
-520|sw|P202|202|N25|25|Balai Ringin
-521|sw|P202|202|N26|26|Bukit Begunan
-522|sw|P202|202|N27|27|Simanggang
-523|sw|P203|203|N28|28|Engkilili
-524|sw|P203|203|N29|29|Batang Air
-525|sw|P204|204|N30|30|Saribas
-526|sw|P204|204|N31|31|Layar
-527|sw|P204|204|N32|32|Bukit Saban
-528|sw|P205|205|N33|33|Kalaka
-529|sw|P205|205|N34|34|Krian
-530|sw|P206|206|N35|35|Belawai
-531|sw|P206|206|N36|36|Semop
-532|sw|P207|207|N37|37|Daro
-533|sw|P207|207|N38|38|Jemoreng
-534|sw|P208|208|N39|39|Repok
-535|sw|P208|208|N40|40|Meradong
-536|sw|P209|209|N41|41|Pakan
-537|sw|P209|209|N42|42|Meluan
-538|sw|P210|210|N43|43|Ngemah
-539|sw|P210|210|N44|44|Machan
-540|sw|P211|211|N45|45|Bukit Assek
-541|sw|P211|211|N46|46|Dudong
-542|sw|P212|212|N47|47|Bawang Assan
-543|sw|P212|212|N48|48|Pelawan
-544|sw|P212|212|N49|49|Nangka
-545|sw|P213|213|N50|50|Dalat
-546|sw|P213|213|N51|51|Balingian
-547|sw|P214|214|N52|52|Tamin
-548|sw|P214|214|N53|53|Kakus
-549|sw|P215|215|N54|54|Pelagus
-550|sw|P215|215|N55|55|Katibas
-551|sw|P216|216|N56|56|Baleh
-552|sw|P216|216|N57|57|Belaga
-553|sw|P217|217|N58|58|Jepak
-554|sw|P217|217|N59|59|Kidurong
-555|sw|P217|217|N60|60|Kemena
-556|sw|P218|218|N61|61|Bekenu
-557|sw|P218|218|N62|62|Lambir
-558|sw|P219|219|N63|63|Piasau
-559|sw|P219|219|N64|64|Pujut
-560|sw|P219|219|N65|65|Senadin
-561|sw|P220|220|N66|66|Marudi
-562|sw|P220|220|N67|67|Telang Usan
-563|sw|P221|221|N68|68|Batu Kota
-564|sw|P221|221|N69|69|Batu Danau
-565|sw|P222|222|N71|71|Bukit Sari
-566|sb|P188|188|N51|51| Kunak 
-567|sb|P189|189|N52|52| Sulabayan 
-568|sb|P189|189|N53|53| Senalingan 
-569|sb|P189|189|N54|54| Bugaya 
-570|sb|P190|190|N55|55| Balung 
-571|sb|P190|190|N56|56| Apas 
-572|sb|P190|190|N57|57| Sri Tanjong 
-573|sb|P191|191|N58|58| Merotai 
-574|sb|P191|191|N59|59| Tanjong Batu 
-575|sb|P191|191|N60|60| Sebatik 
+id,negeri_code,parliament_code,parliament_code_num,state_code,state_code_num,name
+1,pl,P1,1,N1,1,Titi Tinggi
+2,pl,P1,1,N2,2,Beseri
+3,pl,P1,1,N3,3,Chuping
+4,pl,P1,1,N4,4,Mata Ayer
+5,pl,P1,1,N5,5,Santan
+6,pl,P2,2,N6,6,Bintong
+7,pl,P2,2,N7,7,Sena
+8,pl,P2,2,N8,8,Indera Kayangan
+9,pl,P2,2,N9,9,Kuala Perlis
+10,pl,P2,2,N10,10,Kayang
+11,pl,P3,3,N11,11,Pauh
+12,pl,P3,3,N12,12,Tambun Tulang
+13,pl,P3,3,N13,13,Guar Sanji
+14,pl,P3,3,N14,14,Simpang Empat
+15,pl,P3,3,N15,15,Sanglang
+16,kd,P4,4,N1,1,Ayer Hangat
+17,kd,P4,4,N2,2,Kuah
+18,kd,P5,5,N3,3,Kota Siputeh
+19,kd,P5,5,N4,4,Ayer Hitam
+20,kd,P6,6,N5,5,Bukit Kayu Hitam
+21,kd,P6,6,N6,6,Jitra
+22,kd,P7,7,N7,7,Kuala Nerang
+23,kd,P7,7,N8,8,Pedu
+24,kd,P8,8,N9,9,Bukit Lada
+25,kd,P8,8,N10,10,Bukit Pinang
+26,kd,P8,8,N11,11,Derga
+27,kd,P9,9,N12,12,Bakar Bata
+28,kd,P9,9,N13,13,Kota Darulaman
+29,kd,P9,9,N14,14,Alor Mengkudu
+30,kd,P10,10,N15,15,Anak Bukit
+31,kd,P10,10,N16,16,Kubang Rotan
+32,kd,P10,10,N17,17,Pengkalan Kundor
+33,kd,P11,11,N18,18,Tokai
+34,kd,P11,11,N19,19,Sungai Tiang
+35,kd,P12,12,N20,20,Sungai Limau
+36,kd,P12,12,N21,21,Guar Chempedak
+37,kd,P12,12,N22,22,Gurun
+38,kd,P13,13,N23,23,Belantek
+39,kd,P13,13,N24,24,Jeneri
+40,kd,P14,14,N25,25,Bukit Selambau
+41,kd,P14,14,N26,26,Tanjong Dawai
+42,kd,P15,15,N27,27,Pantai Merdeka
+43,kd,P15,15,N28,28,Bakar Arang
+44,kd,P15,15,N29,29,Sidam
+45,kd,P16,16,N30,30,Bayu
+46,kd,P16,16,N31,31,Kupang
+47,kd,P16,16,N32,32,Kuala Ketil
+48,kd,P17,17,N33,33,Merbau Pulas
+49,kd,P17,17,N34,34,Lunas
+50,kd,P18,18,N35,35,Kulim
+51,kd,P18,18,N36,36,Bandar Baharu
+52,ke,P19,19,N1,1,Pengkalan Kubor
+53,ke,P19,19,N2,2,Kelaboran
+54,ke,P19,19,N3,3,Pasir Pekan
+55,ke,P19,19,N4,4,Wakaf Bharu
+56,ke,P20,20,N5,5,Kijang
+57,ke,P20,20,N6,6,Chempaka
+58,ke,P20,20,N7,7,Panchor
+59,ke,P21,21,N8,8,Tanjong Mas
+60,ke,P21,21,N9,9,Kota Lama
+61,ke,P21,21,N10,10,Bunut Payong
+62,ke,P22,22,N11,11,Tendong
+63,ke,P22,22,N12,12,Pengkalan Pasir
+64,ke,P22,22,N13,13,Chetok
+65,ke,P23,23,N14,14,Meranti
+66,ke,P23,23,N15,15,Gual Periok
+67,ke,P23,23,N16,16,Bukit Tuku
+68,ke,P24,24,N17,17,Salor
+69,ke,P24,24,N18,18,Pasir Tumboh
+70,ke,P24,24,N19,19,Demit
+71,ke,P25,25,N20,20,Tawang
+72,ke,P25,25,N21,21,Perupok
+73,ke,P25,25,N22,22,Jelawat
+74,ke,P26,26,N23,23,Melor
+75,ke,P26,26,N24,24,Kadok
+76,ke,P26,26,N25,25,Kok Lanas
+77,ke,P27,27,N26,26,Bukit Panau
+78,ke,P27,27,N27,27,Gual Ipoh
+79,ke,P27,27,N28,28,Kemahang
+80,ke,P28,28,N29,29,Selising
+81,ke,P28,28,N30,30,Limbongan
+82,ke,P28,28,N31,31,Semerak
+83,ke,P28,28,N32,32,Gaal
+84,ke,P29,29,N33,33,Pulai Chondong
+85,ke,P29,29,N34,34,Temangan
+86,ke,P29,29,N35,35,Kemuning
+87,ke,P30,30,N36,36,Bukit Bunga
+88,ke,P30,30,N37,37,Air Lanas
+89,ke,P30,30,N38,38,Kuala Balah
+90,ke,P31,31,N39,39,Mengkebang
+91,ke,P31,31,N40,40,Guchil
+92,ke,P31,31,N41,41,Manek Urai
+93,ke,P31,31,N42,42,Dabong
+94,ke,P32,32,N43,43,Nenggiri
+95,ke,P32,32,N44,44,Paloh
+96,ke,P32,32,N45,45,Galas
+97,kt,P33,33,N1,1,Kuala Besut
+98,kt,P33,33,N2,2,Kota Putera
+99,kt,P33,33,N3,3,Jertih
+100,kt,P33,33,N4,4,Hulu Besut
+101,kt,P34,34,N5,5,Jabi
+102,kt,P34,34,N6,6,Permaisuri
+103,kt,P34,34,N7,7,Langkap
+104,kt,P34,34,N8,8,Batu Rakit
+105,kt,P35,35,N9,9,Tepuh
+106,kt,P35,35,N10,10,Teluk Pasu
+107,kt,P35,35,N11,11,Seberang Takir
+108,kt,P35,35,N12,12,Bukit Tunggal
+109,kt,P36,36,N13,13,Wakaf Mempelam
+110,kt,P36,36,N14,14,Bandar
+111,kt,P36,36,N15,15,Ladang
+112,kt,P36,36,N16,16,Batu Buruk
+113,kt,P37,37,N17,17,Alur Limbat
+114,kt,P37,37,N18,18,Bukit Payung
+115,kt,P37,37,N19,19,Ru Rendang
+116,kt,P37,37,N20,20,Pengkalan Berangan
+117,kt,P38,38,N21,21,Telemung
+118,kt,P38,38,N22,22,Manir
+119,kt,P38,38,N23,23,Kuala Berang
+120,kt,P38,38,N24,24,Ajil
+121,kt,P39,39,N25,25,Bukit Besi
+122,kt,P39,39,N26,26,Rantau Abang
+123,kt,P39,39,N27,27,Sura
+124,kt,P39,39,N28,28,Paka
+125,kt,P40,40,N29,29,Kemasek
+126,kt,P40,40,N30,30,Kijal
+127,kt,P40,40,N31,31,Chukai
+128,kt,P40,40,N32,32,Air Putih
+129,pn,P41,41,N1,1,Penaga
+130,pn,P41,41,N2,2,Bertam
+131,pn,P41,41,N3,3,Pinang Tunggal
+132,pn,P42,42,N4,4,Permatang Berangan
+133,pn,P42,42,N5,5,Sungai Dua
+134,pn,P42,42,N6,6,Telok Ayer Tawar
+135,pn,P43,43,N7,7,Sungai Puyu
+136,pn,P43,43,N8,8,Bagan Jermal
+137,pn,P43,43,N9,9,Bagan Dalam
+138,pn,P44,44,N10,10,Seberang Jaya
+139,pn,P44,44,N11,11,Permatang Pasir
+140,pn,P44,44,N12,12,Penanti
+141,pn,P45,45,N13,13,Berapit
+142,pn,P45,45,N14,14,Machang Bubok
+143,pn,P45,45,N15,15,Padang Lalang
+144,pn,P46,46,N16,16,Perai
+145,pn,P46,46,N17,17,Bukit Tengah
+146,pn,P46,46,N18,18,Bukit Tambun
+147,pn,P47,47,N19,19,Jawi
+148,pn,P47,47,N20,20,Sungai Bakap
+149,pn,P47,47,N21,21,Sungai Acheh
+150,pn,P48,48,N22,22,Tanjong Bunga
+151,pn,P48,48,N23,23,Air Putih
+152,pn,P48,48,N24,24,Kebun Bunga
+153,pn,P48,48,N25,25,Pulau Tikus
+154,pn,P49,49,N26,26,Padang Kota
+155,pn,P49,49,N27,27,Pengkalan Kota
+156,pn,P49,49,N28,28,Komtar
+157,pn,P50,50,N29,29,Datok Keramat
+158,pn,P50,50,N30,30,Sungai Pinang
+159,pn,P50,50,N31,31,Batu Lancang
+160,pn,P51,51,N32,32,Seri Delima
+161,pn,P51,51,N33,33,Air Itam
+162,pn,P51,51,N34,34,Paya Terubong
+163,pn,P52,52,N35,35,Batu Uban
+164,pn,P52,52,N36,36,Pantai Jerejak
+165,pn,P52,52,N37,37,Batu Maung
+166,pn,P53,53,N38,38,Bayan Lepas
+167,pn,P53,53,N39,39,Pulau Betong
+168,pn,P53,53,N40,40,Telok Bahang
+169,pr,P54,54,N1,1,Pengkalan Hulu
+170,pr,P54,54,N2,2,Temegor
+171,pr,P55,55,N3,3,Kenering
+172,pr,P55,55,N4,4,Kota Tampan
+173,pr,P56,56,N5,5,Selama
+174,pr,P56,56,N6,6,Kubu Gajah
+175,pr,P56,56,N7,7,Batu Kurau
+176,pr,P57,57,N8,8,Titi Serong
+177,pr,P57,57,N9,9,Kuala Kurau
+178,pr,P58,58,N10,10,Alor Pongsu
+179,pr,P58,58,N11,11,Gunong Semanggol
+180,pr,P58,58,N12,12,Selinsing
+181,pr,P59,59,N13,13,Kuala Sapetang
+182,pr,P59,59,N14,14,Changkat Jering
+183,pr,P59,59,N15,15,Trong
+184,pr,P60,60,N16,16,Kamunting
+185,pr,P60,60,N17,17,Pokok Assam
+186,pr,P60,60,N18,18,Aulong
+187,pr,P61,61,N19,19,Chenderoh
+188,pr,P61,61,N20,20,Lubok Merbau
+189,pr,P62,62,N21,21,Lintang
+190,pr,P62,62,N22,22,Jalong
+191,pr,P63,63,N23,23,Manjoi
+192,pr,P63,63,N24,24,Hulu Kinta
+193,pr,P64,64,N25,25,Canning
+194,pr,P64,64,N26,26,Tebing Tinggi
+195,pr,P64,64,N27,27,Pasir Pinji
+196,pr,P65,65,N28,28,Bercham
+197,pr,P65,65,N29,29,Kepayang
+198,pr,P65,65,N30,30,Buntong
+199,pr,P66,66,N31,31,Jelapang
+200,pr,P66,66,N32,32,Menglembu
+201,pr,P66,66,N33,33,Tronoh
+202,pr,P67,67,N34,34,Bukit Chandan
+203,pr,P67,67,N35,35,Manong
+204,pr,P68,68,N36,36,Pengkalan Baru
+205,pr,P68,68,N37,37,Pantai Remis
+206,pr,P69,69,N38,38,Belanja
+207,pr,P69,69,N39,39,Bota
+208,pr,P70,70,N40,40,Malim Nawar
+209,pr,P70,70,N41,41,Keranji
+210,pr,P70,70,N42,42,Tualang Sekah
+211,pr,P71,71,N43,43,Sungai Rapat
+212,pr,P71,71,N44,44,Simpang Pulai
+213,pr,P71,71,N45,45,Teja
+214,pr,P72,72,N46,46,Chenderiang
+215,pr,P72,72,N47,47,Ayer Kuning
+216,pr,P73,73,N48,48,Sungei Manik
+217,pr,P73,73,N49,49,Kampong Gajah
+218,pr,P74,74,N50,50,Sitiawan
+219,pr,P74,74,N51,51,Pasir Panjang
+220,pr,P74,74,N52,52,Pangkor
+221,pr,P75,75,N53,53,Rungkup
+222,pr,P75,75,N54,54,Hutan Melintang
+223,pr,P76,76,N55,55,Pasir Bedemar
+224,pr,P76,76,N56,56,Changkat Jong
+225,pr,P77,77,N57,57,Sungkai
+226,pr,P77,77,N58,58,Slim
+227,pr,P77,77,N59,59,Behrang
+228,ph,P78,78,N1,1,Tanah Rata
+229,ph,P78,78,N2,2,Jelai
+230,ph,P79,79,N3,3,Padang Tengku
+231,ph,P79,79,N4,4,Ceka
+232,ph,P79,79,N5,5,Benta
+233,ph,P80,80,N6,6,Batu Talam
+234,ph,P80,80,N7,7,Teras
+235,ph,P80,80,N8,8,Dong
+236,ph,P81,81,N9,9,Tahan
+237,ph,P81,81,N10,10,Damak
+238,ph,P81,81,N11,11,Pulau Tawar
+239,ph,P82,82,N12,12,Beserah
+240,ph,P82,82,N13,13,Semambu
+241,ph,P83,83,N14,14,Teruntum
+242,ph,P83,83,N15,15,Tanjung Lumpur
+243,ph,P83,83,N16,16,Inderapura
+244,ph,P84,84,N17,17,Sungai Lembing
+245,ph,P84,84,N18,18,Lepar
+246,ph,P84,84,N19,19,Panching
+247,ph,P85,85,N20,20,Pulau Manis
+248,ph,P85,85,N21,21,Peramu Jaya
+249,ph,P85,85,N22,22,Bebar
+250,ph,P85,85,N23,23,Cini
+251,ph,P86,86,N24,24,Luit
+252,ph,P86,86,N25,25,Kuala Sentul
+253,ph,P86,86,N26,26,Cenur
+254,ph,P87,87,N27,27,Jenderak
+255,ph,P87,87,N28,28,Kerdau
+256,ph,P87,87,N29,29,Jengka
+257,ph,P88,88,N30,30,Mentakab
+258,ph,P88,88,N31,31,Lancang
+259,ph,P88,88,N32,32,Kuala Semantan
+260,ph,P89,89,N33,33,Bilut
+261,ph,P89,89,N34,34,Ketari
+262,ph,P89,89,N35,35,Sabai
+263,ph,P89,89,N36,36,Pelangai
+264,ph,P90,90,N37,37,Guai
+265,ph,P90,90,N38,38,Teriang
+266,ph,P90,90,N39,39,Kemayan
+267,ph,P91,91,N40,40,Bukit Ibam
+268,ph,P91,91,N41,41,Muadzam Shah
+269,ph,P91,91,N42,42,Tioman
+270,sl,P92,92,N1,1,Sungai Ayer Tawar
+271,sl,P92,92,N2,2,Sabak
+272,sl,P93,93,N3,3,Sungai Panjang
+273,sl,P93,93,N4,4,Sekinchan
+274,sl,P94,94,N5,5,Ulu Bernam
+275,sl,P94,94,N6,6,Kuala Kubu Bahru
+276,sl,P94,94,N7,7,Batang Kali
+277,sl,P95,95,N8,8,Sungai Burong
+278,sl,P95,95,N9,9,Permatang
+279,sl,P96,96,N10,10,Bukit Melawati
+280,sl,P96,96,N11,11,Ijok
+281,sl,P96,96,N12,12,Jeram
+282,sl,P97,97,N13,13,Kuang
+283,sl,P97,97,N14,14,Rawang
+284,sl,P97,97,N15,15,Taman Templar
+285,sl,P98,98,N16,16,Batu Caves
+286,sl,P98,98,N17,17,Gombak Setia
+287,sl,P98,98,N18,18,Ulu Kelang
+288,sl,P99,99,N19,19,Bukit Antarabangsa
+289,sl,P99,99,N20,20,Lembah Jaya
+290,sl,P100,100,N21,21,Chempaka
+291,sl,P100,100,N22,22,Teratai
+292,sl,P101,101,N23,23,Dusun Tua
+293,sl,P101,101,N24,24,Semenyih
+294,sl,P101,101,N25,25,Kajang
+295,sl,P102,102,N26,26,Bangi
+296,sl,P102,102,N27,27,Balakong
+297,sl,P102,102,N28,28,Sri Kembangan
+298,sl,P103,103,N29,29,Sri Serdang
+299,sl,P103,103,N30,30,Kinrara
+300,sl,P104,104,N31,31,Subang Jaya
+301,sl,P104,104,N32,32,Seri Setia
+302,sl,P105,105,N33,33,Taman Medan
+303,sl,P105,105,N34,34,Bukit Gasing
+304,sl,P106,106,N35,35,Kampung Tunku
+305,sl,P106,106,N36,36,Damansara Utama
+306,sl,P107,107,N37,37,Bukit Lanjan
+307,sl,P107,107,N38,38,Paya Jaras
+308,sl,P107,107,N39,39,Kota Damansara
+309,sl,P108,108,N40,40,Kota Anggerik
+310,sl,P108,108,N41,41,Batu Tiga
+311,sl,P109,109,N42,42,Meru
+312,sl,P109,109,N43,43,Sementa
+313,sl,P109,109,N44,44,Sungai Pinang
+314,sl,P109,109,N45,45,Selat Klang
+315,sl,P110,110,N46,46,Pelabuhan Klang
+316,sl,P110,110,N47,47,Pandamaran
+317,sl,P110,110,N48,48,Kota Alam Shah
+318,sl,P111,111,N49,49,Seri Andalas
+319,sl,P111,111,N50,50,Sri Muda
+320,sl,P112,112,N51,51,Sijangkang
+321,sl,P112,112,N52,52,Teluk Datuk
+322,sl,P112,112,N53,53,Morib
+323,sl,P113,113,N54,54,Tanjong Sepat
+324,sl,P113,113,N55,55,Dengkil
+325,sl,P113,113,N56,56,Sungai Pelek
+326,ns,P126,126,N1,1,Chennah
+327,ns,P126,126,N2,2,Pertang
+328,ns,P126,126,N3,3,Sungai Lui
+329,ns,P126,126,N4,4,Klawang
+330,ns,P127,127,N5,5,Serting
+331,ns,P127,127,N6,6,Palong
+332,ns,P127,127,N7,7,Jeram Padang
+333,ns,P127,127,N8,8,Bahau
+334,ns,P128,128,N9,9,Lenggeng
+335,ns,P128,128,N10,10,Nilai
+336,ns,P128,128,N11,11,Lobak
+337,ns,P128,128,N12,12,Temiang
+338,ns,P128,128,N13,13,Sikamat
+339,ns,P128,128,N14,14,Ampangan
+340,ns,P129,129,N15,15,Juasseh
+341,ns,P129,129,N16,16,Seri Menanti
+342,ns,P129,129,N17,17,Senaling
+343,ns,P129,129,N18,18,Pilah
+344,ns,P129,129,N19,19,Johol
+345,ns,P130,130,N20,20,Labu
+346,ns,P130,130,N21,21,Bukit Kepayang
+347,ns,P130,130,N22,22,Rahang
+348,ns,P130,130,N23,23,Mambau
+349,ns,P130,130,N24,24,Senawang
+350,ns,P131,131,N25,25,Paroi
+351,ns,P131,131,N26,26,Chembong
+352,ns,P131,131,N27,27,Rantau
+353,ns,P131,131,N28,28,Kota
+354,ns,P132,132,N29,29,Chuah
+355,ns,P132,132,N30,30,Lukut
+356,ns,P132,132,N31,31,Bagan Pinang
+357,ns,P132,132,N32,32,Linggi
+358,ns,P132,132,N33,33,Port Dickson
+359,ns,P133,133,N34,34,Gemas
+360,ns,P133,133,N35,35,Gemencheh
+361,ns,P133,133,N36,36,Repah
+362,mk,P134,134,N1,1,Kuala Linggi
+363,mk,P134,134,N2,2,Tanjong Bidara
+364,mk,P134,134,N3,3,Ayer Limau
+365,mk,P134,134,N4,4,Lendu
+366,mk,P134,134,N5,5,Taboh Naning
+367,mk,P135,135,N6,6,Rembia
+368,mk,P135,135,N7,7,Gadek
+369,mk,P135,135,N8,8,Machap
+370,mk,P135,135,N9,9,Durian Tunggal
+371,mk,P135,135,N10,10,Asahan
+372,mk,P136,136,N11,11,Sungai Udang
+373,mk,P136,136,N12,12,Pantai Kundor
+374,mk,P136,136,N13,13,Paya Rumput
+375,mk,P136,136,N14,14,Kelebang
+376,mk,P137,137,N15,15,Bachang
+377,mk,P137,137,N16,16,Ayer Keroh
+378,mk,P137,137,N17,17,Bukit Baru
+379,mk,P137,137,N18,18,Ayer Molek
+380,mk,P138,138,N19,19,Kesidang
+381,mk,P138,138,N20,20,Kota Laksamana
+382,mk,P138,138,N21,21,Duyong
+383,mk,P138,138,N22,22,Bandar Hilir
+384,mk,P138,138,N23,23,Telok Mas
+385,mk,P139,139,N24,24,Bemban
+386,mk,P139,139,N25,25,Rim
+387,mk,P139,139,N26,26,Serkam
+388,mk,P139,139,N27,27,Merlimau
+389,mk,P139,139,N28,28,Sungai Rambai
+390,jh,P140,140,N1,1,Buloh Kasap
+391,jh,P140,140,N2,2,Jemetah
+392,jh,P141,141,N3,3,Pemanis
+393,jh,P141,141,N4,4,Kemelah
+394,jh,P142,142,N5,5,Tenang
+395,jh,P142,142,N6,6,Bekok
+396,jh,P143,143,N7,7,Bukit Serampang
+397,jh,P143,143,N8,8,Jorak
+398,jh,P144,144,N9,9,Gambir
+399,jh,P144,144,N10,10,Tangkak
+400,jh,P144,144,N11,11,Serom
+401,jh,P145,145,N12,12,Bentayan
+402,jh,P145,145,N13,13,Sungai Abong
+403,jh,P145,145,N14,14,Bukit Naning
+404,jh,P146,146,N15,15,Maharani
+405,jh,P146,146,N16,16,Sungai Balang
+406,jh,P147,147,N17,17,Semerah
+407,jh,P147,147,N18,18,Sri Medan
+408,jh,P148,148,N19,19,Yong Peng
+409,jh,P148,148,N20,20,Semarang
+410,jh,P149,149,N21,21,Parit Yaani
+411,jh,P149,149,N22,22,Parit Raja
+412,jh,P150,150,N23,23,Penggaram
+413,jh,P150,150,N24,24,Senggarang
+414,jh,P150,150,N25,25,Rengit
+415,jh,P151,151,N26,26,Machap
+416,jh,P151,151,N27,27,Layang-Layang
+417,jh,P152,152,N28,28,Mengkibol
+418,jh,P152,152,N29,29,Mahkota
+419,jh,P153,153,N30,30,Paloh
+420,jh,P153,153,N31,31,Kahang
+421,jh,P154,154,N32,32,Endau
+422,jh,P154,154,N33,33,Tenggaroh
+423,jh,P155,155,N34,34,Panti
+424,jh,P155,155,N35,35,Pasir Raja
+425,jh,P156,156,N36,36,Sedili
+426,jh,P156,156,N37,37,Johor Lama
+427,jh,P157,157,N38,38,Penawar
+428,jh,P157,157,N39,39,Tanjong Surat
+429,jh,P158,158,N40,40,Tiram
+430,jh,P158,158,N41,41,Puteri Wangsa
+431,jh,P159,159,N42,42,Johor Jaya
+432,jh,P159,159,N43,43,Permas
+433,jh,P160,160,N44,44,Tanjong Puteri
+434,jh,P160,160,N45,45,Stulang
+435,jh,P161,161,N46,46,Pengkalan Rinting
+436,jh,P161,161,N47,47,Kempas
+437,jh,P162,162,N48,48,Skudai
+438,jh,P162,162,N49,49,Nusa Jaya
+439,jh,P163,163,N50,50,Bukit Permai
+440,jh,P163,163,N51,51,Bukit Batu
+441,jh,P163,163,N52,52,Senai
+442,jh,P164,164,N53,53,Benut
+443,jh,P164,164,N54,54,Pulai Sebatang
+444,jh,P165,165,N55,55,Pekan Nenas
+445,jh,P165,165,N56,56,Kukup
+446,sb,P169,169,N6,6, Tempasuk 
+447,sb,P168,168,N5,5, Tandek 
+448,sb,P168,168,N4,4, Matunggong 
+449,sb,P167,167,N1,1, Banggi 
+450,sb,P167,167,N2,2, Tanjong Kapar 
+451,sb,P167,167,N3,3, Pitas 
+452,sb,P188,188,N50,50, Lahad Datu 
+453,sb,P188,188,N49,49, Tungku 
+454,sb,P187,187,N48,48, Sukau 
+455,sb,P187,187,N47,47, Kuamut 
+456,sb,P186,186,N46,46, Tanjong Papat 
+457,sb,P186,186,N45,45, Elopura 
+458,sb,P185,185,N44,44,  Karamunting 
+459,sb,P185,185,N43,43, Sekong 
+460,sb,P184,184,N42,42, Sungai Sibuga 
+461,sb,P183,183,N40,40, Labuk 
+462,sb,P184,184,N41,41, Gum-Gum 
+463,sb,P183,183,N39,39, Sugut 
+464,sb,P182,182,N38,38, Nabawan 
+465,sb,P182,182,N37,37, Sook 
+466,sb,P181,181,N36,36, Kemabong 
+467,sb,P181,181,N35,35, Melalap 
+468,sb,P180,180,N34,34, Liawan 
+469,sb,P180,180,N33,33, Bingkor 
+470,sb,P180,180,N32,32, Tambunan 
+471,sb,P179,179,N31,31, Paginatan 
+472,sb,P179,179,N30,30, Karanaan 
+473,sb,P179,179,N29,29, Kundasang 
+474,sb,P178,178,N28,28, Sindumin 
+475,sb,P178,178,N27,27, Lumadan 
+476,sb,P177,177,N25,25, Klias 
+477,sb,P177,177,N26,26, Kuala Penyu 
+478,sb,P176,176,N23,23, Bongawan 
+479,sb,P176,176,N24,24, Membakut 
+480,sb,P175,175,N22,22, Pantai Manis 
+481,sb,P175,175,N21,21, Kawang 
+482,sb,P174,174,N20,20, Moyog 
+483,sb,P174,174,N19,19, Kapayan 
+484,sb,P173,173,N18,18, Petagas 
+485,sb,P173,173,N17,17, Tanjong Aru 
+486,sb,P172,172,N15,15, Api-Api 
+487,sb,P172,172,N16,16, Luyang 
+488,sb,P172,172,N14,14, Likas 
+489,sb,P171,171,N13,13, Inanam 
+490,sb,P171,171,N12,12, Karambunai 
+491,sb,P170,170,N11,11, Kiulu 
+492,sb,P170,170,N10,10, Sulaman 
+493,sb,P170,170,N9,9, Tamparuli 
+494,sb,P169,169,N8,8, Usukan 
+495,sb,P169,169,N7,7, Kadamaian 
+496,sw,P192,192,N1,1,Opar
+497,sw,P192,192,N2,2,Tasik Biru
+498,sw,P193,193,N3,3,Tanjong Datu
+499,sw,P193,193,N4,4,Pantai Damai
+500,sw,P193,193,N5,5,Demak Laut
+501,sw,P194,194,N6,6,Tupong
+502,sw,P194,194,N7,7,Samariang
+503,sw,P194,194,N8,8,Satok
+504,sw,P195,195,N9,9,Padungan
+505,sw,P195,195,N10,10,Pending
+506,sw,P196,196,N11,11,Batu Lintang
+507,sw,P196,196,N12,12,Kota Sentosa
+508,sw,P196,196,N13,13,Batu Kawah
+509,sw,P197,197,N14,14,Asajaya
+510,sw,P197,197,N15,15,Muara Tuang
+511,sw,P198,198,N16,16,Bengoh
+512,sw,P198,198,N17,17,Tarat
+513,sw,P199,199,N18,18,Tebedu
+514,sw,P199,199,N19,19,Kedup
+515,sw,P200,200,N20,20,Sadong Jaya
+516,sw,P200,200,N21,21,Simunjan
+517,sw,P201,201,N22,22,Sebuyau
+518,sw,P201,201,N23,23,Lingga
+519,sw,P201,201,N24,24,Beting Maro
+520,sw,P202,202,N25,25,Balai Ringin
+521,sw,P202,202,N26,26,Bukit Begunan
+522,sw,P202,202,N27,27,Simanggang
+523,sw,P203,203,N28,28,Engkilili
+524,sw,P203,203,N29,29,Batang Air
+525,sw,P204,204,N30,30,Saribas
+526,sw,P204,204,N31,31,Layar
+527,sw,P204,204,N32,32,Bukit Saban
+528,sw,P205,205,N33,33,Kalaka
+529,sw,P205,205,N34,34,Krian
+530,sw,P206,206,N35,35,Belawai
+531,sw,P206,206,N36,36,Semop
+532,sw,P207,207,N37,37,Daro
+533,sw,P207,207,N38,38,Jemoreng
+534,sw,P208,208,N39,39,Repok
+535,sw,P208,208,N40,40,Meradong
+536,sw,P209,209,N41,41,Pakan
+537,sw,P209,209,N42,42,Meluan
+538,sw,P210,210,N43,43,Ngemah
+539,sw,P210,210,N44,44,Machan
+540,sw,P211,211,N45,45,Bukit Assek
+541,sw,P211,211,N46,46,Dudong
+542,sw,P212,212,N47,47,Bawang Assan
+543,sw,P212,212,N48,48,Pelawan
+544,sw,P212,212,N49,49,Nangka
+545,sw,P213,213,N50,50,Dalat
+546,sw,P213,213,N51,51,Balingian
+547,sw,P214,214,N52,52,Tamin
+548,sw,P214,214,N53,53,Kakus
+549,sw,P215,215,N54,54,Pelagus
+550,sw,P215,215,N55,55,Katibas
+551,sw,P216,216,N56,56,Baleh
+552,sw,P216,216,N57,57,Belaga
+553,sw,P217,217,N58,58,Jepak
+554,sw,P217,217,N59,59,Kidurong
+555,sw,P217,217,N60,60,Kemena
+556,sw,P218,218,N61,61,Bekenu
+557,sw,P218,218,N62,62,Lambir
+558,sw,P219,219,N63,63,Piasau
+559,sw,P219,219,N64,64,Pujut
+560,sw,P219,219,N65,65,Senadin
+561,sw,P220,220,N66,66,Marudi
+562,sw,P220,220,N67,67,Telang Usan
+563,sw,P221,221,N68,68,Batu Kota
+564,sw,P221,221,N69,69,Batu Danau
+565,sw,P222,222,N71,71,Bukit Sari
+566,sb,P188,188,N51,51, Kunak 
+567,sb,P189,189,N52,52, Sulabayan 
+568,sb,P189,189,N53,53, Senalingan 
+569,sb,P189,189,N54,54, Bugaya 
+570,sb,P190,190,N55,55, Balung 
+571,sb,P190,190,N56,56, Apas 
+572,sb,P190,190,N57,57, Sri Tanjong 
+573,sb,P191,191,N58,58, Merotai 
+574,sb,P191,191,N59,59, Tanjong Batu 
+575,sb,P191,191,N60,60, Sebatik 

@@ -1,1506 +1,1506 @@
-id|year|parl_code|name|party_code|votes
-1|2004|P1|Datuk Seri Azmi Khalid|UMNO|18322
-2|2004|P1|Wan Kharizal Wan Khazim|PAS|9058
-3|2004|P2|Datuk Radzi Sheikh Ahmad|UMNO|22498
-4|2004|P2|Ishar Saad|PAS|9950
-5|2004|P3|Datuk Seri Syed Razlan Syed Putra Jamalullail|UMNO|17367
-6|2004|P3|Datuk Dr Haron Din|PAS|14124
-7|2004|P4|Datuk Abu Bakar Taib|UMNO|16510
-8|2004|P4|Zubir Ahmad|PAS|5738
-9|2004|P5|Datuk Abdul Rahman Ariffin|UMNO|19123
-10|2004|P5|Idris Ahmad|PAS|16981
-11|2004|P6|Datuk Mohd Johari Baharom|UMNO|26657
-12|2004|P6|Dr Abdul Isa Ismail|PAS|12945
-13|2004|P7|Datuk Ghazali Ibrahim|UMNO|14776
-14|2004|P7|Zawawi Haji Ahmad|PAS|12604
-15|2004|P8|Datuk Abdul Rahman Ibrahim|UMNO|29740
-16|2004|P8|Mahfuz Omar|PAS|22440
-17|2004|P9|Datuk Chor Chee Heung|MCA|28379
-18|2004|P9|Siti Nor Abdul Hamid|PKR|13864
-19|2004|P10|Hashim Jahaya|UMNO|36707
-20|2004|P10|Mohamed Sabu|PAS|26493
-21|2004|P11|MD Rozai Shafian|UMNO|24380
-22|2004|P11|Dr Mohd Hayati Othman|PAS|24430
-23|2004|P12|Datuk Badruddin Amirudin|UMNO|30154
-24|2004|P12|Che bin Arshad|PAS|19749
-25|2004|P13|Datuk Dr Wan Azmi Wan Ariffin|UMNO|15357
-26|2004|P13|Azizan Abdul Razak|PAS|15038
-27|2004|P14|Datuk Zainuddin Maidin|UMNO|29607
-28|2004|P14|Saiful Izham Ramli|PKR|14162
-29|2004|P15|Datuk Mahadzir Mohd Khir|UMNO|36067
-30|2004|P15|Zamri Yusof|PKR|18565
-31|2004|P16|Datuk Dr Mashitah Ibrahim|UMNO|32661
-32|2004|P16|Taib Azamudden Md Taib|PAS|28432
-33|2004|P17|Lim Bee Kau|MCA|26269
-34|2004|P17|Saifuddin Nasution Ismail|PKR|15953
-35|2004|P18|Datuk Paduka Abdul Kadir Sheikh Fadzir|UMNO|22556
-36|2004|P18|Alwi Mohamed Yusop|PKR|14558
-37|2004|P19|Mat Nawawi Mat Jusoh|UMNO|26099
-38|2004|P19|Datuk Kamarudin Jaafar|PAS|27919
-39|2004|P20|Datuk Dr Nik Mohd Zain Omar|UMNO|14399
-40|2004|P20|Datuk Ab Halim Ab Rahman|PAS|20621
-41|2004|P21|Datuk Zaid Ibrahim|UMNO|23831
-42|2004|P21|Nik Mahmood Nik Hassan|PKR|22108
-43|2004|P22|Datuk Abd Rahim Ab Rahman|UMNO|16275
-44|2004|P22|Ismail Noh|PAS|17526
-45|2004|P22|Datuk Ibrahim Ali|Ind|6198
-46|2004|P23|Mohd Daud Hamat|UMNO|14295
-47|2004|P23|Abdul Fatah Haron|PAS|15027
-48|2004|P24|Datuk Ahmad Rusli Iberahim|UMNO|15803
-49|2004|P24|Salahuddin Ayub|PAS|21430
-50|2004|P25|Datuk Dr Awang Adek Hussin|UMNO|25194
-51|2004|P25|Wan Nik Wan Yusof|PAS|21922
-52|2004|P26|Md Alwi Che Ahmad|UMNO|20024
-53|2004|P26|Muamad Mustafa|PKR|17136
-54|2004|P27|Shaari Hassan|UMNO|16107
-55|2004|P27|Saupi Daud|PKR|13580
-56|2004|P28|Che Min Che Ahmad|UMNO|23208
-57|2004|P28|Kalthom Othman|PAS|27018
-58|2004|P29|Sazmi Miah|UMNO|17464
-59|2004|P29|Mohd Yusof Mohd Noor|PAS|17329
-60|2004|P30|Datuk Mustapa Mohamed|UMNO|16960
-61|2004|P30|Mohd Apandi Mohamed|PAS|9607
-62|2004|P31|Mohammad Razali Che Mamat|UMNO|19148
-63|2004|P31|Abdul Rahim Wan Abdullah|PAS|16732
-64|2004|P32|Tengku Razaleigh Hamzah|UMNO|13570
-65|2004|P32|Dr Zulkifli Ahmad|PAS|6972
-66|2004|P33|Prof Datuk Dr. Abdullah Mohd Zin|UMNO|26087
-67|2004|P33|Nasharudin Mat Isa|PAS|17587
-68|2004|P34|Mohd Yusof Majid|UMNO|23079
-69|2004|P34|Che Ghani Che Ambak|PAS|16383
-70|2004|P35|Che Azmi Abd Rahman|UMNO|24895
-71|2004|P35|Mohd Shukrimun Shamsudin|PAS|20798
-72|2004|P36|Razali Ismail|UMNO|30994
-73|2004|P36|Dr Syed Azam Syed Ahmad|PAS|29061
-74|2004|P37|Datuk Abdul Rahman Bakar|UMNO|28076
-75|2004|P37|Datuk Seri Abdul Hadi Awang|PAS|27913
-76|2004|P38|Tengku Putera Tengku Awang|UMNO|23815
-77|2004|P38|Muhyidin Abd Rashid|PAS|16055
-78|2004|P39|Datuk Rosli Mat Hassan|UMNO|26398
-79|2004|P39|Datuk Mustafa Ali|PAS|21502
-80|2004|P40|Ahmad Shabery Chik|UMNO|36517
-81|2004|P40|Abdl Rahman Yusof|PKR|20635
-82|2004|P41|Datuk Seri Abdullah Ahmad Badawi|UMNO|25403
-83|2004|P41|Abdul Rashid Rasid|PAS|7281
-84|2004|P42|Datuk Seri Mohd Shariff Omar|UMNO|22011
-85|2004|P42|Mujahid Yusof Rawa|PAS|11828
-86|2004|P43|Lim Chien Aun|MCA|19473
-87|2004|P43|Lim Hock Seng|DAP|23095
-88|2004|P44|Datuk Pirdaus Ismail|UMNO|21147
-89|2004|P44|Datin Seri Dr Wan Azizah Wan Ismail|PKR|21737
-90|2004|P45|Ma Kok Ben|MCA|17651
-91|2004|P45|Chong Eng|DAP|26215
-92|2004|P46|Huan Cheng Guan|GERAKAN|17097
-93|2004|P46|Law Choo Kian|PKR|8099
-94|2004|P46|Tanasekharan a/l Audherapady|DAP|6552
-95|2004|P47|Datuk Zainal Abidin Osman|UMNO|18823
-96|2004|P47|Goh Kheng Huat|PKR|12818
-97|2004|P48|Chia Kwang Chye|GERAKAN|28281
-98|2004|P48|Zulkifli Mohd Noor|DAP|17564
-99|2004|P49|Ooi Swee Hing|GERAKAN|17424
-100|2004|P49|Chow Kon Yeow|DAP|21652
-101|2004|P50|Lee Kah Choon|GERAKAN|24988
-102|2004|P50|Gooi Seong Kin|DAP|17518
-103|2004|P51|Lim Boo Chang|MCA|21268
-104|2004|P51|Karpal Singh|DAP|22529
-105|2004|P52|Wong Kam Hoong|MCA|29430
-106|2004|P52|Ong Peng Cheow|PKR|10579
-107|2004|P53|Datuk Dr Hilmi Yahaya|UMNO|21114
-108|2004|P53|Dr Rohana Ariffin|PKR|8177
-109|2004|P54|Datuk Dr Wan Hashim Wan Teh|UMNO|12293
-110|2004|P54|Ramli Tusin|PAS|4213
-111|2004|P55|Datil Khamsiyah Yeop|UMNO|10924
-112|2004|P55|Zulkifli Abu|PAS|5292
-113|2004|P56|Datuk Raja Ahmad Zainuddin Raja Omar|UMNO|18421
-114|2004|P56|Kamaruddin Awang Basir|PAS|10983
-115|2004|P57|Brig (G) Datuk Abd Hamid Ngah @ Zainal Abidin|UMNO|19317
-116|2004|P57|Datuk Dr Hasan Mohd Ali|PAS|14619
-117|2004|P58|Datuk Zainal Abidin Zin|UMNO|19827
-118|2004|P58|Ahmad Awang|PAS|14213
-119|2004|P59|Tan Lian Hoe|GERAKAN|16846
-120|2004|P59|Dr Lo Lo Mohamed Ghazli|PAS|10144
-121|2004|P60|Datuk M Kayveas|PPP|20129
-122|2004|P60|Ong Chee Keng|DAP|17957
-123|2004|P60|P Annah Dorai|PKR|4371
-124|2004|P61|Datuk Seri Mohamed Nazri Abd Aziz|UMNO|9214
-125|2004|P61|Mohd Zolkafli Yahaya|PKR|4442
-126|2004|P62|Datuk Seri Samy Vellu|MIC|18797
-127|2004|P62|Dr Michael Jeyakumar Devaraj|PKR|8562
-128|2004|P62|Samugam Ponmugam Ponnan|DAP|2864
-129|2004|P63|Datuk Ahmad Husni Hanadzlah|UMNO|31824
-130|2004|P63|Dr Khairuddin Datuk Abdul Malek|PAS|14464
-131|2004|P64|Thong Fah Chong|MCA|19077
-132|2004|P64|Lim Kit Siang|DAP|28851
-133|2004|P65|Datuk Ir Ho Cheong Sing|MCA|22337
-134|2004|P65|M Kulasegaran|DAP|22935
-135|2004|P66|Datuk Ong Ka Chuan|MCA|20735
-136|2004|P66|Fong Po Kuan|DAP|28662
-137|2004|P67|Datuk Seri Rafidah Aziz|UMNO|11305
-138|2004|P67|Mohammad Nizak Jamaluddin|PAS|5748
-139|2004|P68|Datuk Seri Lim Keng Yaik|GERAKAN|15867
-140|2004|P68|Nga Hock Cheh|DAP|11303
-141|2004|P69|Nasaruddin Hashim|UMNO|12808
-142|2004|P69|Muhammad Ismi Mat Taib|PAS|8112
-143|2004|P70|Tan Sri Hew See Yong|MCA|23129
-144|2004|P70|Liew Ah Kim|DAP|13655
-145|2004|P71|Tan Sri Dr Ting Chew Peh|MCA|29660
-146|2004|P71|Dr Lee Boon Chye|PKR|15400
-147|2004|P72|Datuk S Veerasingam|MIC|16945
-148|2004|P72|Dr Mohd Radzi Othman|PAS|7359
-149|2004|P73|Tan Sri Ramli Ngah Talib|UMNO|19422
-150|2004|P73|Muhaimin Sulam|PAS|10875
-151|2004|P74|Kong Cho Ha|MCA|27415
-152|2004|P74|Mustafa Kamil Ayub|PKR|15801
-153|2004|P75|Datuk Ahmad Zahid Hamidi|UMNO|17049
-154|2004|P75|A Ayadhurai|PKR|4510
-155|2004|P76|Mah Siew Keong|GERAKAN|18665
-156|2004|P76|Wu Him Ven|DAP|8829
-157|2004|P76|N Gobalakrishnan|PKR|6128
-158|2004|P77|Datuk Loke Yuen Yow|MCA|24025
-159|2004|P77|Shamsuddin Abdul Rahman|PKR|9489
-160|2004|P78|Devamany A/L Krishnasamy|MIC|10226
-161|2004|P78|Apalasamy A/L Jataliah|DAP|3966
-162|2004|P79|Mohamad Shahrum Osman|UMNO|13870
-163|2004|P79|Mohd Zai Mustafa|PAS|6246
-164|2004|P80|Datuk Dr Ng Yen Yen|MCA|20472
-165|2004|P80|Choong Siew Oon|DAP|10650
-166|2004|P81|Datuk Seri Tengku Azlan Sultan Abu Bakar|UMNO|21349
-167|2004|P81|Dr Hamzah Jaafar|PAS|12892
-168|2004|P82|Datuk Wan Adnan Wan Mamat|UMNO|25177
-169|2004|P82|Dzulkifli Ismail|PKR|10948
-170|2004|P83|Datuk Fu Ah Kiow|MCA|21324
-171|2004|P83|Fuziah Salleh|PKR|12177
-172|2004|P84|Datuk Seri Dr Siti Zaharah Sulaiman|UMNO|20474
-173|2004|P84|Saari Sungib|PKR|7956
-174|2004|P85|Datuk Seri Mohd Najib Tun Abdul Razak|UMNO|31956
-175|2004|P85|Brig Jen (B) Datuk Zakaria Dahlan|PAS|9034
-176|2004|P86|Ismail Abdul Muttalib|UMNO|15725
-177|2004|P86|Datuk Tuan Ibrahim Tuan Man|PAS|8483
-178|2004|P87|Ismail Mohamed Said|UMNO|16021
-179|2004|P87|Musaniff Ab Rahman|PAS|8670
-180|2004|P88|Datuk Mohd Sarit Yusoh|UMNO|24633
-181|2004|P88|Idris Omar|PAS|12026
-182|2004|P89|Liow Tiong Lai|MCA|27144
-183|2004|P89|Abub Bakar Lebai Sudin|DAP|10305
-184|2004|P90|Ismail Sabri Yaakob|UMNO|16714
-185|2004|P90|Dr Abdul Wahab Ismail|PAS|12244
-186|2004|P91|Datuk Dr Jamaluddin Mohd Jarjis|UMNO|19359
-187|2004|P91|Sukri Ahmad|PAS|10009
-188|2004|P92|Datuk Mat Yasir Ikhsan|UMNO|13826
-189|2004|P92|Badrul Amin Bahron|PKR|8478
-190|2004|P93|Noriah Kasnon|UMNO|15337
-191|2004|P93|Sallehen Mukhyi|PAS|7988
-192|2004|P94|Datuk G Palanivel|MIC|27807
-193|2004|P94|Datuk Ismail Kamus|PAS|13324
-194|2004|P95|Datuk Noh Omar|UMNO|17750
-195|2004|P95|Abdul Ghani Samsudin|PAS|8742
-196|2004|P96|Mohd Daud Taripeh|UMNO|22001
-197|2004|P96|Raja Kamaruddin Raja Abdul Wahid|PKR|8339
-198|2004|P97|Datuk Chan Kong Choy|MCA|36343
-199|2004|P97|Koh Swe Yong|PKR|13117
-200|2004|P98|Dr Raman Ismail|UMNO|39870
-201|2004|P98|Dr Mohd Hatta Md Ramli|PAS|26663
-202|2004|P99|Dr Rozaidah Talib|UMNO|33214
-203|2004|P99|Dr A Xavier Jayakumar|PKR|13482
-204|2004|P100|Datuk Ong Tee Keat|MCA|26721
-205|2004|P100|Iskandar Abdul Samad|PAS|12609
-206|2004|P101|Markiman Kobiran|UMNO|40937
-207|2004|P101|Datuk Yeop Adlan Che Rose|PAS|18160
-208|2004|P102|Datuk Yap Pian Hon|MCA|34495
-209|2004|P102|Wong Kok Yew|DAP|23215
-210|2004|P103|Lau Yeng Peng|GERAKAN|21291
-211|2004|P103|Dr Azmi Jamion @ Jemingon|PAS|9409
-212|2004|P103|Wong Choong Yun|DAP|9185
-213|2004|P104|Loh Seng Kok|MCA|35846
-214|2004|P104|Syed Shahir Syed Mohamed|PKR|14275
-215|2004|P105|Datuk Donald Lim Siang Chai|MCA|35054
-216|2004|P105|R Sivarasa|PKR|13638
-217|2004|P106|Chew Mei Fun|MCA|32422
-218|2004|P106|Ronnie Liu Tian Khiew|DAP|19379
-219|2004|P107|Tan Sri KS Nijhar|MIC|32941
-220|2004|P107|Mohd Nasir Hashim|PKR|17481
-221|2004|P108|Datuk Abdul Aziz Shamsuddin|UMNO|32417
-222|2004|P108|Khalid Abdul Samad|PAS|19007
-223|2004|P109|P Komaladevi|MIC|44007
-224|2004|P109|Ang Hiok Gai|PKR|29419
-225|2004|P110|Datin Paduka Dr Tan Yee Kew|MCA|32138
-226|2004|P110|Dr Wong Ang Peng|DAP|18857
-227|2004|P111|S Vigneswaran|MIC|24376
-228|2004|P111|Dr Mariah Mahmud|PAS|16137
-229|2004|P111|T Krisnasami|Ind|3608
-230|2004|P112|Datuk Dr Shafie Mohd Salleh|UMNO|34118
-231|2004|P112|Zulkifli Noordin|PKR|12623
-232|2004|P113|Datuk Mohd Zin Mohamed|UMNO|30755
-233|2004|P113|Mohamed Makki Ahmad|PAS|11918
-234|2004|P114|Ma Woei Chyi|GERAKAN|21428
-235|2004|P114|Dr Tan Seng Giaw|DAP|23282
-236|2004|P115|Ng Lip Yong @ Ng Lip Sat|GERAKAN|28718
-237|2004|P115|Chua Tian Chang|PKR|17201
-238|2004|P116|Yew Teong Look|MCA|23135
-239|2004|P116|Sahri Bahari|PKR|12950
-240|2004|P117|Dr Tan Kee Kwong|GERAKAN|28061
-241|2004|P117|Kuan Perk Siong|DAP|11093
-242|2004|P118|Datuk Zulhasnan Rafique|UMNO|27757
-243|2004|P118|Mejar (B) Abdul Rashid Hassan Basri|PAS|8088
-244|2004|P119|Datuk Astaman Abdul Aziz|UMNO|22910
-245|2004|P119|Mohamad Noor Mohamad|PAS|11095
-246|2004|P120|Tan Chew Mooi|MCA|18799
-247|2004|P120|Fong Kui Lun|DAP|19103
-248|2004|P120|Wee Choo Keong|MDP|1107
-249|2004|P120|Billi Lim Peng Soon|Ind|132
-250|2004|P121|Datuk Seri Shahrizat Abdul Jalil|UMNO|26474
-251|2004|P121|Sanusi Osman|PKR|11186
-252|2004|P122|Chin Yen Foo|MCA|20302
-253|2004|P122|Teresa Kok Suh Sim|DAP|33197
-254|2004|P123|Lee Boon Kok|MCA|17195
-255|2004|P123|Tan Kok Wai|DAP|29056
-256|2004|P124|Datuk Tan Chai Ho|MCA|33223
-257|2004|P124|Dr Rosli Ibrahim|PKR|15696
-258|2004|P125|Datuk Tengku Adnan Tengku Mansor|UMNO|4086
-259|2004|P125|Abdul Rahman Othman|PKR|540
-260|2004|P126|Datuk Seri Dr Rais Yatim|UMNO|20650
-261|2004|P126|Dr Rosli Yaakop|PAS|5870
-262|2004|P127|Tan Sri Mohamed Isa Abdul Samad|UMNO|26360
-263|2004|P127|Mohamad Fozi Mohd Zin|PAS|9280
-264|2004|P128|Datuk Hon Choon Kim|MCA|36542
-265|2004|P128|Choong Yen Loong|DAP|20306
-266|2004|P129|Datuk Hasan Malek|UMNO|22105
-267|2004|P129|Annuar Mohd Saleh|PKR|8763
-268|2004|P130|Datuk Goh Siow Huat|MCA|25009
-269|2004|P130|Chan Su Sann|DAP|20446
-270|2004|P131|Datuk Firdaus Muhammad Rom Harun|UMNO|28664
-271|2004|P131|Dr Dzulkefli Ahmad|PAS|10008
-272|2004|P132|S Sothinathan|MIC|28494
-273|2004|P132|Ab Manap Sahardin|PKR|10717
-274|2004|P133|Datuk Shaziman Abu Mansor|UMNO|23936
-275|2004|P133|Abdul Razakek Abdul Rahim|PAS|5852
-276|2004|P134|Datuk Wira Abu Seman Yusop|UMNO|24188
-277|2004|P134|Muhamad Burok|PAS|5789
-278|2004|P135|Datuk Dr Fong Chan Onn|MCA|29920
-279|2004|P135|Goh Leong San|DAP|7372
-280|2004|P136|Idris Haron|UMNO|33039
-281|2004|P136|Shamsul Iskandar Mohd Akin|PKR|8595
-282|2004|P137|Datuk Dr Mohd Ruddin Abdul Ghani|UMNO|39491
-283|2004|P137|Khalid Jaafar|PKR|12239
-284|2004|P138|Wong Nai Chee|MCA|31217
-285|2004|P138|Kerk Kim Hock|DAP|30998
-286|2004|P139|Mohd Said Yusof|UMNO|31198
-287|2004|P139|Jasme Tompang|PAS|9864
-288|2004|P140|Dr S Subramaniam|MIC|17953
-289|2004|P140|Pang Hok Liong|DAP|10144
-290|2004|P141|Baharum Mohamed|UMNO|19628
-291|2004|P141|Zulkapli bin Salleh|PKR|4786
-292|2004|P142|Datuk Dr Chua Soi Lek @ Chua Kin Seng|MCA|16469
-293|2004|P142|Tee Gey Yan|DAP|5740
-294|2004|P143|Tan Sri Muhyiddin Mohd Yassin|UMNO|23679
-295|2004|P143|Mohamed Anang|PAS|4932
-296|2004|P144|Hamim Samuri|UMNO|30967
-297|2004|P144|Kasim Ibrahim|PAS|9296
-298|2004|P145|Datuk Chua Jui Meng|MCA|29320
-299|2004|P145|Azhari Ismail|DAP|10261
-300|2004|P146|Razali Ibrahim|UMNO|21116
-301|2004|P146|Mohamad Taib|PAS|7701
-302|2004|P147|Syed Hood Syed Edros|UMNO|26974
-303|2004|P147|Suhaizan Kaiat|PAS|9788
-304|2004|P148|Dr Wee Ka Siong|MCA|20065
-305|2004|P148|Mohd Zamri Mat Taksis|PAS|4302
-306|2004|P149|Datuk Mohamad Aziz|UMNO|21512
-307|2004|P149|Dr Ahmad Faidi Saidi|PKR|5316
-308|2004|P150|Dr Junaidy And Wahab|UMNO|38982
-309|2004|P150|Mohamed Hanipa Maidin|PAS|9880
-310|2004|P151|Datuk Seri Kerk Choo Ting|GERAKAN|18997
-311|2004|P151|Atan Gombang|PAS|4842
-312|2004|P152|Hoo Seong Chang|MCA|33001
-313|2004|P152|Ng Lam Hua|DAP|14303
-314|2004|P153|Datuk Hishamuddin Tun Hussein|UMNO|19575
-315|2004|P153|Onn Jaafar|PAS|2597
-316|2004|P154|Datuk Abdul Latiff Ahmad|UMNO|19222
-317|2004|P154|Idris Tukachil|PAS|4649
-318|2004|P155|Datuk Dr Adham Baba|UMNO|19706
-319|2004|P155|Salleh Farmin|PAS|2618
-320|2004|P156|Datuk Syed Hamid Albar|UMNO|1
-321|2004|P156|Uncontested||0
-322|2004|P157|Datuk Azalina Othman Said|UMNO|1
-323|2004|P157|Uncontested||0
-324|2004|P158|Ling Ban San @ Teng Boon Soon|MCA|32071
-325|2004|P158|Yaakob Mohd Yusof|PAS|6060
-326|2004|P159|Datuk Mohamed Khaled Nordin|UMNO|38123
-327|2004|P159|A Razak Ahmad|PKR|7002
-328|2004|P160|Datuk Shahrir Abdul Samad|UMNO|54073
-329|2004|P160|Atan Ahmad|PAS|7281
-330|2004|P161|Datuk Nur Jazlan Tan Sri Mohamad|UMNO|42406
-331|2004|P161|Nasir Wahab|PAS|7480
-332|2004|P162|Tan Ah Eng|MCA|41001
-333|2004|P162|Song Sing Kwee|PKR|9335
-334|2004|P163|Lim Si Cheng|MCA|32278
-335|2004|P163|Ong Kow Meng|DAP|14134
-336|2004|P164|Hasni Mohamad|UMNO|26667
-337|2004|P164|Hassan Abdul Karim|PKR|5509
-338|2004|P165|Datuk Seri Ong Ka Ting|MCA|28046
-339|2004|P165|Tan Hang Meng|DAP|4431
-340|2004|P166|Datuk Suhaili Abdul Rahman|UMNO|11087
-341|2004|P166|Matusin Abdul Rahman|PAS|3186
-342|2004|P167|Datuk Abdul Rahim Bakri|UMNO|13236
-343|2004|P167|Orong Sahap|IND|6488
-344|2004|P167|Datu Abdul Razak Abdul Salam|IND|2375
-345|2004|P168|Datuk Dr Maximus Ongkili|PBS|10457
-346|2004|P168|Anthony Mandiau|IND|7268
-347|2004|P169|Datuk Salleh Tun Said|UMNO|19185
-348|2004|P169|James Bagah|IND|8956
-349|2004|P169|Jainin Giau|SETIA|1586
-350|2004|P170|Wilfred Madius Tangau|UPKO|17722
-351|2004|P170|Umsery @ Ansari Abdullah|PKR|8555
-352|2004|P171|Eric Enchin Majimbun|SAPP|16426
-353|2004|P171|Datin Saidatul Badru Tun Said|PKR|5201
-354|2004|P172|Dr Yee Moh Chai|PBS|15650
-355|2004|P172|Hiew King Cheu|DAP|5179
-356|2004|P172|Christina Liew|PKR|3497
-357|2004|P173|Datuk Dr Marcus Mojigoh|UPKO|13816
-358|2004|P173|Awang Ahmad Sah|PKR|5984
-359|2004|P174|Donald Peter Mojuntin|UPKO|16032
-360|2004|P174|Jomilon Mojountin @ Conrad Mojountin|DAP|3325
-361|2004|P174|Joseph Sulaiman|IND|960
-362|2004|P174|Blaise Mosidin@Frederick Francis|PKR|927
-363|2004|P175|Rosnah Abdul Abdul Rashid Shirlin|UMNO|1
-364|2004|P176|Datuk Anifah Aman|UMNO|9655
-365|2004|P176|Awang Tengah Awang Amin|PKR|4547
-366|2004|P177|Azizah Mohd Dun|UMNO|1
-367|2004|P178|Datuk Dr Yusof Yacob|UMNO|1
-368|2004|P179|Tan Sri Bernard Dompok|UPKO|7547
-369|2004|P179|Ruhimin Adzim|IND|1609
-370|2004|P179|Karim Adam|IND|1609
-371|2004|P179|Japiril Suhaimin|IND|1609
-372|2004|P180|Datuk Joseph Pairin Kitingan|PBS|1
-373|2004|P180|Janti@Joseph|IND|0
-374|2004|P181|Raimi Unggi|UMNO|8032
-375|2004|P181|Datuk Laimun Laikin|IND|5628
-376|2004|P182|Bernard S.Maraat|PBRS|5880
-377|2004|P182|Matin Tomy@Tommy|IND|5272
-378|2004|P182|Razali Suffian Koroh|SETIA|557
-379|2004|P183|Ronald Kiandee|UMNO|1
-380|2004|P184|Juslie Ajirol|UMNO|13140
-381|2004|P184|Rajmunni Sabu|PKR|2471
-382|2004|P185|Edmund Chong Ket Wah|PBS|1
-383|2004|P185|Pg Roslan Pg Nasrun|PKR|0
-384|2004|P186|Lau Ngan Siew|LDP|8208
-385|2004|P186|Chong Hon Min|IND|9538
-386|2004|P186|Liew Teck Khen @ Liaw Tech King|PASOK|543
-387|2004|P187|Bung Mokthar Radin|UMNO|1
-388|2004|P188|Samsu Baharom Abdul Rahman|UMNO|16613
-389|2004|P188|Shamsuri Baharuddin|PKR|5865
-390|2004|P189|Datuk Shafie Apdal|UMNO|13970
-391|2004|P189|Noraida Abdul Salleh|IND|1162
-392|2004|P189|Mohd Abdul Wahab Pg Abdullah|PKR|676
-393|2004|P189|Aldari Landi|IND|0
-394|2004|P190|Shim Paw Fatt|SAPP|1
-395|2004|P191|Abdul Ghapur Salleh|UMNO|1
-396|2004|P192|Tekhee@Tiki ak Lafe|SPDP|10579
-397|2004|P192|Dr Patau Rubis|SNAP|7867
-398|2004|P193|Datuk Wan Junaidi Tuanku Jaafar|PBB|12590
-399|2004|P193|Idris bin Bohari|IND|2030
-400|2004|P194|Fadillah Yusof|PBB|18236
-401|2004|P194|Wan Zainal Abidin Wan Senusi|PKR|5420
-402|2004|P195|Chong Chieng Jen|DAP|17914
-403|2004|P195|Wee Kok Tiong|SUPP|15873
-404|2004|P196|Datuk Yong Khoon Seng|SUPP|21155
-405|2004|P196|Voon Lee Shan|DAP|13424
-406|2004|P197|Abdul Taib Mahmud|PBB|1
-407|2004|P198|Dr James Dawos Mamit|PBB|15368
-408|2004|P198|Mangan Ngandok|STAR|6270
-409|2004|P199|Richard Riot Jaem|SUPP|13960
-410|2004|P199|Henry Genailanggie|IND|4265
-411|2004|P200|Datuk Seri Adenan Satem|PBB|10767
-412|2004|P200|Adam Ahid|PAS|1035
-413|2004|P201|Datuk Rohanie Abdul Karim (walkover)|PBB|1
-414|2004|P202|Jimmy Donald|PBDS|9679
-415|2004|P202|Cobbold Lusoi|IND|5311
-416|2004|P203|Jawah anak Gerang|PBDS|6962
-417|2004|P203|William Nyallau Badak|IND|4927
-418|2004|P204|Datuk Douglas Uggah Embas|PBB|11618
-419|2004|P204|Abang Zulkifli Abang Engkeh|SNAP|1895
-420|2004|P205|Jelaing Mersat|SPDP|11995
-421|2004|P205|Edmond Stanley Jugol|SNAP|4450
-422|2004|P206|Datuk Wahab Dolah (walkover)|PBB|0
-423|2004|P208|Datuk Seri Law Hieng Ding|SUPP|15485
-424|2004|P208|Juna anak Jawek|IND|3886
-425|2004|P208|Ling Bit Tiing|IND|1667
-426|2004|P208|Ngu Tieng Hai|IND|864
-427|2004|P209|Datuk Joseph Salang Gandum|PBDS|8388
-428|2004|P209|Josephine Randum Mawat|IND|5700
-429|2004|P210|Aaron Ago Dagang|PBDS|6438
-430|2004|P210|Frederick Bungsu Janton|IND|4381
-431|2004|P211|Tiong Thai King|SUPP|14895
-432|2004|P211|David Wong Kee Woan|DAP|10174
-433|2004|P212|Datuk Robert Lau Hoi Chew|SUPP|20689
-434|2004|P212|Wong Ho Leng|DAP|17344
-435|2004|P213|Datuk Dr. Leo Michael Toyad|PBB|11829
-436|2004|P213|Mohamad @ Latip Rahman|IND|2651
-437|2004|P214|Joseph Entulu Belaun|PBDS|7876
-438|2004|P214|Liman Sujang|SNAP|4260
-439|2004|P215|Alexander Nanta Linggi|PBB|1
-440|2004|P216|Abit Joo @ Billy Abit Joo|PBDS|6949
-441|2004|P216|Bendindang Manjah|SNAP|3283
-442|2004|P217|Datuk Seri Tiong King Sing|SPDP|20225
-443|2004|P217|Chiew Chiu Sing|DAP|8958
-444|2004|P217|Dr Lau Hing Kii|SNAP|2583
-445|2004|P219|Peter Chin Fah Kui|SUPP|1
-446|2004|P220|Datuk Jacob Dungau Sagan|SPDP|7551
-447|2004|P220|Kabing Wan|SNAP|4241
-448|2008|P1|Datuk Seri Mohd. Azmi Khalid|UMNO|16991
-449|2008|P1|Zolkharnain Abidin|PAS|11643
-450|2008|P2|Datuk Seri Radzi Sheikh Ahmad|UMNO|23821
-451|2008|P2|Tunku Abdul Rahman Tunku Ismail|PKR|10150
-452|2008|P3|Datuk Ismail Kassim|UMNO|16451
-453|2008|P3|Datuk Dr.Haron Din|PAS|16151
-454|2008|P4|Dato Paduka Abu Bakar Taib|UMNO|13762
-455|2008|P4|Wan Salleh Wan Isa|PKR|8792
-456|2008|P5|Dato Mukhriz Mahathir|UMNO|19424
-457|2008|P5|Idris Ahmad|PAS|17219
-458|2008|P6|Datuk Mohd Johari Baharum|UMNO|24179
-459|2008|P6|Dr Isa Ismail|PAS|17119
-460|2008|P7|Datuk Paduka Ghazali Ibrahim|UMNO|14634
-461|2008|P7|Mohd Nasir Zakaria|PAS|15003
-462|2008|P8|Datuk Paduka Abdul Rahman Ibrahim|UMNO|23956
-463|2008|P8|Mahfuz Omar|PAS|29687
-464|2008|P9|Datuk Chor Chee Heung|MCA|20741
-465|2008|P9|Gooi Hsiao Leung|PKR|20557
-466|2008|P10|Datuk Hashim Jahaya|UMNO|28671
-467|2008|P10|Ahmad Kassim|PKR|35689
-468|2008|P11|Datuk Paduka Md Rozai Shafian|UMNO|23238
-469|2008|P11|Dr Mohd Hayati Othman|PAS|27311
-470|2008|P12|Datuk Paduka Badruddin Amiruldin|UMNO|24211
-471|2008|P12|Mohd Firdaus Ja'afar|PAS|26510
-472|2008|P13|Othman Desa|UMNO|16383
-473|2008|P13|Che Uda Che Nik|PAS|16864
-474|2008|P14|Tajul Urus Mat Zain|UMNO|22443
-475|2008|P14|Datuk Rashid Din|PKR|25541
-476|2008|P15|Datuk Zainuddin Maidin|UMNO|24441
-477|2008|P15|Johari Abdul|PKR|33822
-478|2008|P16|Datuk Abd Azeez Abd Rahim|UMNO|28461
-479|2008|P16|Taib Azamudden Md Taib|PAS|36074
-480|2008|P17|Datuk Boey Chin Gan|MCA|17036
-481|2008|P17|N. Gobalakrishnan|PKR|28774
-482|2008|P18|Datuk Abdul Aziz Sheikh Fadzir|UMNO|16672
-483|2008|P18|Zulkifli Noordin|PKR|22255
-484|2008|P19|Dr Asraf Wajdi Dusuki|UMNO|27337
-485|2008|P19|Datuk Kamaruddin Jaafar|PAS|36714
-486|2008|P20|Rahim Mohd Zain|UMNO|15452
-487|2008|P20|Datuk Abd Halim Abd Rahman|PAS|26763
-488|2008|P21|Datuk Mohd Fatmi Che Salleh|UMNO|20841
-489|2008|P21|Datuk Wan Abdul Rahim Wan Abdullah|PAS|32129
-490|2008|P22|Ahmed Rasdi Mahmed|UMNO|19682
-491|2008|P22|Datuk Ibrahim Ali|PAS|28673
-492|2008|P23|Mohd Afandi Yusoff|UMNO|14858
-493|2008|P23|Siti Zailah Mohd Yusoff|PAS|19344
-494|2008|P23|Isma Airfath Hassanuddin|IND|330
-495|2008|P24|Ab Ghani Mamat|UMNO|16537
-496|2008|P24|Salahuddin Ayub|PAS|27179
-497|2008|P25|Dr Awang Adek Hussin|UMNO|25934
-498|2008|P25|Nasharudin Mat Isa|PAS|28835
-499|2008|P26|Datuk Seri Annuar Musa|UMNO|21338
-500|2008|P26|Abdul Aziz Kadir|PKR|21738
-501|2008|P27|Datuk Shaari Hasan|UMNO|15970
-502|2008|P27|Amran Ab Ghani|PKR|17554
-503|2008|P27|Asmadi Abu Bakar|IND|1439
-504|2008|P28|Amran Mat Nor|UMNO|24397
-505|2008|P28|Muhammad Husain|PAS|28365
-506|2008|P29|Sazmi Miah|UMNO|19581
-507|2008|P29|Saifuddin Nasution Ismail|PKR|21041
-508|2008|P30|Datuk Mustapa Mohamed|UMNO|17168
-509|2008|P30|Mohd Apandi Mohamad|PAS|12732
-510|2008|P31|Prof Datuk Dr Che Musa Che Omar|UMNO|18578
-511|2008|P31|Mohd Hatta Md Ramli|PAS|23562
-512|2008|P32|Tan Sri Tengku Razaleigh Hamzah|UMNO|14063
-513|2008|P32|Zulkefli Muhamed|PAS|9669
-514|2008|P33|Datuk Dr Abdullah Mohd Zin|UMNO|29376
-515|2008|P33|Datuk Husain Awang|PAS|18786
-516|2008|P34|Mohd Jidin Shafee|UMNO|26610
-517|2008|P34|Mohd Pauzi Muda|PAS|19378
-518|2008|P35|Mohamed Nasir Ibrahim Fikri|UMNO|26439
-519|2008|P35|Mohd Shukrimun Shamsuddin|PAS|25098
-520|2008|P36|Datuk Razali Ismail|UMNO|32562
-521|2008|P36|Mohamad Sabu|PAS|31934
-522|2008|P36|Maimun Yusuf|IND|685
-523|2008|P37|Datuk Dr. Ahmad Ramzi Mohamad Zubir|UMNO|30688
-524|2008|P37|Datuk Seri Abdul Hadi Awang|PAS|33435
-525|2008|P38|Mohd. Nor Othman|UMNO|27784
-526|2008|P38|Kamaruzaman Abdullah|PAS|17324
-527|2008|P39|Matulidi Jusoh|UMNO|29264
-528|2008|P39|Shamsul Iskandar @ Yusre Mohd Akin|PKR|24270
-529|2008|P40|Ahmad Shaberry Cheek|UMNO|37199
-530|2008|P40|Mohd Fariz Abd Talib @ Musa|PKR|24516
-531|2008|P41|Datuk Seri Abdullah Ahmad Badawi|UMNO|23445
-532|2008|P41|Subri Arshad|PAS|12199
-533|2008|P42|Tan Sri Nor Mohamed Yakcop|UMNO|20448
-534|2008|P42|Ismail Salleh|PAS|15901
-535|2008|P43|Song Choy Leng|MCA|11678
-536|2008|P43|Lim Guan Eng|DAP|33748
-537|2008|P44|Datuk Pirdaus Ismail|UMNO|16950
-538|2008|P44|Wan Azizah Wan Ismail|PKR|30348
-539|2008|P45|Ong Tang Chuan|MCA|22050
-540|2008|P45|Chong Eng|DAP|37882
-541|2008|P46|Tan Sri Dr. Koh Tsu Koon|GERAKAN|13582
-542|2008|P46|Dr P Ramasamy|DAP|23067
-543|2008|P47|Datuk Zainal Abidin Osman|UMNO|17123
-544|2008|P47|Tan Tee Beng|PKR|20210
-545|2008|P48|Datuk Seri Chia Kwang Chye|GERAKAN|15131
-546|2008|P48|Liew Chin Tong|DAP|31243
-547|2008|P49|Khaw Veon Szu|GERAKAN|9759
-548|2008|P49|Chow Kon Yeow|DAP|28248
-549|2008|P50|Dr Thor Teong Gee|GERAKAN|14247
-550|2008|P50|Jeff Ooi|DAP|30493
-551|2008|P50|Badrul Zaman P.S. Md Zakariah|IND|882
-552|2008|P51|Koay Har Huah|MCA|14125
-553|2008|P51|Karpal Singh|DAP|35140
-554|2008|P52|Ooi Swee Kim|MCA|16589
-555|2008|P52|Zahrain Mohamed Hashim|PKR|27618
-556|2008|P53|Datuk Dr Norraessah Mohamad|UMNO|15041
-557|2008|P53|Mohd Yusmadi Mohd Yusoff|PKR|15749
-558|2008|P54|Datuk Tan Lian Hoe|GERAKAN|12526
-559|2008|P54|Mohd. Noor Abdul Rahman|PAS|6953
-560|2008|P55|Datuk Samsul Anuar Nasarah|UMNO|10992
-561|2008|P55|Muhamad Zulkifli Mohamad Zakaria|PAS|6073
-562|2008|P56|Datuk Hamzah Zainuddin|UMNO|15878
-563|2008|P56|Dr. Mohd. Dhari Othman|PAS|13967
-564|2008|P57|Senator Datuk Abdul Raman Suliman|UMNO|13670
-565|2008|P57|Dr. Mujahid Yusof Rawa|PAS|21221
-566|2008|P58|Datuk Zainal Abidin Zin|UMNO|15530
-567|2008|P58|Mohsin Fadzli Haji Samsuri|PKR|18943
-568|2008|P59|Datuk Azim Zabidi|UMNO|18449
-569|2008|P59|Roslan Shaharum|PAS|20015
-570|2008|P59|M Morgan|IND|872
-571|2008|P60|Datuk M Kayveas|PPP|16800
-572|2008|P60|Nga Kor Ming|DAP|28098
-573|2008|P61|Datuk Seri Mohd. Nazri Aziz|UMNO|9830
-574|2008|P61|Alias Zenon|PKR|8081
-575|2008|P62|Datuk Seri S.Samy Vellu|MIC|14637
-576|2008|P62|Michael Jeyakumar Devaraj|PKR|16458
-577|2008|P62|Nor Rizan Oon|IND|864
-578|2008|P63|Datuk Ahmad Husni Hanadzlah|UMNO|27942
-579|2008|P63|Mohamad Asri Othman|PKR|22556
-580|2008|P64|Liew Mun Hon|MCA|15422
-581|2008|P64|Lim Kit Siang|DAP|37364
-582|2008|P65|Yik Phooi Hong|MCA|17042
-583|2008|P65|M. Kulasegaran a/l V. Murugeson|DAP|32576
-584|2008|P66|Cheah Yoke Can|MCA|15295
-585|2008|P66|Fong Po Kuan|DAP|39922
-586|2008|P67|Datuk Seri Rafidah Aziz|UMNO|10735
-587|2008|P67|Dr. Khairudin Abdul Malik|PAS|9277
-588|2008|P68|Datuk Chang Ko Youn|GERAKAN|14003
-589|2008|P68|Ngeh Koo Ham|DAP|15831
-590|2008|P69|Mohd. Nizar Zakaria|UMNO|12399
-591|2008|P69|Dr. Najihatussalehah Ahmad|PAS|9526
-592|2008|P70|Datuk Lee Chee Leong|MCA|20126
-593|2008|P70|Keong Meng sing|DAP|17429
-594|2008|P71|Ling Hee Leong|MCA|22328
-595|2008|P71|Lee Boon Chye|PKR|29696
-596|2008|P72|Datuk M. Saravanan|MIC|14084
-597|2008|P72|Tan Seng Toh|PKR|11064
-598|2008|P73|Datuk Tajuddin Abdul Rahman|UMNO|16928
-599|2008|P73|Mustaffa Kamil Ayub|PKR|14240
-600|2008|P74|Kong Cho Ha|MCA|25698
-601|2008|P74|Suwardi Sapuan|PKR|25400
-602|2008|P75|Datuk Ahmad Zahid Hamidi|UMNO|13115
-603|2008|P75|Madzi Hasan|PKR|10423
-604|2008|P76|Mah Siew Keong|GERAKAN|17016
-605|2008|P76|M. Manogaran|DAP|18486
-606|2008|P77|Ong Ka Chuan|MCA|21016
-607|2008|P77|Mohamad Azman Marjohan|PKR|15594
-608|2008|P78|S.K. Devamany|MIC|9164
-609|2008|P78|J Apalasamy|DAP|6047
-610|2008|P79|Muhamad Shahrum|UMNO|12611
-611|2008|P79|Mohamad Nilam Abdul Manap|PAS|8474
-612|2008|P80|Datuk Ng Yen Yen|MCA|18078
-613|2008|P80|Abu Bakar Lebai Sudin|DAP|15326
-614|2008|P81|Tengku Azlan Sultan Abu Bakar|UMNO|19543
-615|2008|P81|Dr Hamzah Jaafar|PAS|17597
-616|2008|P82|Salamon Ali Rizal Abd Rahman|UMNO|18796
-617|2008|P82|Azan bin Ismail|PKR|19823
-618|2008|P83|Fu Ah Kiow|MCA|16572
-619|2008|P83|Fuziah binti Salleh|PKR|18398
-620|2008|P84|Datuk Abdul Manan Ismail|UMNO|19355
-621|2008|P84|Mohd Jafri Ab Rashid|PKR|10852
-622|2008|P85|Najib Tun Razak|UMNO|36262
-623|2008|P85|Khairul Anuar Ahmad Zainudin|PKR|9798
-624|2008|P86|Ismail Abd Muttalib|UMNO|15868
-625|2008|P86|Masrudin Tantawi|PAS|9227
-626|2008|P87|Ismail Mohamed Said|UMNO|16165
-627|2008|P87|Kamal Shaari|PAS|10900
-628|2008|P88|Datuk Saifuddin Abdullah|UMNO|21381
-629|2008|P88|Ahmad Nizam Hamid|PKR|18940
-630|2008|P89|Liow Tiong Lai|MCA|25134
-631|2008|P89|G Ponusamy|PKR|12585
-632|2008|P90|Datuk Ismail Sabri Yaakob|UMNO|18051
-633|2008|P90|Mazlan Aliman|PAS|14230
-634|2008|P91|Datuk Sri Dr Jamaluddin Mohd Jarjis|UMNO|21308
-635|2008|P91|Mazlan Mohd Yasin|PAS|10629
-636|2008|P92|Abd Rahman Bakri|UMNO|12055
-637|2008|P92|Badrul Amin Bahron|PKR|10720
-638|2008|P93|Noriah Kasnon|UMNO|16069
-639|2008|P93|Dr Osman Sabran|PAS|11060
-640|2008|P94|Datuk G. Palanivel|MIC|22979
-641|2008|P94|Zainal Abidin Ahmad|PKR|23177
-642|2008|P95|Datuk Noh Omar|UMNO|16073
-643|2008|P95|Hanipa Maidin|PAS|12253
-644|2008|P96|Jahaya Ibrahim|UMNO|17934
-645|2008|P96|Dr. Dzulkefly Ahmad|PAS|18796
-646|2008|P97|Lee Li Yew|MCA|27134
-647|2008|P97|William Leong Jee Keen|PKR|30701
-648|2008|P97|Koh Swe Yong|PRM|1332
-649|2008|P98|Said Anuar b  Said Ahmad|UMNO|33467
-650|2008|P98|Mohamed Azmin Ali|PKR|40334
-651|2008|P99|Azman b Wahid|UMNO|23319
-652|2008|P99|Zuraida Kamaruddin|PKR|26995
-653|2008|P100|Dato Ong Tee Keat|MCA|25236
-654|2008|P100|Syed Shahir Syed Mohamud|PKR|22275
-655|2008|P101|Dato Markiman Kobiran|UMNO|34379
-656|2008|P101|Dr. Che Rosli Che Mat|PAS|36124
-657|2008|P102|Dato' Hoh Hee Lee|MCA|26419
-658|2008|P102|Teo Nie Ching|DAP|47444
-659|2008|P103|Lau Yeng Peng|GERAKAN|22486
-660|2008|P103|Gobind Singh Deo|DAP|35079
-661|2008|P104|Dato Lee Hwa Beng|MCA|25267
-662|2008|P104|Gwo-Burne Loh|PKR|30298
-663|2008|P104|Billi Lim Peng Soon|IND|1895
-664|2008|P105|Datuk Donald Lim Siang Chai|MCA|22892
-665|2008|P105|Hee Loy Sian|PKR|28598
-666|2008|P106|Datin Paduka Chew Mei Fun|MCA|17879
-667|2008|P106|Tony Pua Kiam Wee|DAP|37851
-668|2008|P107|S Murugesan|MIC|28315
-669|2008|P107|R Sivarasa|PKR|35024
-670|2008|P108|Datuk Abdul Aziz Shamsuddin|UMNO|24042
-671|2008|P108|Hj Khalid Abd Samad|PAS|33356
-672|2008|P109|Datin Paduka P Komala Devi|MIC|35899
-673|2008|P109|S Manikavasagam|PKR|48196
-674|2008|P110|Ch'ng Toh Eng|MCA|20289
-675|2008|P110|Charles Santiago|DAP|37990
-676|2008|P111|S.Vigneswaran|MIC|17879
-677|2008|P111|Dr. Siti Mariah Mahmud|PAS|38630
-678|2008|P112|Dato Hj Sulaiman b Mohd Karli|UMNO|25698
-679|2008|P112|Abdullah Sani bin Abdul Hamid|PKR|26687
-680|2008|P113|Dato Mohd Zin Mohamed|UMNO|26381
-681|2008|P113|Mohamed Makki Ahmad|PAS|21532
-682|2008|P114|Lau Hoi Keong|GERAKAN|11704
-683|2008|P114|Dr Tan Seng Giaw|DAP|35552
-684|2008|P115|Lim Si Pin|GERAKAN|20330
-685|2008|P115|Chua Tian Chang|PKR|29785
-686|2008|P116|Yew Teong Look|MCA|19487
-687|2008|P116|Wee Choo Keong|PKR|19637
-688|2008|P117|Ma Woei Chyi|GERAKAN|17314
-689|2008|P117|Lim Lip Eng|DAP|25046
-690|2008|P118|Zulhasnan Rafique|UMNO|25489
-691|2008|P118|Ibrahim Yaakob|PKR|17355
-692|2008|P119|Aziz Jamaluddin Mohd Tahir|UMNO|15885
-693|2008|P119|Dr Lo' Lo' Mohd Ghazali|PAS|17857
-694|2008|P120|Lee Chong Meng|MCA|12534
-695|2008|P120|Fong Kui Lun|DAP|26811
-696|2008|P121|Datuk Seri Shahrizat Abdul Jalil|UMNO|18833
-697|2008|P121|Nurul Izzah Anwar|PKR|21728
-698|2008|P121|N Periasamy|IND|489
-699|2008|P122|Carol Chew Chee Lin|MCA|10738
-700|2008|P122|Teresa Kok Suh Sim|DAP|47230
-701|2008|P123|Jeffrey Goh Sim Ik|MCA|10953
-702|2008|P123|Tan Kok Wai|DAP|39253
-703|2008|P124|Tan Chai Ho|MCA|25608
-704|2008|P124|Abdul Khalid Ibrahim|PKR|28123
-705|2008|P125|Tengku Adnan Tengku Mansor|UMNO|4038
-706|2008|P125|Mohammad Nor Mohamad|PAS|1304
-707|2008|P126|Datuk Seri Dr Rais Yatim|UMNO|19737
-708|2008|P126|Norman Ipin|PAS|8127
-709|2008|P127|Datuk Lilah Yasin|UMNO|25294
-710|2008|P127|Siti Meriam Naan|PAS|12974
-711|2008|P128|Datuk Yu Chok Tow|MCA|29022
-712|2008|P128|John Fernandez|DAP|32970
-713|2008|P129|Datuk Hassan Malek|UMNO|20417
-714|2008|P129|Annuar Mohd Salleh|PKR|10409
-715|2008|P130|Datuk Dr Yeow Chai Thiam|MCA|21120
-716|2008|P130|Loke Siew Fook|DAP|34271
-717|2008|P131|Khairy Jamaluddin Abu Bakar|UMNO|26525
-718|2008|P131|Badrul Hisham Shaharin|PKR|20779
-719|2008|P132|Datuk S. Sothinathan|MIC|20544
-720|2008|P132|Kamarul Baharin Abbas|PKR|23348
-721|2008|P132|Mohd Rashid Arshad|IND|601
-722|2008|P133|Datuk Shaziman Abu Mansor|UMNO|24022
-723|2008|P133|Abdul Razakek Abdul Rahim|PAS|10943
-724|2008|P134|Datuk Wira Abu Seman Yusop|UMNO|21582
-725|2008|P134|Ab. Ghani Ab. Rahman|PAS|9297
-726|2008|P135|Datuk Seri Fong Chan Onn|MCA|26354
-727|2008|P135|Tan Lay Siang|DAP|13470
-728|2008|P136|Datuk Idris Haron|UMNO|30460
-729|2008|P136|Zainon Jaafar|PKR|15960
-730|2008|P137|Datuk Md Sirat Abu|UMNO|30975
-731|2008|P137|Khalid Jaafar|PKR|29217
-732|2008|P138|Wong Nai Chee|MCA|27250
-733|2008|P138|Sim Tong Him|DAP|38640
-734|2008|P139|Datuk Wira Ahmad Hamzah|UMNO|28101
-735|2008|P139|Zulkefly Othman|PKR|15373
-736|2008|P140|Dr S. Subramaniam|MIC|15921
-737|2008|P140|Pang Hok Liong|DAP|12930
-738|2008|P141|Baharum Mohamed|UMNO|17979
-739|2008|P141|Zulkaply Salleh|PKR|8112
-740|2008|P142|Chua Tee Yong|MCA|13658
-741|2008|P142|Teo Eng Ching|DAP|9564
-742|2008|P143|Tan Sri Muhyiddin Md Yassin|UMNO|21028
-743|2008|P143|Mohd Rozali Jamil Al-Hafiz|PAS|8447
-744|2008|P144|Hamim Samuri|UMNO|25319
-745|2008|P144|Lee Fu Haw|DAP|17702
-746|2008|P145|Tay Puay Chuan|MCA|20329
-747|2008|P145|Er Teck Hwa|DAP|21051
-748|2008|P146|Razali Ibrahim|UMNO|16986
-749|2008|P146|Nah Budin|PKR|12325
-750|2008|P147|Datuk Noraini Ahmad|UMNO|26066
-751|2008|P147|Faisal Ali|PAS|12467
-752|2008|P148|Dr. Wee Ka Siong|MCA|20230
-753|2008|P148|Hussin Sujak|PAS|6321
-754|2008|P149|Datuk Mohamad Aziz|UMNO|19641
-755|2008|P149|Ali Markom|PKR|8767
-756|2008|P150|Mohd. Puad Zarkashi|UMNO|32593
-757|2008|P150|Muhammad Abdullah|PKR|19625
-758|2008|P151|Liang Teck Meng|GERAKAN|16450
-759|2008|P151|Atan Gombang|PAS|8597
-760|2008|P152|Hou Kok Chung|MCA|27970
-761|2008|P152|Ng Lam Hua|DAP|24189
-762|2008|P153|Datuk Seri Hishammuddin Tun Hussein|UMNO|17988
-763|2008|P153|Lee Sang|PKR|6418
-764|2008|P154|Datuk Dr Abdul Latiff Ahmad|UMNO|20116
-765|2008|P154|Shahar Abdullah|PAS|6380
-766|2008|P155|Datuk Halimah Mohamed Sadique|UMNO|19031
-767|2008|P155|Salleh Farmin|PAS|4982
-768|2008|P156|Datuk Seri Syed Hamid Albar|UMNO|22682
-769|2008|P156|Onn Jaafar|PAS|3721
-770|2008|P157|Datuk Seri Azalina Othman Said (walkover)|UMNO|0
-771|2008|P158|Ling Ban San @ Teng Boon Soon|MCA|30860
-772|2008|P158|Roslaini Sarif|PAS|16202
-773|2008|P159|Datuk Seri Mohamed Khaled Nordin|UMNO|35849
-774|2008|P159|Md Rizan Mohd Saman|PKR|18568
-775|2008|P160|Datuk Shahrir Abdul Samad|UMNO|43143
-776|2008|P160|Hassan Karim|PRM|17794
-777|2008|P161|Datuk Nur Jazlan Mohamed|UMNO|38036
-778|2008|P161|Abdullah Ideris|PAS|17587
-779|2008|P162|Tan Ah Eng|MCA|33630
-780|2008|P162|Dr. Zaliha Mustafa|PKR|24779
-781|2008|P163|Ong Ka Ting|MCA|32017
-782|2008|P163|Ng Pak Siong|DAP|20273
-783|2008|P164|Ahmad Maslan|UMNO|23121
-784|2008|P164|Mohd Annuar Mohd Salleh|PKR|8677
-785|2008|P165|Wee Jeck Seng|MCA|23302
-786|2008|P165|Ahmad Ton|DAP|10931
-787|2008|P166|Yusof Mahal|UMNO|10471
-788|2008|P166|Matusin Abdul Rahman|PAS|1106
-789|2008|P166|Lau Seng Kiat|IND|2014
-790|2008|P167|Datuk Abdul Rahim Bakri|UMNO|17634
-791|2008|P167|Yahya Othman|PKR|7739
-792|2008|P168|Datuk Dr Maximus Ongkili|PBS|12028
-793|2008|P168|Anthony Mandiau|PKR|7830
-794|2008|P168|Roslan Mohd Zain|IND|1109
-795|2008|P168|Bernam Angkap|BERSEKUTU|457
-796|2008|P169|Datuk Abdul Rahman Dahlan|UMNO|17842
-797|2008|P169|Saidil Simoi|PKR|14822
-798|2008|P170|Datuk Wilfred Bumburing|UPKO|17645
-799|2008|P170|Ansari Abdullah|PKR|11023
-800|2008|P170|Ajin @ Hazin Gagah|IND|879
-801|2008|P171|Datuk Eric Enchin Majimbun|SAPP|16884
-802|2008|P171|Ewol Munji @ Edward Ewol Munji|DAP|3709
-803|2008|P171|Mohamad Ibrahim @ Paul Kuleling|PKR|5423
-804|2008|P172|Chin Teck Ming|PBS|8420
-805|2008|P172|Christina Liew|PKR|9358
-806|2008|P172|Hiew King Chiew|DAP|9464
-807|2008|P172|Kong Yu Kiong|IND|341
-808|2008|P173|Datuk Dr Marcus Mojigoh|UPKO|13737
-809|2008|P173|Saukinah Yusof|PKR|7292
-810|2008|P173|Ramzah Ahmad|IND|918
-811|2008|P174|Tan Sri Bernard Giluk Dompok|UPKO|13400
-812|2008|P174|Dr Edwin Bosi|PKR|10337
-813|2008|P174|Livired Missih @ Willybroad Missi|PASOK|404
-814|2008|P174|Anthony Tibok|IND|696
-815|2008|P175|Rosnah Abdul Rashid Shirlin|UMNO|15352
-816|2008|P175|Wahab Idris|PKR|5778
-817|2008|P175|Mohd Hashim Yussup|IND|429
-818|2008|P175|Datuk Patrick Sindu|IND|2268
-819|2008|P176|Datuk Anifah Aman|UMNO|10242
-820|2008|P176|Ismail Bongsu|PKR|1615
-821|2008|P176|Jaafar Ismail|IND|4789
-822|2008|P176|Benjamin Basinta|IND|205
-823|2008|P177|Datuk Lajim Ukin|UMNO|14780
-824|2008|P177|Lajim Yusof|PKR|3866
-825|2008|P178|Datuk Sapawi Ahmad|UMNO|11905
-826|2008|P178|Karim Tassim|PKR|5759
-827|2008|P179|Datuk Sirigan Gubat|UPKO|14074
-828|2008|P179|Jonathan Yasin|PKR|6823
-829|2008|P179|Vitos Mark Koding|PASOK|619
-830|2008|P180|Datuk Seri Joseph Pairin Kitingan|PBS|14598
-831|2008|P180|Datuk Dr Jeffrey Kitingan|PKR|10334
-832|2008|P180|Peter Kodou|DAP|560
-833|2008|P181|Raimie Unggi|UMNO|9535
-834|2008|P181|Adris Taripin|PKR|2652
-835|2008|P181|Mutang @ Sylvester Dawat|BERSEKUTU|485
-836|2008|P181|Joh Jimmy @ Richard Joe Jimmy|IND|0
-837|2008|P182|Tan Sri Joseph Kurup (won uncontested)|PBRS|0
-838|2008|P183|Datuk Ronald Kiandee|UMNO|7090
-839|2008|P183|Michael @ Radio Luban|PKR|1271
-840|2008|P183|Petrus Rinning|IND|571
-841|2008|P183|Ramsah Tasim @ Ramsah Tashim|IND|0
-842|2008|P183|Nordin Kaning|IND|0
-843|2008|P184|Datuk Juslie Ajirol|UMNO|13668
-844|2008|P184|Ahmad Thamrin Jaini|PKR|6139
-845|2008|P185|Datuk Edmund Chong Ket Wah|PBS|9479
-846|2008|P185|Chong Kwong Wing|IND|5771
-847|2008|P186|Datuk V. K. Liew|LDP|8297
-848|2008|P186|Chong Chu Lin @ Shanty|DAP|8121
-849|2008|P186|Fong Vun Fui|IND|2929
-850|2008|P187|Datuk Bung Moktar Radin|UMNO|8507
-851|2008|P187|Ahmad Abdul|PKR|2181
-852|2008|P187|Dasim @ Ricky Jikah|UMNO|1515
-853|2008|P188|Salleh Kalbi|UMNO|18111
-854|2008|P188|Datuk Seri Panglima Dr Hasbullah Taha|PKR|8319
-855|2008|P189|Datuk Shafie Apdal|UMNO|19419
-856|2008|P189|Abdul Azis Abdul Hamid|PKR|1957
-857|2008|P190|Datuk Dr Chua Soon Bui|SAPP|13943
-858|2008|P190|Chan Foong Hin|DAP|9076
-859|2008|P190|Berhan @ Birhan Ruslan|PKR|3278
-860|2008|P191|Datuk Abdul Ghapur Salleh (won uncontested)|UMNO|0
-861|2008|P192|Datuk Dr Tiki Lafe|SPDP|8551
-862|2008|P192|Apin Baeng|IND|306
-863|2008|P192|Dr Patau Rubis|SNAP|4250
-864|2008|P192|Fabian Tinseng|IND|1476
-865|2008|P193|Datuk Wan Junaidi Tuanku Jaafar|PBB|15800
-866|2008|P193|Rahamat Idil Latip|PKR|3855
-867|2008|P194|Fadillah Yusof|PBB|19515
-868|2008|P194|Mohamad Jolhi|PKR|5118
-869|2008|P195|Sim Yaw Yen|SUPP|12949
-870|2008|P195|Chong Chieng Jen|DAP|22901
-871|2008|P196|Datuk Yong Khoon Seng|SUPP|21966
-872|2008|P196|Voon Lee Shan|DAP|18896
-873|2008|P196|See Chee How|PKR|2198
-874|2008|P197|Sulaiman Abdul Rahman Abdul Taib|PBB|15559
-875|2008|P197|Hussain Bin Apok|PKR|4148
-876|2008|P197|Abu Bakar Awang Dawos|IND|898
-877|2008|P198|Datuk James Dawos Mamit|PBB|14182
-878|2008|P198|Majen Ak Panyog|PKR|7525
-879|2008|P199|Datuk Richard Riot Jaem|SUPP|15793
-880|2008|P199|Sylvester Belayong|SNAP|2366
-881|2008|P200|Nancy Shukri|PBB|8183
-882|2008|P200|Piee Ling|PKR|2758
-883|2008|P201|Datuk Rohani Abdul Karim|PBB|11015
-884|2008|P201|Abang Eddy Allyanni|PAS|2923
-885|2008|P201|Ali Semsu|IND|250
-886|2008|P202|Masir Kujat|PRS|9700
-887|2008|P202|Cobbold Lusoi|IND|5448
-888|2008|P203|William Nyallau Badak|PRS|6769
-889|2008|P203|Nicholas Bawin|IND|5159
-890|2008|P204|Datuk Douglas Uggah Embas|PBB|13708
-891|2008|P204|Edmond Stanley Jugol|SNAP|1999
-892|2008|P205|Jelaing Mersat|SPDP|12470
-893|2008|P205|Mohd Yahya Abdullah|PKR|3764
-894|2008|P206|Norah Tun Abdul Rahman (Walkover)|PBB|0
-895|2008|P207|BN-PBB walkover|PBB|0
-896|2008|P208|Ding Kuong Hiing|SUPP|10588
-897|2008|P208|Dr wong Hua Seh|DAP|10537
-898|2008|P208|Lau Kain Chai|IND|116
-899|2008|P208|Kung Chin Chin|IND|545
-900|2008|P208|Ngu Tieng Hai|IND|105
-901|2008|P209|Datuk Joseph Salang Gandum|PRS|10351
-902|2008|P209|Ambrose Labang Jamba|PKR|2767
-903|2008|P210|Ago Dagang (Walkover)|PRS|0
-904|2008|P211|Datuk Tiong Thai King|SUPP|19476
-905|2008|P211|Wong Kee Woan|DAP|14612
-906|2008|P212|Datuk Robert Lau Hoi Chew|SUPP|19138
-907|2008|P212|Wong Ho Leng|DAP|15903
-908|2008|P212|Lim Chin Chuang|PKR|812
-909|2008|P213|Datuk Seri Muhd Leo Michael Toyad|PBB|10090
-910|2008|P213|Hai Merawin|IND|3792
-911|2008|P214|Joseph Entulu Belaun (Walkover)|PRS|0
-912|2008|P215|Alexander Nanta Linggi (walkover)|PBB|0
-913|2008|P216|Abit Joo @ Billy Abit Joo|PRS|6590
-914|2008|P216|George Lagong|IND|4426
-915|2008|P217|Datuk Seri Tiong King Sing|SPDP|23628
-916|2008|P217|Lim Su Kien|DAP|8663
-917|2008|P218|Ahmad Lai Bujang|PBB|8238
-918|2008|P218|Dr Teo Yu Keng|PKR|4590
-919|2008|P219|Datuk Peter Chin Fah Kui|SUPP|19354
-920|2008|P219|Fong Pau Teck|DAP|14138
-921|2008|P220|Datuk Jacob Dungau Sagan|SPDP|7996
-922|2008|P220|Kebing Wan|SNAP|3952
-923|2008|P221|Hasbi Habibollah|PBB|6427
-924|2008|P221|Lau Liat Koi|PKR|5751
-925|2008|P222|Henry Sum Agong (walkover)|PBB|8526
-944|2013|P1|AZAMHARI BIN MOHAMOOD|PAS|14047
-945|2013|P1|ZAHIDI BIN ZAINUL ABIDIN|UMNO|21473
-946|2013|P2|BAHARUDDIN BIN AHMAD|PAS|19306
-947|2013|P2|SHAHARUDDIN BIN ISMAIL|UMNO|23343
-948|2013|P3|HARON BIN DIN|PAS|18005
-949|2013|P3|SHAHIDAN BIN KASSIM|UMNO|19376
-950|2013|P3|ZAINUDIN BIN YOM|IND|406
-951|2013|P4|NAWAWI BIN AHMAD|UMNO|21407
-952|2013|P4|AHMAD BIN ABDULLAH|PKR|9546
-953|2013|P4|MARINA BINTI HUSSEIN|IND|180
-954|2013|P5|ISMAIL BIN SALLEH|PAS|20891
-955|2013|P5|OTHMAN BIN AZIZ|UMNO|24161
-956|2013|P6|MOHD JAMAL BIN NASIR|PAS|22890
-957|2013|P6|MOHD JOHARI BIN BAHARUM|UMNO|33334
-958|2013|P7|MOHD NASIR BIN ZAKARIA|PAS|16212
-959|2013|P7|MUHAMAD BAZLI BIN ABDULLAH|IND|243
-960|2013|P7|MAHDZIR BIN KHALID|UMNO|20654
-961|2013|P8|DATO' MAHFUZ BIN OMAR|PAS|36198
-962|2013|P8|SHAHLAN BIN ISMAIL|UMNO|32263
-963|2013|P9|CHOR CHEE HEUNG|MCA|25491
-964|2013|P9|GOOI HSIAO - LEUNG|PKR|27364
-965|2013|P9|ABDUL FISOL BIN MOHD ISA|BERJASA|3530
-966|2013|P9|JAWAHAR RAJA BIN ABDUL WAHID|BERSAMA|257
-967|2013|P10|AZMAN BIN ISMAIL|PKR|42870
-968|2013|P10|ZAKI ZAMANI BIN ABD RASHID|UMNO|37923
-969|2013|P11|OTHMAN BIN ABDUL|UMNO|32165
-970|2013|P11|MOHAMAD BIN SABU|PAS|29527
-971|2013|P12|JAMIL KHIR BIN BAHAROM|UMNO|32429
-972|2013|P12|MOHD FIRDAUS BIN JAAFAR|PAS|31233
-973|2013|P13|MANSOR BIN ABD RAHMAN|UMNO|22084
-974|2013|P13|CHE UDA BIN CHE NIK|PAS|19277
-975|2013|P14|ISMAIL BIN DAUT|UMNO|38538
-976|2013|P14|NOR AZRINA BINTI SURIP|PKR|34416
-977|2013|P15|SYAMSYUL ANUAR BIN CHE MEY @ ISMAIL|UMNO|34646
-978|2013|P15|ONG WEI SIN|IND|772
-979|2013|P15|SUHAIMI BIN HASHIM|KITA|200
-980|2013|P15|JOHARI BIN ABDUL|PKR|44194
-981|2013|P16|NAJMI BIN HJ AHMAD|PAS|38319
-982|2013|P16|ABDUL AZEEZ BIN ABDUL RAHIM|UMNO|43504
-983|2013|P17|HAMIDI BIN ABU HASSAN|BERJASA|2630
-984|2013|P17|OTHMAN BIN WAWI|IND|279
-985|2013|P17|GOBALAKRISHNAN A/L NAGAPAN|IND|390
-986|2013|P17|N SURENDRAN A/L K NAGARAJAN|PKR|34151
-987|2013|P17|HENG SEAI KIE|MCA|25714
-988|2013|P18|SAIFUDDIN NASUTION BIN ISMAIL|PKR|24911
-989|2013|P18|ABD. AZIZ BIN SHEIKH FADZIR|UMNO|26782
-990|2013|P19|KAMARUDIN BIN JAFFAR|PAS|46151
-991|2013|P19|MANSOR BIN SALLEH|UMNO|35527
-992|2013|P20|IZANI BIN HUSIN|PAS|34617
-993|2013|P20|DALI BIN HUSIN|UMNO|19497
-994|2013|P21|MOHAMAD FATMI BIN CHE SALLEH|UMNO|24650
-995|2013|P21|TAKIYUDDIN BIN HASSAN|PAS|40620
-996|2013|P21|MOHD ZAKIMAN BIN ABU BAKAR|IND|148
-997|2013|P22|IBRAHIM BIN ALI|IND|25384
-998|2013|P22|NIK MOHAMAD ABDUH BIN NIK ABDUL AZIZ|PAS|33431
-999|2013|P23|GHAZALI BIN ISMAIL|UMNO|17448
-1000|2013|P23|SITI ZAILAH BINTI MOHD YUSOFF|PAS|23724
-1001|2013|P24|AHMAD BAIHAKI BIN ATIQULLAH|PAS|35510
-1002|2013|P24|ANUAR BIN SAFIAN|UMNO|18769
-1003|2013|P25|AHMAD MARZUK BIN SHAARY|PAS|35419
-1004|2013|P25|AWANG ADEK BIN HUSSIN|UMNO|35218
-1005|2013|P26|ANNUAR BIN MUSA|UMNO|26912
-1006|2013|P26|AB AZIZ BIN AB KADIR|PKR|25938
-1007|2013|P27|NIK MAHMOOD BIN NIK HASSAN|PKR|22278
-1008|2013|P27|AHMAD FIZAL BIN CHE HARUN|IND|213
-1009|2013|P27|IKMAL HISHAM BIN ABDUL AZIZ|UMNO|26505
-1010|2013|P28|TUAN MUSTAFFA BIN TUAN MAT|UMNO|31691
-1011|2013|P28|NIK MAZIAN BIN NIK MOHAMAD|PAS|33579
-1012|2013|P29|AHMAD JAZLAN BIN YAAKUB|UMNO|25660
-1013|2013|P29|WAN ZAWAWI BIN WAN ISMAIL|PKR|24855
-1014|2013|P30|MUSTAPA BIN MOHAMED|UMNO|21223
-1015|2013|P30|MOHD APANDI BIN MOHAMAD|PAS|15954
-1016|2013|P31|TUAN AZIZ BIN TUAN HAMAT @ TUAN MAT|UMNO|25876
-1017|2013|P31|MOHD HATTA BIN MD RAMLI|PAS|27919
-1018|2013|P32|TENGKU RAZALEIGH BIN TENGKU MOHD HAMZAH|UMNO|21367
-1019|2013|P32|WAN ABD RAHIM BIN WAN ABDULLAH|PAS|12954
-1020|2013|P33|IDRIS BIN JUSOH|UMNO|35232
-1021|2013|P33|RIDUAN BIN MOHAMAD NOR|PAS|26890
-1022|2013|P34|CHE MOHAMAD ZULKIFLY BIN JUSOH|UMNO|33198
-1023|2013|P34|OMAR BIN SIDEK|PAS|25255
-1024|2013|P35|MOHD NASIR B. IBRAHIM @ IBRAHIM FIKRI|UMNO|33251
-1025|2013|P35|MOHD KHAIRUDDIN BIN AMAN RAZALI|PAS|33861
-1026|2013|P36|MOHD ZUBIR BIN EMBONG|UMNO|35043
-1027|2013|P36|RAJA KAMARUL BAHRIN SHAH|PAS|45828
-1028|2013|P36|MAIMUN BINTI YUSUF|IND|182
-1029|2013|P37|YAHYA BIN KHATIB MOHAMAD|UMNO|37860
-1030|2013|P37|ABDUL HADI BIN AWANG|PAS|42984
-1031|2013|P38|KAMARUZAMAN BIN ABDULLAH|PAS|23727
-1032|2013|P38|JAILANI BIN JOHARI|UMNO|31940
-1033|2013|P39|ROSLI BIN MAT HASSAN|UMNO|31406
-1034|2013|P39|WAN HASSAN BIN MOHD RAMLI|PAS|35348
-1035|2013|P39|MAZLAN BIN HARUN|IND|384
-1036|2013|P40|AHD SHABERY BIN CHEEK|UMNO|45525
-1037|2013|P40|KAMARUDIN BIN CHIK|PKR|33219
-1038|2013|P41|REEZAL MERICAN BIB NAINA MERICAN|UMNO|25128
-1039|2013|P41|AFNAN HAMIMI BIN TAIB AZAMUDDEN|PAS|20952
-1040|2013|P42|ABDUL RAHMAN BIN B MAIDIN|PAS|21351
-1041|2013|P42|MOHD SHARIFF BIN OMAR|IND|1590
-1042|2013|P42|SHABUDIN BIN YAHAYA|UMNO|24393
-1043|2013|P43|CHUA TEIK SIANG|MCA|12307
-1044|2013|P43|LIM GUAN ENG|DAP|46466
-1045|2013|P43|LIM KIM CHU|PCM|328
-1046|2013|P44|ABDULLAH ZAWAWI BIN SAMSUDIN|IND|201
-1047|2013|P44|ANWAR BIN IBRAHIM|PKR|37090
-1048|2013|P44|MAZLAN BIN ISMAIL|UMNO|25369
-1049|2013|P45|GUI GUAT LYE|MCA|12814
-1050|2013|P45|SIM CHEE KEONG|DAP|55877
-1051|2013|P46|GOBALAKRISHNAN A/L NARAYANASAMY|MIC|10674
-1052|2013|P46|HUAN CHENG GUAN|PCM|1801
-1053|2013|P46|KASTHURIRAANI A/P PATTO|DAP|36636
-1054|2013|P46|MOHAN A/L APPAROO|IND|305
-1055|2013|P47|MANSOR BIN OTHMAN|PKR|30003
-1056|2013|P47|TENG KOK PHENG|IND|297
-1057|2013|P47|ZAINAL ABIDIN BIN OSMAN|UMNO|21405
-1058|2013|P48|TEH LEONG MENG|GERAKAN|12813
-1059|2013|P48|ZAIRIL KHIR JOHARI|DAP|45591
-1060|2013|P49|NG SONG KHENG|GERAKAN|6865
-1061|2013|P49|NG WEI AIK|DAP|35510
-1062|2013|P50|NG FOOK ON|GERAKAN|17461
-1063|2013|P50|OOI CHUAN AUN|DAP|43211
-1064|2013|P51|KARPAL SINGH A/L RAM SINGH|DAP|55839
-1065|2013|P51|TEH BENG YEAM|MCA|14061
-1066|2013|P52|TANG HEAP SENG|MCA|24251
-1067|2013|P52|SIM TZE TZIN|PKR|43558
-1068|2013|P53|HILMI BIN YAHAYA|UMNO|22318
-1069|2013|P53|MUHAMMAD BAKHTIAR BIN WAN CHIK|PKR|20779
-1070|2013|P54|HASBULLAH BIN OSMAN|UMNO|16415
-1071|2013|P54|NORHAYATI BINTI KASIM|PAS|10199
-1072|2013|P55|RAZMAN BIN ZAKARIA|PAS|9832
-1073|2013|P55|SHAMSUL ANUAR BIN NASARAH|UMNO|13285
-1074|2013|P56|RAVEENDRAN A/L M.VALLIKANA|IND|278
-1075|2013|P56|MOHD FAUZI BIN SA'ARI|PAS|16888
-1076|2013|P57|MUA'AMAR GHADAFI JAMAL BIN JAMALUDIN|UMNO|17539
-1077|2013|P57|MUJAHID BIN YUSOF|PAS|26015
-1078|2013|P56|HAMZAH BIN ZAINUDIN|UMNO|22184
-1079|2013|P58|ABDUL LATIF BIN MASUD|IND|329
-1080|2013|P58|MOHD NOR BIN HJ. R. M. MONUTTY|PKR|21874
-1081|2013|P58|NOOR AZMI BIN GHAZALI|UMNO|23014
-1082|2013|P59|ISMAIL BIN SAFFIAN|UMNO|29577
-1083|2013|P59|IDRIS BIN AHMAD|PAS|30563
-1084|2013|P60|TAN LIAN HOE|GERAKAN|25530
-1085|2013|P60|NGA KOR MING|DAP|37275
-1086|2013|P61|MEOR AHMAD ISHARRA BIN ISHAK|PKR|10775
-1087|2013|P61|MOHAMED NAZRI BIN ABDUL AZIZ|UMNO|13005
-1088|2013|P62|NAGALINGAM A/L SINGARAVELLOO|IND|197
-1089|2013|P62|MICHAEL JEYAKUMAR DEVARAJ|PKR|21593
-1090|2013|P62|DEVAMANY A/L S KRISHNASAMY|MIC|18800
-1091|2013|P63|AHMAD HUSNI BIN MOHAMAD HANADZLAH|UMNO|42093
-1092|2013|P63|SITI AISHAH BINTI SHAIK ISMAIL|PKR|32768
-1093|2013|P64|KATHLEEN WONG MEI YIN|MCA|15086
-1094|2013|P64|SU KEONG SIONG|DAP|49086
-1095|2013|P65|KALWANT SINGH A/L SUJAN SINGH|IND|235
-1096|2013|P65|M. KULASEGARAN A/L V. MURUGESON|DAP|45420
-1097|2013|P65|CHENG WEI YEE|MCA|16382
-1098|2013|P66|SIVAKUMAR A/L VARATHARAJU NAIDU|DAP|53900
-1099|2013|P66|LOO THIN TUCK|MCA|15304
-1100|2013|P67|KAMILIA BINTI IBRAHIM|IND|447
-1101|2013|P67|KHALIL IDHAM LIM BIN ABDULLAH|PAS|13136
-1102|2013|P67|WAN MOHAMMAD KHAIR-IL ANUAR BIN WAN AHMAD|UMNO|14218
-1103|2013|P68|CHANG KO YOUN|GERAKAN|16882
-1104|2013|P68|NGEH KOO HAM|DAP|21939
-1105|2013|P69|MOHD ZAIM BIN ABU HASAN|UMNO|16253
-1106|2013|P69|MUHAMMAD ISMI BIN MAT TAIB|PAS|11756
-1107|2013|P70|LEE CHEE LEONG|MCA|21463
-1108|2013|P70|KO CHUNG SEN|DAP|26863
-1109|2013|P71|LEE BOON CHYE|PKR|47558
-1110|2013|P71|TAN CHIN MENG|MCA|32249
-1111|2013|P72|RIDZUAN BIN BANI|IND|337
-1112|2013|P72|SHAHARUZZAMAN BIN BISTAMAM|BERJASA|2053
-1113|2013|P72|VASANTHA KUMAR A/L KRISHNAN|PKR|12743
-1114|2013|P72|SARAVANAN A/L MURUGAN|MIC|20670
-1115|2013|P73|TAJUDDIN BIN ABDUL RAHMAN|UMNO|24875
-1116|2013|P73|MUSTAFFA KAMIL BIN AYUB|PKR|17489
-1117|2013|P74|KONG CHO HA|MCA|32140
-1118|2013|P74|MOHAMAD IMRAN BIN ABD HAMID|PKR|40308
-1119|2013|P75|MADHI BIN HASAN|PKR|15068
-1120|2013|P75|AHMAD ZAHID BIN HAMIDI|UMNO|17176
-1121|2013|P76|SEAH LEONG PENG|DAP|27399
-1122|2013|P76|MAH SIEW KEONG|MCA|20086
-1123|2013|P76|MORALINGAM A/L KANNAN|IND|279
-1124|2013|P77|DATO' SERI ONG KA CHUAN|MCA|28225
-1125|2013|P77|TAN YEE KEW|PKR|23897
-1126|2013|P78|ALAGU A/L THANGARAJOO|IND|308
-1127|2013|P78|KISHO KUMAR A/L KATHIRVELOO|IND|101
-1128|2013|P78|MANOGARAN A/L MARIMUTHU|DAP|10044
-1129|2013|P78|MOHD SHOKRI BIN MAHMOOD|BERJASA|912
-1130|2013|P78|PALANIVEL A/L K. GOVINDASAMY|MIC|10506
-1131|2013|P79|ABDUL RAHMAN BIN MOHAMAD|UMNO|14863
-1132|2013|P79|AISHATON BINTI ABU BAKAR|IND|303
-1133|2013|P79|MOHD MAHYUDDIN BIN GHAZAL @ RAZALI|PAS|11394
-1134|2013|P80|HOH KHAI MUN|MCA|20601
-1135|2013|P80|MOHD ARIFF SABRI BIN ABDUL AZIZ|DAP|23415
-1136|2013|P81|AHMAD NAZLAN BIN IDRIS|UMNO|26544
-1137|2013|P81|DR. HAMZAH BIN JAAFFAR|PAS|22012
-1138|2013|P82|ADNAN BIN WAN MAMAT|UMNO|23061
-1139|2013|P82|FAUZI BIN ABDUL RAHMAN|PKR|30584
-1140|2013|P82|PONUSAMY A/L GOVINDASAMY|IND|193
-1141|2013|P83|FUZIAH BINTI SALLEH|PKR|25834
-1142|2013|P83|MOHAMED SUFFIAN BIN AWANG|UMNO|21319
-1143|2013|P84|ABDUL MANAN BIN ISMAIL|UMNO|23747
-1144|2013|P84|MURNIE HIDAYAH BINTI ANUAR|PKR|16032
-1145|2013|P84|ZAHARI BIN MAMAT|IND|272
-1146|2013|P85|MOHD NAJIB BIN HJ ABD RAZAK|UMNO|51278
-1147|2013|P85|MOHD. FARIZ B. ABD. TALIB @ MUSA|PKR|15665
-1148|2013|P86|ISMAIL BIN ABD. MUTTALIB|UMNO|19249
-1149|2013|P86|MUJIBUR RAHMAN BIN ISHAK|PAS|12774
-1150|2013|P87|ISMAIL BIN MOHAMED SAID|UMNO|21575
-1151|2013|P87|SHAHRIL AZMAN BIN ABD HALIM|PAS|15370
-1152|2013|P88|NASRUDIN BIN HASSAN|PAS|28267
-1153|2013|P88|SAIFUDDIN BIN ABDULLAH|UMNO|27197
-1154|2013|P89|LIOW TIONG LAI|MCA|25947
-1155|2013|P89|WONG TACK|DAP|25568
-1156|2013|P90|ISMAIL SABRI BIN YAAKOB|UMNO|21669
-1157|2013|P90|MOHD WALI BIN ALANG AHAMAD|IND|670
-1158|2013|P90|ZAKARIA BIN ABDUL HAMID|PKR|19526
-1159|2013|P91|JAMALUDIN BIN JARJIS|UMNO|30040
-1160|2013|P91|NURIDAH BINTI MOHD SALLEH|PAS|14926
-1161|2013|P92|ABDUL AZIZ BIN BARI|PKR|14743
-1162|2013|P92|MOHD FASIAH BIN MOHD FAKEH|UMNO|16387
-1163|2013|P93|MOHAMED SALLEH BIN M HUSIN|PAS|18296
-1164|2013|P93|NORIAH BINTI KASNON|UMNO|18695
-1165|2013|P94|KHALID BIN JAAFAR|PKR|33989
-1166|2013|P94|P.KAMALANATHAN A/L P.PANCHANATHAN|MIC|37403
-1167|2013|P94|RADZALI BIN MOKHTAR|IND|1105
-1168|2013|P94|SANTHARA KUMAR A/L RAMANAIDU|IND|999
-1169|2013|P95|MASRUN BIN TAMSI|IND|340
-1170|2013|P95|NOH BIN OMAR|UMNO|20548
-1171|2013|P95|MOHAMAD RASHDI BIN DERAMAN|PAS|16154
-1172|2013|P96|DZULKEFLY BIN AHMAD|PAS|27040
-1173|2013|P96|IRMOHIZAM BIN IBRAHIM|UMNO|27500
-1174|2013|P97|WILLIAM LEONG JEE KEEN|PKR|52287
-1175|2013|P97|LIM SIANG CHAI|MCA|34441
-1176|2013|P97|HAJI MOHD HAZIZI BIN AB. RAHMAN|BERJASA|4152
-1177|2013|P98|MOHAMED AZMIN BIN ALI|PKR|54827
-1178|2013|P98|SAID NAZAR BIN ABU BAKER|IND|474
-1179|2013|P98|RAMAN BIN ISMAIL|UMNO|50093
-1180|2013|P99|ZURAIDA BINTI KAMARUDDIN|PKR|41969
-1181|2013|P99|ROZAIDAH BINTI TALIB|UMNO|28691
-1182|2013|P100|MOHD RAFIZI BIN RAMLI|PKR|48183
-1183|2013|P100|TAN YEW LENG|IND|2415
-1184|2013|P100|LIM CHIN YEE|MCA|21454
-1185|2013|P101|ADZHALIZA BINTI MOHD NOR|UMNO|46860
-1186|2013|P101|CHE ROSLI BIN CHE MAT|PAS|64127
-1187|2013|P102|YAP PIAN HON|MCA|37032
-1188|2013|P102|ONG KIAN MING|DAP|79238
-1189|2013|P103|GOBIND SINGH DEO|DAP|62938
-1190|2013|P103|A. KOHILAN PILLAY A/L G. APPU|GERAKAN|30136
-1191|2013|P104|LOH SENG KOK|MCA|27963
-1192|2013|P104|TOH SIN WAH|IND|363
-1193|2013|P104|WONG CHEN|PKR|56790
-1194|2013|P105|IBRAHIM BIN KHATIB|IND|1447
-1195|2013|P105|HEE LOY SIAN|PKR|41062
-1196|2013|P105|SHEAH KOK FAH|MCA|21846
-1197|2013|P106|CHEW HOONG LING|MCA|12735
-1198|2013|P106|PUA KIAM WEE|DAP|57407
-1199|2013|P107|SIVARASA A/L K. RASIAH|PKR|66268
-1200|2013|P107|PAKAS RAO A/L APPLANAIDOO|MIC|39549
-1201|2013|P107|EDROS BIN ABDULLAH|IND|218
-1202|2013|P107|MOHAMAD BIN ISMAIL|BERJASA|4454
-1203|2013|P107|NAZARUDDIN BIN MOHAMED FERDOOS|IND|460
-1204|2013|P108|KHALID BIN ABD SAMAD|PAS|49009
-1205|2013|P109|SAKTHIVEL A/L ALAGAPPAN|MIC|46059
-1206|2013|P109|NORHAMZAH BIN SURATMAN|IND|1067
-1207|2013|P109|PALAYA A/L RENGAIAH|IND|231
-1208|2013|P109|MOHD PATHAN BIN HUSSIN|BERJASA|6289
-1209|2013|P109|G MANIVANNAN A/L GOWINDASAMY|PKR|69849
-1210|2013|P109|MOHD NAZRI BIN ABDUL AZIZ|IND|835
-1211|2013|P110|TEH KIM POO|MCA|29034
-1212|2013|P110|CHARLES ANTHONY A/L R. SANTIAGO|DAP|53719
-1213|2013|P111|UTHAYAKUMAR A/L PONNUSAMY|IND|2364
-1214|2013|P111|MURUGESAN A/L SINNANDAVAR|MIC|29711
-1215|2013|P111|AZMAN BIN IDRUS|IND|280
-1216|2013|P111|SITI MARIAH BINTI MAHMUD|PAS|59106
-1217|2013|P112|SHARUDDIN BIN OMAR|UMNO|35625
-1218|2013|P112|KOTTAPPAN A/L SUPPAIAH|IND|426
-1219|2013|P112|ABDULLAH SANI BIN ABDUL HAMID|PKR|40983
-1220|2013|P113|HANAPIAH BIN MOHAMAD|IND|318
-1221|2013|P113|SUHAIMI BIN MOHD GHAZALI|IND|963
-1222|2013|P113|MOHD ZIN BIN MOHAMED|UMNO|35670
-1223|2013|P114|YEE POH PING|IND|2757
-1224|2013|P114|TAN SENG GIAW @ TAN CHUN TIN|DAP|47837
-1225|2013|P114|CHANDRAKUMANAN A/L ARUMUGAM|PPP|7530
-1227|2013|P115|CHUA TIAN CHANG|PKR|41672
-1228|2013|P115|ATAN BIN JASIN|IND|164
-1229|2013|P115|HASHIM BIN ABDUL KARIM|BERJASA|949
-1230|2013|P115|DOMINIC LAU HOE CHAI|GERAKAN|28388
-1231|2013|P115|NAZARIAH BINTI ABBAS|IND|209
-1232|2013|P116|MOHD SHAFEI BIN ABDULLAH|UMNO|26130
-1233|2013|P116|TAN KEE KWONG|PKR|31641
-1234|2013|P117|LIM LIP ENG|DAP|41383
-1235|2013|P117|JAYANTHI DEVI A/P BALAGURU|GERAKAN|22184
-1236|2013|P118|AHMAD FAUZI BIN ZAHARI|UMNO|26809
-1237|2013|P118|IBRAHIM BIN YAACOB|PKR|25419
-1238|2013|P119|JOHARI BIN ABDUL GHANI|UMNO|23034
-1239|2013|P119|AHMAD ZAMRI BIN ASA'AD KHUZAMI|PAS|22168
-1240|2013|P120|GAN JOON ZIN|MCA|11009
-1241|2013|P120|FONG KUI LUN|DAP|30408
-1242|2013|P121|NURUL IZZAH BINTI ANWAR|PKR|31008
-1243|2013|P121|RUSLI BIN BABA|IND|167
-1244|2013|P121|RAJA NONG CHIK BIN RAJA ZAINAL ABIDIN|UMNO|29161
-1245|2013|P122|TERESA KOK SUH SIM|DAP|61500
-1246|2013|P122|WONG SIAW TING|MCA|9948
-1247|2013|P123|TEOH CHEE HOOI|MCA|10840
-1248|2013|P123|TAN KOK WAI|DAP|48249
-1249|2013|P124|MOHAMAD SUKERI BIN ABDUL SAMAT|IND|793
-1250|2013|P124|MOKHTAR BIN SALAHUDIN|IND|191
-1251|2013|P124|TAN KOK ENG|MCA|32235
-1252|2013|P124|ABD KHALID BIN IBRAHIM|PKR|44067
-1253|2013|P125|TENGKU ADNAN BIN TENGKU MANSOR|UMNO|9943
-1254|2013|P125|HUSAM BIN MUSA|PAS|4402
-1255|2013|P126|ZAINUDIN BIN ISMAIL|UMNO|22114
-1256|2013|P126|RAJ MUNNI BINTI SABU|PAS|15013
-1257|2013|P127|WAN AISHAH BINTI WAN ARIFFIN|PAS|22495
-1258|2013|P127|MOHD ISA BIN ABDUL SAMAD|UMNO|31109
-1259|2013|P128|ABDUL HALIM BIN ABDULLAH|BERJASA|6866
-1260|2013|P128|JOHN A/L FERNANDEZ|IND|221
-1261|2013|P128|BUJANG BIN ABU|IND|83
-1262|2013|P128|LOKE SIEW FOOK|DAP|45628
-1263|2013|P128|YEOW CHAI THIAM|MCA|33075
-1264|2013|P129|HASAN BIN MALEK|UMNO|24507
-1265|2013|P129|MOHD NAZREE BIN MOHD YUNUS|PKR|14846
-1266|2013|P130|TEO ENG KIAN|MCA|25479
-1267|2013|P130|TEO KOK SEONG|DAP|48964
-1268|2013|P131|ABDUL AZIZ BIN HASSAN|IND|325
-1269|2013|P131|KHAIRY JAMALUDDIN ABU BAKAR|UMNO|43053
-1270|2013|P131|RADZALI BIN A. GHANI|PKR|24696
-1271|2013|P132|KAMARUDIN KUMARAVEL BIN ABDULLAH|IND|394
-1272|2013|P132|KAMARUL BAHARIN BIN ABBAS|PKR|29848
-1273|2013|P132|MOGAN A/L VELAYATHAM|MIC|28269
-1274|2013|P133|ABDUL RAZAKEK BIN ABDUL RAHIM|PAS|18228
-1275|2013|P133|SHAZIMAN BIN ABU MANSOR|UMNO|29390
-1276|2013|P134|MAS ERMIEYATI BINTI SAMSUDIN|UMNO|27688
-1277|2013|P134|MOHD NASAIE BIN ISMAIL|PAS|11488
-1278|2013|P135|DAMIAN YEO SHEN LI|DAP|20997
-1279|2013|P135|KOH NAI KWONG|MCA|32594
-1280|2013|P136|ABU BAKAR BIN MOHAMAD DIAH|UMNO|39468
-1281|2013|P136|RAHIM BIN ALI|PKR|23835
-1282|2013|P137|SHAMSUL ISKANDAR @ YUSRE BIN MOHD AKIN|PKR|46167
-1283|2013|P137|HAJI MOHD ALI BIN HAJI MOHD RUSTAM|UMNO|40720
-1284|2013|P138|YEE KOK WAH|MCA|28775
-1285|2013|P138|SIM TONG HIM|DAP|49521
-1286|2013|P139|RAHMAT BIN YUSOF|PKR|21973
-1287|2013|P139|AHMAD BIN HAMZAH|UMNO|33736
-1288|2013|P140|SUBRAMANIAM A/L K.V SATHASIVAM|MIC|20037
-1289|2013|P140|DATO CHUA JUI MENG|PKR|18820
-1290|2013|P141|JULAILEY BIN JEMADI|PKR|16927
-1291|2013|P141|ANUAR BIN ABD. MANAP|UMNO|19934
-1292|2013|P142|RAMAKRISHNAN A/L SUPPIAH|DAP|15468
-1293|2013|P142|CHUA TEE YONG|MCA|15821
-1294|2013|P143|MAHIADDIN BIN MD YASIN|UMNO|26274
-1295|2013|P143|MOHAMAD ROZALI BIN JAMIL|PAS|13432
-1296|2013|P144|HAMIM BIN SAMURI|UMNO|30619
-1297|2013|P144|HASSAN BIN ABDUL KARIM|PKR|28652
-1298|2013|P145|LEE CHING YONG|MCA|26051
-1299|2013|P145|ER TECK HWA|DAP|31118
-1300|2013|P146|NOR HIZWAN BIN AHMAD|PKR|19221
-1301|2013|P146|RAZALI BIN IBRAHIM|UMNO|20867
-1302|2013|P147|KHAIRUDDIN BIN A RAHIM|PAS|18505
-1303|2013|P147|NORAINI BINTI AHMAD|UMNO|30258
-1304|2013|P148|HU PANG CHAW|PAS|14735
-1305|2013|P148|WEE KA SIONG|MCA|22045
-1306|2013|P149|MOHD KHUZZAN BIN ABU BAKAR|PKR|16692
-1307|2013|P149|AB AZIZ BIN KAPRAWI|UMNO|22453
-1308|2013|P150|MOHD IDRIS BIN JUSI|PKR|38667
-1309|2013|P150|MOHD PUAD BIN ZARKASHI|UMNO|36935
-1310|2013|P151|SUHAIZAN BIN KAIAT|PAS|14048
-1311|2013|P151|LIANG TECK MENG|GERAKAN|19754
-1312|2013|P152|HOU KOK CHUNG|MCA|33215
-1313|2013|P152|LIEW CHIN TONG|DAP|40574
-1314|2013|P153|HISHAMMUDDIN BIN DATUK HUSSEIN|UMNO|22841
-1315|2013|P153|ONN BIN ABU BAKAR|PKR|12210
-1316|2013|P154|ROSLAN BIN NIKMAT|PAS|10437
-1317|2013|P154|ABD. LATIFF BIN AHMAD|UMNO|26184
-1318|2013|P155|HALIMAH BINTI MOHD SADIQUE|UMNO|25698
-1319|2013|P155|MUHAMAD SAID BIN JONIT|PAS|8502
-1320|2013|P156|ONN BIN JAAFAR|PAS|5799
-1321|2013|P156|NOOR EHSANUDDIN BIN MOHD HARUN NARRASHID|UMNO|30373
-1322|2013|P157|TENGKU INTAN BINTI TENGKU ABDUL HAMID|PKR|4484
-1323|2013|P157|AZALINA BINTI OTHMAN|UMNO|26992
-1324|2013|P157|MOHD AZAMAN BIN JOHARI|IND|795
-1325|2013|P158|CHOONG SHIAU YOON|PKR|38218
-1326|2013|P158|KHOO SOO SEANG|MCA|39985
-1327|2013|P159|AHMAD FAIDHI BIN SAIDI|PKR|42899
-1328|2013|P159|NORMALA BINTI ABDUL SAMAD|UMNO|43834
-1329|2013|P160|SHARIL @ SHAHRIR BIN AB SAMAD|UMNO|44285
-1330|2013|P160|MD HASHIM BIN HUSSEIN|PKR|34151
-1331|2013|P161|NUR JAZLAN BIN MOHAMED|UMNO|43751
-1332|2013|P161|SALAHUDDIN BIN AYUB|PAS|40525
-1333|2013|P162|A. GHANI BIN OTHMAN|UMNO|39522
-1334|2013|P162|LIM KIT SIANG|DAP|54284
-1335|2013|P163|TEO NIE CHING|DAP|43338
-1336|2013|P163|TAY CHIN HEIN|MCA|29888
-1337|2013|P163|SURENDIRAN A/L KUPPAYAH|IND|238
-1338|2013|P164|HANIFF @ GHAZALI BIN HOSMAN|PKR|14077
-1339|2013|P164|AHMAD BIN MASLAN|UMNO|27804
-1340|2013|P165|WEE JECK SENG|MCA|25038
-1341|2013|P165|MAHDZIR BIN IBRAHIM|DAP|19581
-1342|2013|P166|TAN SRI IBRAHIM BIN MENUDIN|PKR|6069
-1343|2013|P166|ROZMAN BIN ISLI|UMNO|12694
-1344|2013|P166|HADNAN BIN MOHAMAD|PAS|386
-1345|2013|P167|MOJURIP BIN DIYUN|SAPP|963
-1346|2013|P167|RAHIMAH BINTI MAJID|PKR|9507
-1347|2013|P167|DATUK ABD RAHIM BIN BAKRI|UMNO|21883
-1348|2013|P167|JUTIRIM BIN GALIBAI GALABI|STAR|3083
-1349|2013|P168|MAJAMIS BIN TIMBONG|STAR|2228
-1350|2013|P168|JOHNITY @ MAXIMUS BIN ONGKILI|PBS|15168
-1351|2013|P168|YUNTAU BIN KOLOD @ KUNTAU BIN KOLOD|SAPP|444
-1352|2013|P168|MAIJOL BIN MAHAP|PKR|14326
-1353|2013|P169|JALUMIN BIN BAYOGOH|STAR|2709
-1354|2013|P169|LAMSIL BIN AMIDSOR|IND|979
-1355|2013|P169|DATO' ABD RAHMAN BIN DAHLAN|UMNO|21768
-1356|2013|P169|KANUL BIN GINDOL|IND|185
-1357|2013|P169|ISNARAISSAH MUNIRAH BT. MAJILIS @ FAKHARUDY|PKR|16673
-1358|2013|P170|ERVEANA ANSARI ALI|IND|2264
-1359|2013|P170|MADIUS BIN TANGAU|UPKO|20685
-1360|2013|P170|MOJILIP BIN BUMBURING @ WILFRED|PKR|15495
-1361|2013|P170|SAMIN @ JASMIN BIN DULIN|STAR|1509
-1362|2013|P171|CHIN HON KIONG|SAPP|4070
-1363|2013|P171|DANIEL JOHN JAMBUN|STAR|1931
-1364|2013|P171|JEFFREY KUMIN @ JOHN|DAP|13403
-1365|2013|P171|DATUK JUMAT BIN IDRIS|UMNO|22845
-1366|2013|P172|WONG SZE PHIN @ JIMMY|DAP|28516
-1367|2013|P172|CHIN TEK MING|PBS|9557
-1368|2013|P172|LIEW HOCK LEONG @ MICHAEL|STAR|909
-1369|2013|P173|LEE HAN KYUN @ JOSEPH LEE|DAP|7958
-1370|2013|P173|MAKIN @ MARCUS MOJIGOH|UPKO|17465
-1371|2013|P173|AWANG AHMAD SAH|STAR|2604
-1372|2013|P173|DULI @ DULLIE BIN MARI @ MARIE|SAPP|1068
-1373|2013|P174|BERNARD GILUK DOMPOK|UPKO|12382
-1374|2013|P174|MELANIA @ MELANIE ANNOL|STAR|1119
-1375|2013|P174|IGNATIUS DORELL LEIKING|PKR|22598
-1376|2013|P175|BALON BIN MUJIM|STAR|838
-1377|2013|P175|MOHAMMAD YAHYA @ YAHYA BIN LAMPONG|PKR|10661
-1378|2013|P175|DATUK ROSNAH BINTI HJ ABD RASHID SHIRLIN|UMNO|21196
-1379|2013|P176|LUSIN BIN BALANGON|STAR|240
-1380|2013|P176|JAMIL BIN WILLIAM CORE|SAPP|650
-1381|2013|P176|DATUK ANIFAH BIN AMAN @ HANIFF AMMAN|UMNO|13754
-1382|2013|P176|JAAFAR BIN ISMAIL|PKR|8031
-1383|2013|P177|GUAN DEE BIN KOH HOI|STAR|409
-1384|2013|P177|DATUK AZIZAH BINTI MOHD DUN|UMNO|12827
-1385|2013|P177|LAJIM BIN UKIN|PKR|12154
-1386|2013|P178|DATUK SAPAWI BIN AMAT WASALI @ AHMAD|UMNO|16377
-1387|2013|P178|KAMIS BIN DAMING|SAPP|505
-1388|2013|P178|RAMLE BIN DUA @ RAMLI DUA LEE|PKR|6908
-1389|2013|P179|JONATHAN BIN YASIN|PKR|11823
-1390|2013|P179|YAZID BIN SAHJINAN|IND|914
-1391|2013|P179|EWON EBIN|UPKO|15434
-1392|2013|P179|ULIANAH BTE SITUN @ WIDYA JULIA|STAR|2559
-1393|2013|P180|GAPARI BIN KATINGAN @ GEOFFREY KITINGAN|STAR|11900
-1394|2013|P180|JOSEPH PAIRIN KITINGAN|PBS|15818
-1395|2013|P180|STEPHEN SANDOR|PKR|7825
-1396|2013|P181|JAINEH BIN JUAYA @ JIMMY JAWATAH|SAPP|1766
-1397|2013|P181|HASMIN @ AZROY BIN ABDULLAH|STAR|2449
-1398|2013|P181|DATUK RAIME BIN UNGGI|UMNO|9771
-1399|2013|P181|MASDIN BIN TUMAS|PKR|5885
-1400|2013|P181|MUTANG @ SYLVESTER BIN DAWAT|KITA|423
-1401|2013|P182|MARTIN TOMY @ TOMMY|STAR|3554
-1402|2013|P182|RICHARD SAKIAN BIN GUNTING|PKR|7723
-1403|2013|P182|JOSEPH KURUP|PBRS|9467
-1404|2013|P182|FATIMAH BINTI AGITOR @ MOHD DAUD|IND|152
-1405|2013|P183|RONALD KIANDEE|UMNO|13174
-1406|2013|P183|RAIMON BIN LANJAT|STAR|1460
-1407|2013|P183|JAMES BIN MIKI|PKR|3186
-1408|2013|P183|DATU KAMARUDDIN BIN DATU MUSTAPHA|IND|542
-1409|2013|P184|DATUK JUSLIE BIN AJIROL|UMNO|19584
-1410|2013|P184|SAHAR BIN SAKA|IND|3219
-1411|2013|P184|MOHD SERMAN BIN HASSNAR|PKR|7998
-1412|2013|P184|ROSNAH BINTI UNSARI|STAR|502
-1413|2013|P185|TSEN THAU LIN|PBS|13085
-1414|2013|P185|SAIFUL BAHARI RASHADA BIN AHMAD|STAR|410
-1415|2013|P185|HAMZA BIN A. ABDULLAH @ HAMZAH|PAS|9287
-1416|2013|P186|LIEW VUI KEONG|LDP|13138
-1417|2013|P186|WONG TIEN FATT @ WONG NYUK FOH|DAP|14226
-1418|2013|P187|ABDULLAH BIN ABDUL SANI|PKR|3646
-1419|2013|P187|DATUK MOKTAR BIN RADIN|UMNO|13377
-1420|2013|P187|HAJI ALI LATIP BIN HAJI TAHA|IND|1130
-1421|2013|P187|YAMBUYA BIN PARANTIS @ CYRIL PONGOD|STAR|1153
-1422|2013|P188|DUMI BIN PG. MASDAL|IND|4959
-1423|2013|P188|BADRULAMIN BIN BAHRON|PKR|9671
-1424|2013|P188|DATU NASRUN BIN DATU MANSUR|UMNO|23058
-1425|2013|P188|APAS @ NAWAWIE BIN SAKING|STAR|841
-1426|2013|P189|DATUK SERI MOHD SHAFIE BIN APDAL|UMNO|25559
-1427|2013|P189|ZAMREE @ MOHD SUFFIAN B ABDUL HABI|PKR|4654
-1428|2013|P189|DATU BADARUDDIN BIN TUN DATU HJ MUSTAPHA|IND|325
-1429|2013|P190|YAP KAIN CHING @ MARY YAP KEN JIN|PBS|21331
-1430|2013|P190|KONG HONG MING @ KONG FO MIN|PKR|16352
-1431|2013|P190|CHUA SOON BUI|SAPP|633
-1432|2013|P190|AHMAD BIN AWANG @ MADON|IND|553
-1433|2013|P191|YAHYA BIN ZAINAL|IND|132
-1434|2013|P191|MALVINE REYES|STAR|603
-1435|2013|P191|SIAMSIR BIN BORHAN|IND|891
-1436|2013|P191|FREDDIE JAPAT ANAK SIMBOL|IND|137
-1437|2013|P191|MOHD BIN MANUKE|IND|1313
-1438|2013|P191|ABDUL GHAPUR BIN SALLEH|UMNO|23125
-1439|2013|P191|USMAN BIN MADEAMING|PAS|8904
-1440|2013|P192|NOGEH ANAK GUMBEK|SPDP|8265
-1441|2013|P192|PATRICK ANEK UREN|STAR|462
-1442|2013|P192|MORDI ANAK BIMOL|DAP|5293
-1443|2013|P192|TEKHEE @ TIKI ANAK LAFE|IND|6109
-1444|2013|P193|WAN JUNAIDI BIN TUANKU JAAFAR|PBB|24655
-1445|2013|P193|AFFENDI BIN JEMAN|IND|233
-1446|2013|P193|ZULRUSDI BIN MOHAMAD HOL|PKR|3719
-1447|2013|P193|MURA BIN KADIR|STAR|206
-1448|2013|P194|AHMAD NAZIB BIN JOHARI|PKR|8116
-1449|2013|P194|FADILLAH BIN YUSOF|PBB|29559
-1450|2013|P195|TAN KAI|SUPP|10491
-1451|2013|P195|CHONG CHIENG JEN|DAP|30133
-1452|2013|P196|YONG KHOON HIAN @ YONG KHOON SENG|SUPP|22993
-1453|2013|P196|JULIAN TAN KOK PING|DAP|41663
-1454|2013|P196|SOO LINA|STAR|239
-1455|2013|P197|RUBIAH BINTI WANG|PBB|24202
-1456|2013|P197|ABANG AHMAD KERDEE BIN ABANG MASAGUS|PAS|6801
-1457|2013|P198|WILLIE ANAK MONGIN|PKR|10740
-1458|2013|P198|DRIPIN ANAK SAKOI|STAR|704
-1459|2013|P198|JAMES DAWOS MAMIT|PBB|20461
-1460|2013|P199|EDWARD ANAK ANDREW LUWAK|DAP|6343
-1461|2013|P199|JOHNNY ANAK APUT|STAR|390
-1462|2013|P199|RICHARD RIOT ANAK JAEM|SUPP|19494
-1463|2013|P200|MOHAMAD BIN JOLHI|PAS|2017
-1464|2013|P200|NANCY BINTI SHUKRI|PBB|13277
-1465|2013|P201|ABANG ZULKIFLI BIN ABANG ENGKEH|PKR|4661
-1466|2013|P201|ROHANI BINTI ABDUL KARIM|PBB|15625
-1467|2013|P202|NICHOLAS MUJAH ANAK ASON|PKR|5618
-1468|2013|P202|MASIR ANAK KUJAT|PRS|12168
-1469|2013|P202|WILFRED STEPHEN|SWP|476
-1470|2013|P202|DONALD LAWAN|IND|3867
-1471|2013|P203|NICHOLAS BAWIN ANAK ANGGAT|PKR|2530
-1472|2013|P203|WILLIAM @ NYALLAU ANAK BADAK|PRS|8278
-1473|2013|P203|LARRY SOON @ LARRY SNG WEI SHIEN|SWP|4187
-1474|2013|P204|DOUGLAS UGGAH EMBAS|PBB|15476
-1475|2013|P204|CECILIA SITI UNA @ SITTIE ENDEK|PKR|4589
-1476|2013|P205|ALI ANAK BIJU|PKR|9519
-1477|2013|P205|ROSLI BIN LEK @ ABG ROSELIE BIN ABG PALENG|IND|681
-1478|2013|P205|WILLIAM IKOM|SPDP|11600
-1479|2013|P206|JURINA BINTI MUT|PAS|1571
-1480|2013|P206|NORAH BINTI ABD RAHMAN|PBB|12535
-1481|2013|P207|WAHAB BIN HAJI DOLAH|PBB|11896
-1482|2013|P207|AJIJI BIN FAUZAN|PAS|1747
-1483|2013|P208|DING KUONG HIING|SUPP|13758
-1484|2013|P208|WONG LING BIU|DAP|14263
-1485|2013|P209|WONG ANAK JUDAT|SWP|3936
-1486|2013|P209|WONG HONG YU|PKR|2852
-1487|2013|P209|JOSEPH SALANG ANAK GANDUM|PRS|9891
-1488|2013|P210|ELLISON LUDAN ANAK MUYAN|SWP|417
-1489|2013|P210|THOMAS LAJA ANAK BESI|PKR|5004
-1490|2013|P210|AGO ANAK DAGANG|PRS|8046
-1491|2013|P211|TIONG THAI KING|SUPP|17983
-1492|2013|P211|ALICE LAU KIONG YIENG|DAP|26613
-1493|2013|P212|LAU LEE MING|SUPP|23967
-1494|2013|P212|OSCAR LING CHAI YEW|DAP|26808
-1495|2013|P212|NARAWI BIN HARON|IND|203
-1496|2013|P213|SYLVESTER AJAH SUBAH @ AJAH BIN SUBAH|IND|2219
-1497|2013|P213|HAI BIN MERAWIN @ BONAVENTURE|DAP|2219
-1498|2013|P213|MUHAMMAD LEO MICHAEL TOYAD ABDULLAH|PBB|14983
-1499|2013|P214|JOSEPH ENTULU ANAK BELAUN|PRS|12040
-1500|2013|P214|SNG CHEE HUA|SWP|4485
-1501|2013|P214|JOSHUA ANAK JABING @ JOSHUA JABENG|PKR|3891
-1502|2013|P215|ALEXANDER NANTA LINGGI|PBB|13446
-1503|2013|P215|RAMLI ANAK MALAKA|DAP|3715
-1504|2013|P216|GEORGE ANAK LAGONG|SWP|2129
-1505|2013|P216|ABUN SUI ANYIT|PKR|3283
-1506|2013|P216|UGAK ANAK KUMBONG|PRS|9117
-1507|2013|P217|TIONG KING SING|SPDP|26458
-1508|2013|P217|JOHN BRIAN ANTHONY ANAK JEREMY GUANG|DAP|19025
-1509|2013|P218|MUHAMMAD ZAID BIN TANDANG|PAS|7282
-1510|2013|P218|AHMAD LAI BIN BUJANG|PBB|13348
-1511|2013|P219|MICHAEL TEO YU KENG|PKR|26909
-1512|2013|P219|SEBASTIAN TING CHIEW YEW|SUPP|24917
-1513|2013|P219|CHONG KON FATT|STAR|306
-1514|2013|P220|ANYI NGAU|SPDP|9182
-1515|2013|P220|PATRICK SIBAT SUJANG|IND|363
-1516|2013|P220|ROLAND ENGAN|PKR|8988
-1517|2013|P221|BARU BIAN|PKR|4698
-1518|2013|P221|HASBI BIN HABIBOLLAH|PBB|12999
-1519|2013|P222|HENRY SUM AGONG|PBB|9928
-1520|2013|P222|BARU LANGUB|DAP|3898
-1521|2013|P222|ALIRAHMAN BIN KAMSEH|STAR|69
-1522|2013|P108|ZULKIFLI BIN NOORDIN|BN|38070
-1523|2013|P113|MOHAMED HANIPA BIN MAIDIN|PAS|36774
-1524|2013|P56|HAMZAH BIN ZAINUDIN|BN|22184
+id,year,parl_code,name,party_code,votes
+1,2004,P1,Datuk Seri Azmi Khalid,UMNO,18322
+2,2004,P1,Wan Kharizal Wan Khazim,PAS,9058
+3,2004,P2,Datuk Radzi Sheikh Ahmad,UMNO,22498
+4,2004,P2,Ishar Saad,PAS,9950
+5,2004,P3,Datuk Seri Syed Razlan Syed Putra Jamalullail,UMNO,17367
+6,2004,P3,Datuk Dr Haron Din,PAS,14124
+7,2004,P4,Datuk Abu Bakar Taib,UMNO,16510
+8,2004,P4,Zubir Ahmad,PAS,5738
+9,2004,P5,Datuk Abdul Rahman Ariffin,UMNO,19123
+10,2004,P5,Idris Ahmad,PAS,16981
+11,2004,P6,Datuk Mohd Johari Baharom,UMNO,26657
+12,2004,P6,Dr Abdul Isa Ismail,PAS,12945
+13,2004,P7,Datuk Ghazali Ibrahim,UMNO,14776
+14,2004,P7,Zawawi Haji Ahmad,PAS,12604
+15,2004,P8,Datuk Abdul Rahman Ibrahim,UMNO,29740
+16,2004,P8,Mahfuz Omar,PAS,22440
+17,2004,P9,Datuk Chor Chee Heung,MCA,28379
+18,2004,P9,Siti Nor Abdul Hamid,PKR,13864
+19,2004,P10,Hashim Jahaya,UMNO,36707
+20,2004,P10,Mohamed Sabu,PAS,26493
+21,2004,P11,MD Rozai Shafian,UMNO,24380
+22,2004,P11,Dr Mohd Hayati Othman,PAS,24430
+23,2004,P12,Datuk Badruddin Amirudin,UMNO,30154
+24,2004,P12,Che bin Arshad,PAS,19749
+25,2004,P13,Datuk Dr Wan Azmi Wan Ariffin,UMNO,15357
+26,2004,P13,Azizan Abdul Razak,PAS,15038
+27,2004,P14,Datuk Zainuddin Maidin,UMNO,29607
+28,2004,P14,Saiful Izham Ramli,PKR,14162
+29,2004,P15,Datuk Mahadzir Mohd Khir,UMNO,36067
+30,2004,P15,Zamri Yusof,PKR,18565
+31,2004,P16,Datuk Dr Mashitah Ibrahim,UMNO,32661
+32,2004,P16,Taib Azamudden Md Taib,PAS,28432
+33,2004,P17,Lim Bee Kau,MCA,26269
+34,2004,P17,Saifuddin Nasution Ismail,PKR,15953
+35,2004,P18,Datuk Paduka Abdul Kadir Sheikh Fadzir,UMNO,22556
+36,2004,P18,Alwi Mohamed Yusop,PKR,14558
+37,2004,P19,Mat Nawawi Mat Jusoh,UMNO,26099
+38,2004,P19,Datuk Kamarudin Jaafar,PAS,27919
+39,2004,P20,Datuk Dr Nik Mohd Zain Omar,UMNO,14399
+40,2004,P20,Datuk Ab Halim Ab Rahman,PAS,20621
+41,2004,P21,Datuk Zaid Ibrahim,UMNO,23831
+42,2004,P21,Nik Mahmood Nik Hassan,PKR,22108
+43,2004,P22,Datuk Abd Rahim Ab Rahman,UMNO,16275
+44,2004,P22,Ismail Noh,PAS,17526
+45,2004,P22,Datuk Ibrahim Ali,Ind,6198
+46,2004,P23,Mohd Daud Hamat,UMNO,14295
+47,2004,P23,Abdul Fatah Haron,PAS,15027
+48,2004,P24,Datuk Ahmad Rusli Iberahim,UMNO,15803
+49,2004,P24,Salahuddin Ayub,PAS,21430
+50,2004,P25,Datuk Dr Awang Adek Hussin,UMNO,25194
+51,2004,P25,Wan Nik Wan Yusof,PAS,21922
+52,2004,P26,Md Alwi Che Ahmad,UMNO,20024
+53,2004,P26,Muamad Mustafa,PKR,17136
+54,2004,P27,Shaari Hassan,UMNO,16107
+55,2004,P27,Saupi Daud,PKR,13580
+56,2004,P28,Che Min Che Ahmad,UMNO,23208
+57,2004,P28,Kalthom Othman,PAS,27018
+58,2004,P29,Sazmi Miah,UMNO,17464
+59,2004,P29,Mohd Yusof Mohd Noor,PAS,17329
+60,2004,P30,Datuk Mustapa Mohamed,UMNO,16960
+61,2004,P30,Mohd Apandi Mohamed,PAS,9607
+62,2004,P31,Mohammad Razali Che Mamat,UMNO,19148
+63,2004,P31,Abdul Rahim Wan Abdullah,PAS,16732
+64,2004,P32,Tengku Razaleigh Hamzah,UMNO,13570
+65,2004,P32,Dr Zulkifli Ahmad,PAS,6972
+66,2004,P33,Prof Datuk Dr. Abdullah Mohd Zin,UMNO,26087
+67,2004,P33,Nasharudin Mat Isa,PAS,17587
+68,2004,P34,Mohd Yusof Majid,UMNO,23079
+69,2004,P34,Che Ghani Che Ambak,PAS,16383
+70,2004,P35,Che Azmi Abd Rahman,UMNO,24895
+71,2004,P35,Mohd Shukrimun Shamsudin,PAS,20798
+72,2004,P36,Razali Ismail,UMNO,30994
+73,2004,P36,Dr Syed Azam Syed Ahmad,PAS,29061
+74,2004,P37,Datuk Abdul Rahman Bakar,UMNO,28076
+75,2004,P37,Datuk Seri Abdul Hadi Awang,PAS,27913
+76,2004,P38,Tengku Putera Tengku Awang,UMNO,23815
+77,2004,P38,Muhyidin Abd Rashid,PAS,16055
+78,2004,P39,Datuk Rosli Mat Hassan,UMNO,26398
+79,2004,P39,Datuk Mustafa Ali,PAS,21502
+80,2004,P40,Ahmad Shabery Chik,UMNO,36517
+81,2004,P40,Abdl Rahman Yusof,PKR,20635
+82,2004,P41,Datuk Seri Abdullah Ahmad Badawi,UMNO,25403
+83,2004,P41,Abdul Rashid Rasid,PAS,7281
+84,2004,P42,Datuk Seri Mohd Shariff Omar,UMNO,22011
+85,2004,P42,Mujahid Yusof Rawa,PAS,11828
+86,2004,P43,Lim Chien Aun,MCA,19473
+87,2004,P43,Lim Hock Seng,DAP,23095
+88,2004,P44,Datuk Pirdaus Ismail,UMNO,21147
+89,2004,P44,Datin Seri Dr Wan Azizah Wan Ismail,PKR,21737
+90,2004,P45,Ma Kok Ben,MCA,17651
+91,2004,P45,Chong Eng,DAP,26215
+92,2004,P46,Huan Cheng Guan,GERAKAN,17097
+93,2004,P46,Law Choo Kian,PKR,8099
+94,2004,P46,Tanasekharan a/l Audherapady,DAP,6552
+95,2004,P47,Datuk Zainal Abidin Osman,UMNO,18823
+96,2004,P47,Goh Kheng Huat,PKR,12818
+97,2004,P48,Chia Kwang Chye,GERAKAN,28281
+98,2004,P48,Zulkifli Mohd Noor,DAP,17564
+99,2004,P49,Ooi Swee Hing,GERAKAN,17424
+100,2004,P49,Chow Kon Yeow,DAP,21652
+101,2004,P50,Lee Kah Choon,GERAKAN,24988
+102,2004,P50,Gooi Seong Kin,DAP,17518
+103,2004,P51,Lim Boo Chang,MCA,21268
+104,2004,P51,Karpal Singh,DAP,22529
+105,2004,P52,Wong Kam Hoong,MCA,29430
+106,2004,P52,Ong Peng Cheow,PKR,10579
+107,2004,P53,Datuk Dr Hilmi Yahaya,UMNO,21114
+108,2004,P53,Dr Rohana Ariffin,PKR,8177
+109,2004,P54,Datuk Dr Wan Hashim Wan Teh,UMNO,12293
+110,2004,P54,Ramli Tusin,PAS,4213
+111,2004,P55,Datil Khamsiyah Yeop,UMNO,10924
+112,2004,P55,Zulkifli Abu,PAS,5292
+113,2004,P56,Datuk Raja Ahmad Zainuddin Raja Omar,UMNO,18421
+114,2004,P56,Kamaruddin Awang Basir,PAS,10983
+115,2004,P57,Brig (G) Datuk Abd Hamid Ngah @ Zainal Abidin,UMNO,19317
+116,2004,P57,Datuk Dr Hasan Mohd Ali,PAS,14619
+117,2004,P58,Datuk Zainal Abidin Zin,UMNO,19827
+118,2004,P58,Ahmad Awang,PAS,14213
+119,2004,P59,Tan Lian Hoe,GERAKAN,16846
+120,2004,P59,Dr Lo Lo Mohamed Ghazli,PAS,10144
+121,2004,P60,Datuk M Kayveas,PPP,20129
+122,2004,P60,Ong Chee Keng,DAP,17957
+123,2004,P60,P Annah Dorai,PKR,4371
+124,2004,P61,Datuk Seri Mohamed Nazri Abd Aziz,UMNO,9214
+125,2004,P61,Mohd Zolkafli Yahaya,PKR,4442
+126,2004,P62,Datuk Seri Samy Vellu,MIC,18797
+127,2004,P62,Dr Michael Jeyakumar Devaraj,PKR,8562
+128,2004,P62,Samugam Ponmugam Ponnan,DAP,2864
+129,2004,P63,Datuk Ahmad Husni Hanadzlah,UMNO,31824
+130,2004,P63,Dr Khairuddin Datuk Abdul Malek,PAS,14464
+131,2004,P64,Thong Fah Chong,MCA,19077
+132,2004,P64,Lim Kit Siang,DAP,28851
+133,2004,P65,Datuk Ir Ho Cheong Sing,MCA,22337
+134,2004,P65,M Kulasegaran,DAP,22935
+135,2004,P66,Datuk Ong Ka Chuan,MCA,20735
+136,2004,P66,Fong Po Kuan,DAP,28662
+137,2004,P67,Datuk Seri Rafidah Aziz,UMNO,11305
+138,2004,P67,Mohammad Nizak Jamaluddin,PAS,5748
+139,2004,P68,Datuk Seri Lim Keng Yaik,GERAKAN,15867
+140,2004,P68,Nga Hock Cheh,DAP,11303
+141,2004,P69,Nasaruddin Hashim,UMNO,12808
+142,2004,P69,Muhammad Ismi Mat Taib,PAS,8112
+143,2004,P70,Tan Sri Hew See Yong,MCA,23129
+144,2004,P70,Liew Ah Kim,DAP,13655
+145,2004,P71,Tan Sri Dr Ting Chew Peh,MCA,29660
+146,2004,P71,Dr Lee Boon Chye,PKR,15400
+147,2004,P72,Datuk S Veerasingam,MIC,16945
+148,2004,P72,Dr Mohd Radzi Othman,PAS,7359
+149,2004,P73,Tan Sri Ramli Ngah Talib,UMNO,19422
+150,2004,P73,Muhaimin Sulam,PAS,10875
+151,2004,P74,Kong Cho Ha,MCA,27415
+152,2004,P74,Mustafa Kamil Ayub,PKR,15801
+153,2004,P75,Datuk Ahmad Zahid Hamidi,UMNO,17049
+154,2004,P75,A Ayadhurai,PKR,4510
+155,2004,P76,Mah Siew Keong,GERAKAN,18665
+156,2004,P76,Wu Him Ven,DAP,8829
+157,2004,P76,N Gobalakrishnan,PKR,6128
+158,2004,P77,Datuk Loke Yuen Yow,MCA,24025
+159,2004,P77,Shamsuddin Abdul Rahman,PKR,9489
+160,2004,P78,Devamany A/L Krishnasamy,MIC,10226
+161,2004,P78,Apalasamy A/L Jataliah,DAP,3966
+162,2004,P79,Mohamad Shahrum Osman,UMNO,13870
+163,2004,P79,Mohd Zai Mustafa,PAS,6246
+164,2004,P80,Datuk Dr Ng Yen Yen,MCA,20472
+165,2004,P80,Choong Siew Oon,DAP,10650
+166,2004,P81,Datuk Seri Tengku Azlan Sultan Abu Bakar,UMNO,21349
+167,2004,P81,Dr Hamzah Jaafar,PAS,12892
+168,2004,P82,Datuk Wan Adnan Wan Mamat,UMNO,25177
+169,2004,P82,Dzulkifli Ismail,PKR,10948
+170,2004,P83,Datuk Fu Ah Kiow,MCA,21324
+171,2004,P83,Fuziah Salleh,PKR,12177
+172,2004,P84,Datuk Seri Dr Siti Zaharah Sulaiman,UMNO,20474
+173,2004,P84,Saari Sungib,PKR,7956
+174,2004,P85,Datuk Seri Mohd Najib Tun Abdul Razak,UMNO,31956
+175,2004,P85,Brig Jen (B) Datuk Zakaria Dahlan,PAS,9034
+176,2004,P86,Ismail Abdul Muttalib,UMNO,15725
+177,2004,P86,Datuk Tuan Ibrahim Tuan Man,PAS,8483
+178,2004,P87,Ismail Mohamed Said,UMNO,16021
+179,2004,P87,Musaniff Ab Rahman,PAS,8670
+180,2004,P88,Datuk Mohd Sarit Yusoh,UMNO,24633
+181,2004,P88,Idris Omar,PAS,12026
+182,2004,P89,Liow Tiong Lai,MCA,27144
+183,2004,P89,Abub Bakar Lebai Sudin,DAP,10305
+184,2004,P90,Ismail Sabri Yaakob,UMNO,16714
+185,2004,P90,Dr Abdul Wahab Ismail,PAS,12244
+186,2004,P91,Datuk Dr Jamaluddin Mohd Jarjis,UMNO,19359
+187,2004,P91,Sukri Ahmad,PAS,10009
+188,2004,P92,Datuk Mat Yasir Ikhsan,UMNO,13826
+189,2004,P92,Badrul Amin Bahron,PKR,8478
+190,2004,P93,Noriah Kasnon,UMNO,15337
+191,2004,P93,Sallehen Mukhyi,PAS,7988
+192,2004,P94,Datuk G Palanivel,MIC,27807
+193,2004,P94,Datuk Ismail Kamus,PAS,13324
+194,2004,P95,Datuk Noh Omar,UMNO,17750
+195,2004,P95,Abdul Ghani Samsudin,PAS,8742
+196,2004,P96,Mohd Daud Taripeh,UMNO,22001
+197,2004,P96,Raja Kamaruddin Raja Abdul Wahid,PKR,8339
+198,2004,P97,Datuk Chan Kong Choy,MCA,36343
+199,2004,P97,Koh Swe Yong,PKR,13117
+200,2004,P98,Dr Raman Ismail,UMNO,39870
+201,2004,P98,Dr Mohd Hatta Md Ramli,PAS,26663
+202,2004,P99,Dr Rozaidah Talib,UMNO,33214
+203,2004,P99,Dr A Xavier Jayakumar,PKR,13482
+204,2004,P100,Datuk Ong Tee Keat,MCA,26721
+205,2004,P100,Iskandar Abdul Samad,PAS,12609
+206,2004,P101,Markiman Kobiran,UMNO,40937
+207,2004,P101,Datuk Yeop Adlan Che Rose,PAS,18160
+208,2004,P102,Datuk Yap Pian Hon,MCA,34495
+209,2004,P102,Wong Kok Yew,DAP,23215
+210,2004,P103,Lau Yeng Peng,GERAKAN,21291
+211,2004,P103,Dr Azmi Jamion @ Jemingon,PAS,9409
+212,2004,P103,Wong Choong Yun,DAP,9185
+213,2004,P104,Loh Seng Kok,MCA,35846
+214,2004,P104,Syed Shahir Syed Mohamed,PKR,14275
+215,2004,P105,Datuk Donald Lim Siang Chai,MCA,35054
+216,2004,P105,R Sivarasa,PKR,13638
+217,2004,P106,Chew Mei Fun,MCA,32422
+218,2004,P106,Ronnie Liu Tian Khiew,DAP,19379
+219,2004,P107,Tan Sri KS Nijhar,MIC,32941
+220,2004,P107,Mohd Nasir Hashim,PKR,17481
+221,2004,P108,Datuk Abdul Aziz Shamsuddin,UMNO,32417
+222,2004,P108,Khalid Abdul Samad,PAS,19007
+223,2004,P109,P Komaladevi,MIC,44007
+224,2004,P109,Ang Hiok Gai,PKR,29419
+225,2004,P110,Datin Paduka Dr Tan Yee Kew,MCA,32138
+226,2004,P110,Dr Wong Ang Peng,DAP,18857
+227,2004,P111,S Vigneswaran,MIC,24376
+228,2004,P111,Dr Mariah Mahmud,PAS,16137
+229,2004,P111,T Krisnasami,Ind,3608
+230,2004,P112,Datuk Dr Shafie Mohd Salleh,UMNO,34118
+231,2004,P112,Zulkifli Noordin,PKR,12623
+232,2004,P113,Datuk Mohd Zin Mohamed,UMNO,30755
+233,2004,P113,Mohamed Makki Ahmad,PAS,11918
+234,2004,P114,Ma Woei Chyi,GERAKAN,21428
+235,2004,P114,Dr Tan Seng Giaw,DAP,23282
+236,2004,P115,Ng Lip Yong @ Ng Lip Sat,GERAKAN,28718
+237,2004,P115,Chua Tian Chang,PKR,17201
+238,2004,P116,Yew Teong Look,MCA,23135
+239,2004,P116,Sahri Bahari,PKR,12950
+240,2004,P117,Dr Tan Kee Kwong,GERAKAN,28061
+241,2004,P117,Kuan Perk Siong,DAP,11093
+242,2004,P118,Datuk Zulhasnan Rafique,UMNO,27757
+243,2004,P118,Mejar (B) Abdul Rashid Hassan Basri,PAS,8088
+244,2004,P119,Datuk Astaman Abdul Aziz,UMNO,22910
+245,2004,P119,Mohamad Noor Mohamad,PAS,11095
+246,2004,P120,Tan Chew Mooi,MCA,18799
+247,2004,P120,Fong Kui Lun,DAP,19103
+248,2004,P120,Wee Choo Keong,MDP,1107
+249,2004,P120,Billi Lim Peng Soon,Ind,132
+250,2004,P121,Datuk Seri Shahrizat Abdul Jalil,UMNO,26474
+251,2004,P121,Sanusi Osman,PKR,11186
+252,2004,P122,Chin Yen Foo,MCA,20302
+253,2004,P122,Teresa Kok Suh Sim,DAP,33197
+254,2004,P123,Lee Boon Kok,MCA,17195
+255,2004,P123,Tan Kok Wai,DAP,29056
+256,2004,P124,Datuk Tan Chai Ho,MCA,33223
+257,2004,P124,Dr Rosli Ibrahim,PKR,15696
+258,2004,P125,Datuk Tengku Adnan Tengku Mansor,UMNO,4086
+259,2004,P125,Abdul Rahman Othman,PKR,540
+260,2004,P126,Datuk Seri Dr Rais Yatim,UMNO,20650
+261,2004,P126,Dr Rosli Yaakop,PAS,5870
+262,2004,P127,Tan Sri Mohamed Isa Abdul Samad,UMNO,26360
+263,2004,P127,Mohamad Fozi Mohd Zin,PAS,9280
+264,2004,P128,Datuk Hon Choon Kim,MCA,36542
+265,2004,P128,Choong Yen Loong,DAP,20306
+266,2004,P129,Datuk Hasan Malek,UMNO,22105
+267,2004,P129,Annuar Mohd Saleh,PKR,8763
+268,2004,P130,Datuk Goh Siow Huat,MCA,25009
+269,2004,P130,Chan Su Sann,DAP,20446
+270,2004,P131,Datuk Firdaus Muhammad Rom Harun,UMNO,28664
+271,2004,P131,Dr Dzulkefli Ahmad,PAS,10008
+272,2004,P132,S Sothinathan,MIC,28494
+273,2004,P132,Ab Manap Sahardin,PKR,10717
+274,2004,P133,Datuk Shaziman Abu Mansor,UMNO,23936
+275,2004,P133,Abdul Razakek Abdul Rahim,PAS,5852
+276,2004,P134,Datuk Wira Abu Seman Yusop,UMNO,24188
+277,2004,P134,Muhamad Burok,PAS,5789
+278,2004,P135,Datuk Dr Fong Chan Onn,MCA,29920
+279,2004,P135,Goh Leong San,DAP,7372
+280,2004,P136,Idris Haron,UMNO,33039
+281,2004,P136,Shamsul Iskandar Mohd Akin,PKR,8595
+282,2004,P137,Datuk Dr Mohd Ruddin Abdul Ghani,UMNO,39491
+283,2004,P137,Khalid Jaafar,PKR,12239
+284,2004,P138,Wong Nai Chee,MCA,31217
+285,2004,P138,Kerk Kim Hock,DAP,30998
+286,2004,P139,Mohd Said Yusof,UMNO,31198
+287,2004,P139,Jasme Tompang,PAS,9864
+288,2004,P140,Dr S Subramaniam,MIC,17953
+289,2004,P140,Pang Hok Liong,DAP,10144
+290,2004,P141,Baharum Mohamed,UMNO,19628
+291,2004,P141,Zulkapli bin Salleh,PKR,4786
+292,2004,P142,Datuk Dr Chua Soi Lek @ Chua Kin Seng,MCA,16469
+293,2004,P142,Tee Gey Yan,DAP,5740
+294,2004,P143,Tan Sri Muhyiddin Mohd Yassin,UMNO,23679
+295,2004,P143,Mohamed Anang,PAS,4932
+296,2004,P144,Hamim Samuri,UMNO,30967
+297,2004,P144,Kasim Ibrahim,PAS,9296
+298,2004,P145,Datuk Chua Jui Meng,MCA,29320
+299,2004,P145,Azhari Ismail,DAP,10261
+300,2004,P146,Razali Ibrahim,UMNO,21116
+301,2004,P146,Mohamad Taib,PAS,7701
+302,2004,P147,Syed Hood Syed Edros,UMNO,26974
+303,2004,P147,Suhaizan Kaiat,PAS,9788
+304,2004,P148,Dr Wee Ka Siong,MCA,20065
+305,2004,P148,Mohd Zamri Mat Taksis,PAS,4302
+306,2004,P149,Datuk Mohamad Aziz,UMNO,21512
+307,2004,P149,Dr Ahmad Faidi Saidi,PKR,5316
+308,2004,P150,Dr Junaidy And Wahab,UMNO,38982
+309,2004,P150,Mohamed Hanipa Maidin,PAS,9880
+310,2004,P151,Datuk Seri Kerk Choo Ting,GERAKAN,18997
+311,2004,P151,Atan Gombang,PAS,4842
+312,2004,P152,Hoo Seong Chang,MCA,33001
+313,2004,P152,Ng Lam Hua,DAP,14303
+314,2004,P153,Datuk Hishamuddin Tun Hussein,UMNO,19575
+315,2004,P153,Onn Jaafar,PAS,2597
+316,2004,P154,Datuk Abdul Latiff Ahmad,UMNO,19222
+317,2004,P154,Idris Tukachil,PAS,4649
+318,2004,P155,Datuk Dr Adham Baba,UMNO,19706
+319,2004,P155,Salleh Farmin,PAS,2618
+320,2004,P156,Datuk Syed Hamid Albar,UMNO,1
+321,2004,P156,Uncontested,,0
+322,2004,P157,Datuk Azalina Othman Said,UMNO,1
+323,2004,P157,Uncontested,,0
+324,2004,P158,Ling Ban San @ Teng Boon Soon,MCA,32071
+325,2004,P158,Yaakob Mohd Yusof,PAS,6060
+326,2004,P159,Datuk Mohamed Khaled Nordin,UMNO,38123
+327,2004,P159,A Razak Ahmad,PKR,7002
+328,2004,P160,Datuk Shahrir Abdul Samad,UMNO,54073
+329,2004,P160,Atan Ahmad,PAS,7281
+330,2004,P161,Datuk Nur Jazlan Tan Sri Mohamad,UMNO,42406
+331,2004,P161,Nasir Wahab,PAS,7480
+332,2004,P162,Tan Ah Eng,MCA,41001
+333,2004,P162,Song Sing Kwee,PKR,9335
+334,2004,P163,Lim Si Cheng,MCA,32278
+335,2004,P163,Ong Kow Meng,DAP,14134
+336,2004,P164,Hasni Mohamad,UMNO,26667
+337,2004,P164,Hassan Abdul Karim,PKR,5509
+338,2004,P165,Datuk Seri Ong Ka Ting,MCA,28046
+339,2004,P165,Tan Hang Meng,DAP,4431
+340,2004,P166,Datuk Suhaili Abdul Rahman,UMNO,11087
+341,2004,P166,Matusin Abdul Rahman,PAS,3186
+342,2004,P167,Datuk Abdul Rahim Bakri,UMNO,13236
+343,2004,P167,Orong Sahap,IND,6488
+344,2004,P167,Datu Abdul Razak Abdul Salam,IND,2375
+345,2004,P168,Datuk Dr Maximus Ongkili,PBS,10457
+346,2004,P168,Anthony Mandiau,IND,7268
+347,2004,P169,Datuk Salleh Tun Said,UMNO,19185
+348,2004,P169,James Bagah,IND,8956
+349,2004,P169,Jainin Giau,SETIA,1586
+350,2004,P170,Wilfred Madius Tangau,UPKO,17722
+351,2004,P170,Umsery @ Ansari Abdullah,PKR,8555
+352,2004,P171,Eric Enchin Majimbun,SAPP,16426
+353,2004,P171,Datin Saidatul Badru Tun Said,PKR,5201
+354,2004,P172,Dr Yee Moh Chai,PBS,15650
+355,2004,P172,Hiew King Cheu,DAP,5179
+356,2004,P172,Christina Liew,PKR,3497
+357,2004,P173,Datuk Dr Marcus Mojigoh,UPKO,13816
+358,2004,P173,Awang Ahmad Sah,PKR,5984
+359,2004,P174,Donald Peter Mojuntin,UPKO,16032
+360,2004,P174,Jomilon Mojountin @ Conrad Mojountin,DAP,3325
+361,2004,P174,Joseph Sulaiman,IND,960
+362,2004,P174,Blaise Mosidin@Frederick Francis,PKR,927
+363,2004,P175,Rosnah Abdul Abdul Rashid Shirlin,UMNO,1
+364,2004,P176,Datuk Anifah Aman,UMNO,9655
+365,2004,P176,Awang Tengah Awang Amin,PKR,4547
+366,2004,P177,Azizah Mohd Dun,UMNO,1
+367,2004,P178,Datuk Dr Yusof Yacob,UMNO,1
+368,2004,P179,Tan Sri Bernard Dompok,UPKO,7547
+369,2004,P179,Ruhimin Adzim,IND,1609
+370,2004,P179,Karim Adam,IND,1609
+371,2004,P179,Japiril Suhaimin,IND,1609
+372,2004,P180,Datuk Joseph Pairin Kitingan,PBS,1
+373,2004,P180,Janti@Joseph,IND,0
+374,2004,P181,Raimi Unggi,UMNO,8032
+375,2004,P181,Datuk Laimun Laikin,IND,5628
+376,2004,P182,Bernard S.Maraat,PBRS,5880
+377,2004,P182,Matin Tomy@Tommy,IND,5272
+378,2004,P182,Razali Suffian Koroh,SETIA,557
+379,2004,P183,Ronald Kiandee,UMNO,1
+380,2004,P184,Juslie Ajirol,UMNO,13140
+381,2004,P184,Rajmunni Sabu,PKR,2471
+382,2004,P185,Edmund Chong Ket Wah,PBS,1
+383,2004,P185,Pg Roslan Pg Nasrun,PKR,0
+384,2004,P186,Lau Ngan Siew,LDP,8208
+385,2004,P186,Chong Hon Min,IND,9538
+386,2004,P186,Liew Teck Khen @ Liaw Tech King,PASOK,543
+387,2004,P187,Bung Mokthar Radin,UMNO,1
+388,2004,P188,Samsu Baharom Abdul Rahman,UMNO,16613
+389,2004,P188,Shamsuri Baharuddin,PKR,5865
+390,2004,P189,Datuk Shafie Apdal,UMNO,13970
+391,2004,P189,Noraida Abdul Salleh,IND,1162
+392,2004,P189,Mohd Abdul Wahab Pg Abdullah,PKR,676
+393,2004,P189,Aldari Landi,IND,0
+394,2004,P190,Shim Paw Fatt,SAPP,1
+395,2004,P191,Abdul Ghapur Salleh,UMNO,1
+396,2004,P192,Tekhee@Tiki ak Lafe,SPDP,10579
+397,2004,P192,Dr Patau Rubis,SNAP,7867
+398,2004,P193,Datuk Wan Junaidi Tuanku Jaafar,PBB,12590
+399,2004,P193,Idris bin Bohari,IND,2030
+400,2004,P194,Fadillah Yusof,PBB,18236
+401,2004,P194,Wan Zainal Abidin Wan Senusi,PKR,5420
+402,2004,P195,Chong Chieng Jen,DAP,17914
+403,2004,P195,Wee Kok Tiong,SUPP,15873
+404,2004,P196,Datuk Yong Khoon Seng,SUPP,21155
+405,2004,P196,Voon Lee Shan,DAP,13424
+406,2004,P197,Abdul Taib Mahmud,PBB,1
+407,2004,P198,Dr James Dawos Mamit,PBB,15368
+408,2004,P198,Mangan Ngandok,STAR,6270
+409,2004,P199,Richard Riot Jaem,SUPP,13960
+410,2004,P199,Henry Genailanggie,IND,4265
+411,2004,P200,Datuk Seri Adenan Satem,PBB,10767
+412,2004,P200,Adam Ahid,PAS,1035
+413,2004,P201,Datuk Rohanie Abdul Karim (walkover),PBB,1
+414,2004,P202,Jimmy Donald,PBDS,9679
+415,2004,P202,Cobbold Lusoi,IND,5311
+416,2004,P203,Jawah anak Gerang,PBDS,6962
+417,2004,P203,William Nyallau Badak,IND,4927
+418,2004,P204,Datuk Douglas Uggah Embas,PBB,11618
+419,2004,P204,Abang Zulkifli Abang Engkeh,SNAP,1895
+420,2004,P205,Jelaing Mersat,SPDP,11995
+421,2004,P205,Edmond Stanley Jugol,SNAP,4450
+422,2004,P206,Datuk Wahab Dolah (walkover),PBB,0
+423,2004,P208,Datuk Seri Law Hieng Ding,SUPP,15485
+424,2004,P208,Juna anak Jawek,IND,3886
+425,2004,P208,Ling Bit Tiing,IND,1667
+426,2004,P208,Ngu Tieng Hai,IND,864
+427,2004,P209,Datuk Joseph Salang Gandum,PBDS,8388
+428,2004,P209,Josephine Randum Mawat,IND,5700
+429,2004,P210,Aaron Ago Dagang,PBDS,6438
+430,2004,P210,Frederick Bungsu Janton,IND,4381
+431,2004,P211,Tiong Thai King,SUPP,14895
+432,2004,P211,David Wong Kee Woan,DAP,10174
+433,2004,P212,Datuk Robert Lau Hoi Chew,SUPP,20689
+434,2004,P212,Wong Ho Leng,DAP,17344
+435,2004,P213,Datuk Dr. Leo Michael Toyad,PBB,11829
+436,2004,P213,Mohamad @ Latip Rahman,IND,2651
+437,2004,P214,Joseph Entulu Belaun,PBDS,7876
+438,2004,P214,Liman Sujang,SNAP,4260
+439,2004,P215,Alexander Nanta Linggi,PBB,1
+440,2004,P216,Abit Joo @ Billy Abit Joo,PBDS,6949
+441,2004,P216,Bendindang Manjah,SNAP,3283
+442,2004,P217,Datuk Seri Tiong King Sing,SPDP,20225
+443,2004,P217,Chiew Chiu Sing,DAP,8958
+444,2004,P217,Dr Lau Hing Kii,SNAP,2583
+445,2004,P219,Peter Chin Fah Kui,SUPP,1
+446,2004,P220,Datuk Jacob Dungau Sagan,SPDP,7551
+447,2004,P220,Kabing Wan,SNAP,4241
+448,2008,P1,Datuk Seri Mohd. Azmi Khalid,UMNO,16991
+449,2008,P1,Zolkharnain Abidin,PAS,11643
+450,2008,P2,Datuk Seri Radzi Sheikh Ahmad,UMNO,23821
+451,2008,P2,Tunku Abdul Rahman Tunku Ismail,PKR,10150
+452,2008,P3,Datuk Ismail Kassim,UMNO,16451
+453,2008,P3,Datuk Dr.Haron Din,PAS,16151
+454,2008,P4,Dato Paduka Abu Bakar Taib,UMNO,13762
+455,2008,P4,Wan Salleh Wan Isa,PKR,8792
+456,2008,P5,Dato Mukhriz Mahathir,UMNO,19424
+457,2008,P5,Idris Ahmad,PAS,17219
+458,2008,P6,Datuk Mohd Johari Baharum,UMNO,24179
+459,2008,P6,Dr Isa Ismail,PAS,17119
+460,2008,P7,Datuk Paduka Ghazali Ibrahim,UMNO,14634
+461,2008,P7,Mohd Nasir Zakaria,PAS,15003
+462,2008,P8,Datuk Paduka Abdul Rahman Ibrahim,UMNO,23956
+463,2008,P8,Mahfuz Omar,PAS,29687
+464,2008,P9,Datuk Chor Chee Heung,MCA,20741
+465,2008,P9,Gooi Hsiao Leung,PKR,20557
+466,2008,P10,Datuk Hashim Jahaya,UMNO,28671
+467,2008,P10,Ahmad Kassim,PKR,35689
+468,2008,P11,Datuk Paduka Md Rozai Shafian,UMNO,23238
+469,2008,P11,Dr Mohd Hayati Othman,PAS,27311
+470,2008,P12,Datuk Paduka Badruddin Amiruldin,UMNO,24211
+471,2008,P12,Mohd Firdaus Ja'afar,PAS,26510
+472,2008,P13,Othman Desa,UMNO,16383
+473,2008,P13,Che Uda Che Nik,PAS,16864
+474,2008,P14,Tajul Urus Mat Zain,UMNO,22443
+475,2008,P14,Datuk Rashid Din,PKR,25541
+476,2008,P15,Datuk Zainuddin Maidin,UMNO,24441
+477,2008,P15,Johari Abdul,PKR,33822
+478,2008,P16,Datuk Abd Azeez Abd Rahim,UMNO,28461
+479,2008,P16,Taib Azamudden Md Taib,PAS,36074
+480,2008,P17,Datuk Boey Chin Gan,MCA,17036
+481,2008,P17,N. Gobalakrishnan,PKR,28774
+482,2008,P18,Datuk Abdul Aziz Sheikh Fadzir,UMNO,16672
+483,2008,P18,Zulkifli Noordin,PKR,22255
+484,2008,P19,Dr Asraf Wajdi Dusuki,UMNO,27337
+485,2008,P19,Datuk Kamaruddin Jaafar,PAS,36714
+486,2008,P20,Rahim Mohd Zain,UMNO,15452
+487,2008,P20,Datuk Abd Halim Abd Rahman,PAS,26763
+488,2008,P21,Datuk Mohd Fatmi Che Salleh,UMNO,20841
+489,2008,P21,Datuk Wan Abdul Rahim Wan Abdullah,PAS,32129
+490,2008,P22,Ahmed Rasdi Mahmed,UMNO,19682
+491,2008,P22,Datuk Ibrahim Ali,PAS,28673
+492,2008,P23,Mohd Afandi Yusoff,UMNO,14858
+493,2008,P23,Siti Zailah Mohd Yusoff,PAS,19344
+494,2008,P23,Isma Airfath Hassanuddin,IND,330
+495,2008,P24,Ab Ghani Mamat,UMNO,16537
+496,2008,P24,Salahuddin Ayub,PAS,27179
+497,2008,P25,Dr Awang Adek Hussin,UMNO,25934
+498,2008,P25,Nasharudin Mat Isa,PAS,28835
+499,2008,P26,Datuk Seri Annuar Musa,UMNO,21338
+500,2008,P26,Abdul Aziz Kadir,PKR,21738
+501,2008,P27,Datuk Shaari Hasan,UMNO,15970
+502,2008,P27,Amran Ab Ghani,PKR,17554
+503,2008,P27,Asmadi Abu Bakar,IND,1439
+504,2008,P28,Amran Mat Nor,UMNO,24397
+505,2008,P28,Muhammad Husain,PAS,28365
+506,2008,P29,Sazmi Miah,UMNO,19581
+507,2008,P29,Saifuddin Nasution Ismail,PKR,21041
+508,2008,P30,Datuk Mustapa Mohamed,UMNO,17168
+509,2008,P30,Mohd Apandi Mohamad,PAS,12732
+510,2008,P31,Prof Datuk Dr Che Musa Che Omar,UMNO,18578
+511,2008,P31,Mohd Hatta Md Ramli,PAS,23562
+512,2008,P32,Tan Sri Tengku Razaleigh Hamzah,UMNO,14063
+513,2008,P32,Zulkefli Muhamed,PAS,9669
+514,2008,P33,Datuk Dr Abdullah Mohd Zin,UMNO,29376
+515,2008,P33,Datuk Husain Awang,PAS,18786
+516,2008,P34,Mohd Jidin Shafee,UMNO,26610
+517,2008,P34,Mohd Pauzi Muda,PAS,19378
+518,2008,P35,Mohamed Nasir Ibrahim Fikri,UMNO,26439
+519,2008,P35,Mohd Shukrimun Shamsuddin,PAS,25098
+520,2008,P36,Datuk Razali Ismail,UMNO,32562
+521,2008,P36,Mohamad Sabu,PAS,31934
+522,2008,P36,Maimun Yusuf,IND,685
+523,2008,P37,Datuk Dr. Ahmad Ramzi Mohamad Zubir,UMNO,30688
+524,2008,P37,Datuk Seri Abdul Hadi Awang,PAS,33435
+525,2008,P38,Mohd. Nor Othman,UMNO,27784
+526,2008,P38,Kamaruzaman Abdullah,PAS,17324
+527,2008,P39,Matulidi Jusoh,UMNO,29264
+528,2008,P39,Shamsul Iskandar @ Yusre Mohd Akin,PKR,24270
+529,2008,P40,Ahmad Shaberry Cheek,UMNO,37199
+530,2008,P40,Mohd Fariz Abd Talib @ Musa,PKR,24516
+531,2008,P41,Datuk Seri Abdullah Ahmad Badawi,UMNO,23445
+532,2008,P41,Subri Arshad,PAS,12199
+533,2008,P42,Tan Sri Nor Mohamed Yakcop,UMNO,20448
+534,2008,P42,Ismail Salleh,PAS,15901
+535,2008,P43,Song Choy Leng,MCA,11678
+536,2008,P43,Lim Guan Eng,DAP,33748
+537,2008,P44,Datuk Pirdaus Ismail,UMNO,16950
+538,2008,P44,Wan Azizah Wan Ismail,PKR,30348
+539,2008,P45,Ong Tang Chuan,MCA,22050
+540,2008,P45,Chong Eng,DAP,37882
+541,2008,P46,Tan Sri Dr. Koh Tsu Koon,GERAKAN,13582
+542,2008,P46,Dr P Ramasamy,DAP,23067
+543,2008,P47,Datuk Zainal Abidin Osman,UMNO,17123
+544,2008,P47,Tan Tee Beng,PKR,20210
+545,2008,P48,Datuk Seri Chia Kwang Chye,GERAKAN,15131
+546,2008,P48,Liew Chin Tong,DAP,31243
+547,2008,P49,Khaw Veon Szu,GERAKAN,9759
+548,2008,P49,Chow Kon Yeow,DAP,28248
+549,2008,P50,Dr Thor Teong Gee,GERAKAN,14247
+550,2008,P50,Jeff Ooi,DAP,30493
+551,2008,P50,Badrul Zaman P.S. Md Zakariah,IND,882
+552,2008,P51,Koay Har Huah,MCA,14125
+553,2008,P51,Karpal Singh,DAP,35140
+554,2008,P52,Ooi Swee Kim,MCA,16589
+555,2008,P52,Zahrain Mohamed Hashim,PKR,27618
+556,2008,P53,Datuk Dr Norraessah Mohamad,UMNO,15041
+557,2008,P53,Mohd Yusmadi Mohd Yusoff,PKR,15749
+558,2008,P54,Datuk Tan Lian Hoe,GERAKAN,12526
+559,2008,P54,Mohd. Noor Abdul Rahman,PAS,6953
+560,2008,P55,Datuk Samsul Anuar Nasarah,UMNO,10992
+561,2008,P55,Muhamad Zulkifli Mohamad Zakaria,PAS,6073
+562,2008,P56,Datuk Hamzah Zainuddin,UMNO,15878
+563,2008,P56,Dr. Mohd. Dhari Othman,PAS,13967
+564,2008,P57,Senator Datuk Abdul Raman Suliman,UMNO,13670
+565,2008,P57,Dr. Mujahid Yusof Rawa,PAS,21221
+566,2008,P58,Datuk Zainal Abidin Zin,UMNO,15530
+567,2008,P58,Mohsin Fadzli Haji Samsuri,PKR,18943
+568,2008,P59,Datuk Azim Zabidi,UMNO,18449
+569,2008,P59,Roslan Shaharum,PAS,20015
+570,2008,P59,M Morgan,IND,872
+571,2008,P60,Datuk M Kayveas,PPP,16800
+572,2008,P60,Nga Kor Ming,DAP,28098
+573,2008,P61,Datuk Seri Mohd. Nazri Aziz,UMNO,9830
+574,2008,P61,Alias Zenon,PKR,8081
+575,2008,P62,Datuk Seri S.Samy Vellu,MIC,14637
+576,2008,P62,Michael Jeyakumar Devaraj,PKR,16458
+577,2008,P62,Nor Rizan Oon,IND,864
+578,2008,P63,Datuk Ahmad Husni Hanadzlah,UMNO,27942
+579,2008,P63,Mohamad Asri Othman,PKR,22556
+580,2008,P64,Liew Mun Hon,MCA,15422
+581,2008,P64,Lim Kit Siang,DAP,37364
+582,2008,P65,Yik Phooi Hong,MCA,17042
+583,2008,P65,M. Kulasegaran a/l V. Murugeson,DAP,32576
+584,2008,P66,Cheah Yoke Can,MCA,15295
+585,2008,P66,Fong Po Kuan,DAP,39922
+586,2008,P67,Datuk Seri Rafidah Aziz,UMNO,10735
+587,2008,P67,Dr. Khairudin Abdul Malik,PAS,9277
+588,2008,P68,Datuk Chang Ko Youn,GERAKAN,14003
+589,2008,P68,Ngeh Koo Ham,DAP,15831
+590,2008,P69,Mohd. Nizar Zakaria,UMNO,12399
+591,2008,P69,Dr. Najihatussalehah Ahmad,PAS,9526
+592,2008,P70,Datuk Lee Chee Leong,MCA,20126
+593,2008,P70,Keong Meng sing,DAP,17429
+594,2008,P71,Ling Hee Leong,MCA,22328
+595,2008,P71,Lee Boon Chye,PKR,29696
+596,2008,P72,Datuk M. Saravanan,MIC,14084
+597,2008,P72,Tan Seng Toh,PKR,11064
+598,2008,P73,Datuk Tajuddin Abdul Rahman,UMNO,16928
+599,2008,P73,Mustaffa Kamil Ayub,PKR,14240
+600,2008,P74,Kong Cho Ha,MCA,25698
+601,2008,P74,Suwardi Sapuan,PKR,25400
+602,2008,P75,Datuk Ahmad Zahid Hamidi,UMNO,13115
+603,2008,P75,Madzi Hasan,PKR,10423
+604,2008,P76,Mah Siew Keong,GERAKAN,17016
+605,2008,P76,M. Manogaran,DAP,18486
+606,2008,P77,Ong Ka Chuan,MCA,21016
+607,2008,P77,Mohamad Azman Marjohan,PKR,15594
+608,2008,P78,S.K. Devamany,MIC,9164
+609,2008,P78,J Apalasamy,DAP,6047
+610,2008,P79,Muhamad Shahrum,UMNO,12611
+611,2008,P79,Mohamad Nilam Abdul Manap,PAS,8474
+612,2008,P80,Datuk Ng Yen Yen,MCA,18078
+613,2008,P80,Abu Bakar Lebai Sudin,DAP,15326
+614,2008,P81,Tengku Azlan Sultan Abu Bakar,UMNO,19543
+615,2008,P81,Dr Hamzah Jaafar,PAS,17597
+616,2008,P82,Salamon Ali Rizal Abd Rahman,UMNO,18796
+617,2008,P82,Azan bin Ismail,PKR,19823
+618,2008,P83,Fu Ah Kiow,MCA,16572
+619,2008,P83,Fuziah binti Salleh,PKR,18398
+620,2008,P84,Datuk Abdul Manan Ismail,UMNO,19355
+621,2008,P84,Mohd Jafri Ab Rashid,PKR,10852
+622,2008,P85,Najib Tun Razak,UMNO,36262
+623,2008,P85,Khairul Anuar Ahmad Zainudin,PKR,9798
+624,2008,P86,Ismail Abd Muttalib,UMNO,15868
+625,2008,P86,Masrudin Tantawi,PAS,9227
+626,2008,P87,Ismail Mohamed Said,UMNO,16165
+627,2008,P87,Kamal Shaari,PAS,10900
+628,2008,P88,Datuk Saifuddin Abdullah,UMNO,21381
+629,2008,P88,Ahmad Nizam Hamid,PKR,18940
+630,2008,P89,Liow Tiong Lai,MCA,25134
+631,2008,P89,G Ponusamy,PKR,12585
+632,2008,P90,Datuk Ismail Sabri Yaakob,UMNO,18051
+633,2008,P90,Mazlan Aliman,PAS,14230
+634,2008,P91,Datuk Sri Dr Jamaluddin Mohd Jarjis,UMNO,21308
+635,2008,P91,Mazlan Mohd Yasin,PAS,10629
+636,2008,P92,Abd Rahman Bakri,UMNO,12055
+637,2008,P92,Badrul Amin Bahron,PKR,10720
+638,2008,P93,Noriah Kasnon,UMNO,16069
+639,2008,P93,Dr Osman Sabran,PAS,11060
+640,2008,P94,Datuk G. Palanivel,MIC,22979
+641,2008,P94,Zainal Abidin Ahmad,PKR,23177
+642,2008,P95,Datuk Noh Omar,UMNO,16073
+643,2008,P95,Hanipa Maidin,PAS,12253
+644,2008,P96,Jahaya Ibrahim,UMNO,17934
+645,2008,P96,Dr. Dzulkefly Ahmad,PAS,18796
+646,2008,P97,Lee Li Yew,MCA,27134
+647,2008,P97,William Leong Jee Keen,PKR,30701
+648,2008,P97,Koh Swe Yong,PRM,1332
+649,2008,P98,Said Anuar b  Said Ahmad,UMNO,33467
+650,2008,P98,Mohamed Azmin Ali,PKR,40334
+651,2008,P99,Azman b Wahid,UMNO,23319
+652,2008,P99,Zuraida Kamaruddin,PKR,26995
+653,2008,P100,Dato Ong Tee Keat,MCA,25236
+654,2008,P100,Syed Shahir Syed Mohamud,PKR,22275
+655,2008,P101,Dato Markiman Kobiran,UMNO,34379
+656,2008,P101,Dr. Che Rosli Che Mat,PAS,36124
+657,2008,P102,Dato' Hoh Hee Lee,MCA,26419
+658,2008,P102,Teo Nie Ching,DAP,47444
+659,2008,P103,Lau Yeng Peng,GERAKAN,22486
+660,2008,P103,Gobind Singh Deo,DAP,35079
+661,2008,P104,Dato Lee Hwa Beng,MCA,25267
+662,2008,P104,Gwo-Burne Loh,PKR,30298
+663,2008,P104,Billi Lim Peng Soon,IND,1895
+664,2008,P105,Datuk Donald Lim Siang Chai,MCA,22892
+665,2008,P105,Hee Loy Sian,PKR,28598
+666,2008,P106,Datin Paduka Chew Mei Fun,MCA,17879
+667,2008,P106,Tony Pua Kiam Wee,DAP,37851
+668,2008,P107,S Murugesan,MIC,28315
+669,2008,P107,R Sivarasa,PKR,35024
+670,2008,P108,Datuk Abdul Aziz Shamsuddin,UMNO,24042
+671,2008,P108,Hj Khalid Abd Samad,PAS,33356
+672,2008,P109,Datin Paduka P Komala Devi,MIC,35899
+673,2008,P109,S Manikavasagam,PKR,48196
+674,2008,P110,Ch'ng Toh Eng,MCA,20289
+675,2008,P110,Charles Santiago,DAP,37990
+676,2008,P111,S.Vigneswaran,MIC,17879
+677,2008,P111,Dr. Siti Mariah Mahmud,PAS,38630
+678,2008,P112,Dato Hj Sulaiman b Mohd Karli,UMNO,25698
+679,2008,P112,Abdullah Sani bin Abdul Hamid,PKR,26687
+680,2008,P113,Dato Mohd Zin Mohamed,UMNO,26381
+681,2008,P113,Mohamed Makki Ahmad,PAS,21532
+682,2008,P114,Lau Hoi Keong,GERAKAN,11704
+683,2008,P114,Dr Tan Seng Giaw,DAP,35552
+684,2008,P115,Lim Si Pin,GERAKAN,20330
+685,2008,P115,Chua Tian Chang,PKR,29785
+686,2008,P116,Yew Teong Look,MCA,19487
+687,2008,P116,Wee Choo Keong,PKR,19637
+688,2008,P117,Ma Woei Chyi,GERAKAN,17314
+689,2008,P117,Lim Lip Eng,DAP,25046
+690,2008,P118,Zulhasnan Rafique,UMNO,25489
+691,2008,P118,Ibrahim Yaakob,PKR,17355
+692,2008,P119,Aziz Jamaluddin Mohd Tahir,UMNO,15885
+693,2008,P119,Dr Lo' Lo' Mohd Ghazali,PAS,17857
+694,2008,P120,Lee Chong Meng,MCA,12534
+695,2008,P120,Fong Kui Lun,DAP,26811
+696,2008,P121,Datuk Seri Shahrizat Abdul Jalil,UMNO,18833
+697,2008,P121,Nurul Izzah Anwar,PKR,21728
+698,2008,P121,N Periasamy,IND,489
+699,2008,P122,Carol Chew Chee Lin,MCA,10738
+700,2008,P122,Teresa Kok Suh Sim,DAP,47230
+701,2008,P123,Jeffrey Goh Sim Ik,MCA,10953
+702,2008,P123,Tan Kok Wai,DAP,39253
+703,2008,P124,Tan Chai Ho,MCA,25608
+704,2008,P124,Abdul Khalid Ibrahim,PKR,28123
+705,2008,P125,Tengku Adnan Tengku Mansor,UMNO,4038
+706,2008,P125,Mohammad Nor Mohamad,PAS,1304
+707,2008,P126,Datuk Seri Dr Rais Yatim,UMNO,19737
+708,2008,P126,Norman Ipin,PAS,8127
+709,2008,P127,Datuk Lilah Yasin,UMNO,25294
+710,2008,P127,Siti Meriam Naan,PAS,12974
+711,2008,P128,Datuk Yu Chok Tow,MCA,29022
+712,2008,P128,John Fernandez,DAP,32970
+713,2008,P129,Datuk Hassan Malek,UMNO,20417
+714,2008,P129,Annuar Mohd Salleh,PKR,10409
+715,2008,P130,Datuk Dr Yeow Chai Thiam,MCA,21120
+716,2008,P130,Loke Siew Fook,DAP,34271
+717,2008,P131,Khairy Jamaluddin Abu Bakar,UMNO,26525
+718,2008,P131,Badrul Hisham Shaharin,PKR,20779
+719,2008,P132,Datuk S. Sothinathan,MIC,20544
+720,2008,P132,Kamarul Baharin Abbas,PKR,23348
+721,2008,P132,Mohd Rashid Arshad,IND,601
+722,2008,P133,Datuk Shaziman Abu Mansor,UMNO,24022
+723,2008,P133,Abdul Razakek Abdul Rahim,PAS,10943
+724,2008,P134,Datuk Wira Abu Seman Yusop,UMNO,21582
+725,2008,P134,Ab. Ghani Ab. Rahman,PAS,9297
+726,2008,P135,Datuk Seri Fong Chan Onn,MCA,26354
+727,2008,P135,Tan Lay Siang,DAP,13470
+728,2008,P136,Datuk Idris Haron,UMNO,30460
+729,2008,P136,Zainon Jaafar,PKR,15960
+730,2008,P137,Datuk Md Sirat Abu,UMNO,30975
+731,2008,P137,Khalid Jaafar,PKR,29217
+732,2008,P138,Wong Nai Chee,MCA,27250
+733,2008,P138,Sim Tong Him,DAP,38640
+734,2008,P139,Datuk Wira Ahmad Hamzah,UMNO,28101
+735,2008,P139,Zulkefly Othman,PKR,15373
+736,2008,P140,Dr S. Subramaniam,MIC,15921
+737,2008,P140,Pang Hok Liong,DAP,12930
+738,2008,P141,Baharum Mohamed,UMNO,17979
+739,2008,P141,Zulkaply Salleh,PKR,8112
+740,2008,P142,Chua Tee Yong,MCA,13658
+741,2008,P142,Teo Eng Ching,DAP,9564
+742,2008,P143,Tan Sri Muhyiddin Md Yassin,UMNO,21028
+743,2008,P143,Mohd Rozali Jamil Al-Hafiz,PAS,8447
+744,2008,P144,Hamim Samuri,UMNO,25319
+745,2008,P144,Lee Fu Haw,DAP,17702
+746,2008,P145,Tay Puay Chuan,MCA,20329
+747,2008,P145,Er Teck Hwa,DAP,21051
+748,2008,P146,Razali Ibrahim,UMNO,16986
+749,2008,P146,Nah Budin,PKR,12325
+750,2008,P147,Datuk Noraini Ahmad,UMNO,26066
+751,2008,P147,Faisal Ali,PAS,12467
+752,2008,P148,Dr. Wee Ka Siong,MCA,20230
+753,2008,P148,Hussin Sujak,PAS,6321
+754,2008,P149,Datuk Mohamad Aziz,UMNO,19641
+755,2008,P149,Ali Markom,PKR,8767
+756,2008,P150,Mohd. Puad Zarkashi,UMNO,32593
+757,2008,P150,Muhammad Abdullah,PKR,19625
+758,2008,P151,Liang Teck Meng,GERAKAN,16450
+759,2008,P151,Atan Gombang,PAS,8597
+760,2008,P152,Hou Kok Chung,MCA,27970
+761,2008,P152,Ng Lam Hua,DAP,24189
+762,2008,P153,Datuk Seri Hishammuddin Tun Hussein,UMNO,17988
+763,2008,P153,Lee Sang,PKR,6418
+764,2008,P154,Datuk Dr Abdul Latiff Ahmad,UMNO,20116
+765,2008,P154,Shahar Abdullah,PAS,6380
+766,2008,P155,Datuk Halimah Mohamed Sadique,UMNO,19031
+767,2008,P155,Salleh Farmin,PAS,4982
+768,2008,P156,Datuk Seri Syed Hamid Albar,UMNO,22682
+769,2008,P156,Onn Jaafar,PAS,3721
+770,2008,P157,Datuk Seri Azalina Othman Said (walkover),UMNO,0
+771,2008,P158,Ling Ban San @ Teng Boon Soon,MCA,30860
+772,2008,P158,Roslaini Sarif,PAS,16202
+773,2008,P159,Datuk Seri Mohamed Khaled Nordin,UMNO,35849
+774,2008,P159,Md Rizan Mohd Saman,PKR,18568
+775,2008,P160,Datuk Shahrir Abdul Samad,UMNO,43143
+776,2008,P160,Hassan Karim,PRM,17794
+777,2008,P161,Datuk Nur Jazlan Mohamed,UMNO,38036
+778,2008,P161,Abdullah Ideris,PAS,17587
+779,2008,P162,Tan Ah Eng,MCA,33630
+780,2008,P162,Dr. Zaliha Mustafa,PKR,24779
+781,2008,P163,Ong Ka Ting,MCA,32017
+782,2008,P163,Ng Pak Siong,DAP,20273
+783,2008,P164,Ahmad Maslan,UMNO,23121
+784,2008,P164,Mohd Annuar Mohd Salleh,PKR,8677
+785,2008,P165,Wee Jeck Seng,MCA,23302
+786,2008,P165,Ahmad Ton,DAP,10931
+787,2008,P166,Yusof Mahal,UMNO,10471
+788,2008,P166,Matusin Abdul Rahman,PAS,1106
+789,2008,P166,Lau Seng Kiat,IND,2014
+790,2008,P167,Datuk Abdul Rahim Bakri,UMNO,17634
+791,2008,P167,Yahya Othman,PKR,7739
+792,2008,P168,Datuk Dr Maximus Ongkili,PBS,12028
+793,2008,P168,Anthony Mandiau,PKR,7830
+794,2008,P168,Roslan Mohd Zain,IND,1109
+795,2008,P168,Bernam Angkap,BERSEKUTU,457
+796,2008,P169,Datuk Abdul Rahman Dahlan,UMNO,17842
+797,2008,P169,Saidil Simoi,PKR,14822
+798,2008,P170,Datuk Wilfred Bumburing,UPKO,17645
+799,2008,P170,Ansari Abdullah,PKR,11023
+800,2008,P170,Ajin @ Hazin Gagah,IND,879
+801,2008,P171,Datuk Eric Enchin Majimbun,SAPP,16884
+802,2008,P171,Ewol Munji @ Edward Ewol Munji,DAP,3709
+803,2008,P171,Mohamad Ibrahim @ Paul Kuleling,PKR,5423
+804,2008,P172,Chin Teck Ming,PBS,8420
+805,2008,P172,Christina Liew,PKR,9358
+806,2008,P172,Hiew King Chiew,DAP,9464
+807,2008,P172,Kong Yu Kiong,IND,341
+808,2008,P173,Datuk Dr Marcus Mojigoh,UPKO,13737
+809,2008,P173,Saukinah Yusof,PKR,7292
+810,2008,P173,Ramzah Ahmad,IND,918
+811,2008,P174,Tan Sri Bernard Giluk Dompok,UPKO,13400
+812,2008,P174,Dr Edwin Bosi,PKR,10337
+813,2008,P174,Livired Missih @ Willybroad Missi,PASOK,404
+814,2008,P174,Anthony Tibok,IND,696
+815,2008,P175,Rosnah Abdul Rashid Shirlin,UMNO,15352
+816,2008,P175,Wahab Idris,PKR,5778
+817,2008,P175,Mohd Hashim Yussup,IND,429
+818,2008,P175,Datuk Patrick Sindu,IND,2268
+819,2008,P176,Datuk Anifah Aman,UMNO,10242
+820,2008,P176,Ismail Bongsu,PKR,1615
+821,2008,P176,Jaafar Ismail,IND,4789
+822,2008,P176,Benjamin Basinta,IND,205
+823,2008,P177,Datuk Lajim Ukin,UMNO,14780
+824,2008,P177,Lajim Yusof,PKR,3866
+825,2008,P178,Datuk Sapawi Ahmad,UMNO,11905
+826,2008,P178,Karim Tassim,PKR,5759
+827,2008,P179,Datuk Sirigan Gubat,UPKO,14074
+828,2008,P179,Jonathan Yasin,PKR,6823
+829,2008,P179,Vitos Mark Koding,PASOK,619
+830,2008,P180,Datuk Seri Joseph Pairin Kitingan,PBS,14598
+831,2008,P180,Datuk Dr Jeffrey Kitingan,PKR,10334
+832,2008,P180,Peter Kodou,DAP,560
+833,2008,P181,Raimie Unggi,UMNO,9535
+834,2008,P181,Adris Taripin,PKR,2652
+835,2008,P181,Mutang @ Sylvester Dawat,BERSEKUTU,485
+836,2008,P181,Joh Jimmy @ Richard Joe Jimmy,IND,0
+837,2008,P182,Tan Sri Joseph Kurup (won uncontested),PBRS,0
+838,2008,P183,Datuk Ronald Kiandee,UMNO,7090
+839,2008,P183,Michael @ Radio Luban,PKR,1271
+840,2008,P183,Petrus Rinning,IND,571
+841,2008,P183,Ramsah Tasim @ Ramsah Tashim,IND,0
+842,2008,P183,Nordin Kaning,IND,0
+843,2008,P184,Datuk Juslie Ajirol,UMNO,13668
+844,2008,P184,Ahmad Thamrin Jaini,PKR,6139
+845,2008,P185,Datuk Edmund Chong Ket Wah,PBS,9479
+846,2008,P185,Chong Kwong Wing,IND,5771
+847,2008,P186,Datuk V. K. Liew,LDP,8297
+848,2008,P186,Chong Chu Lin @ Shanty,DAP,8121
+849,2008,P186,Fong Vun Fui,IND,2929
+850,2008,P187,Datuk Bung Moktar Radin,UMNO,8507
+851,2008,P187,Ahmad Abdul,PKR,2181
+852,2008,P187,Dasim @ Ricky Jikah,UMNO,1515
+853,2008,P188,Salleh Kalbi,UMNO,18111
+854,2008,P188,Datuk Seri Panglima Dr Hasbullah Taha,PKR,8319
+855,2008,P189,Datuk Shafie Apdal,UMNO,19419
+856,2008,P189,Abdul Azis Abdul Hamid,PKR,1957
+857,2008,P190,Datuk Dr Chua Soon Bui,SAPP,13943
+858,2008,P190,Chan Foong Hin,DAP,9076
+859,2008,P190,Berhan @ Birhan Ruslan,PKR,3278
+860,2008,P191,Datuk Abdul Ghapur Salleh (won uncontested),UMNO,0
+861,2008,P192,Datuk Dr Tiki Lafe,SPDP,8551
+862,2008,P192,Apin Baeng,IND,306
+863,2008,P192,Dr Patau Rubis,SNAP,4250
+864,2008,P192,Fabian Tinseng,IND,1476
+865,2008,P193,Datuk Wan Junaidi Tuanku Jaafar,PBB,15800
+866,2008,P193,Rahamat Idil Latip,PKR,3855
+867,2008,P194,Fadillah Yusof,PBB,19515
+868,2008,P194,Mohamad Jolhi,PKR,5118
+869,2008,P195,Sim Yaw Yen,SUPP,12949
+870,2008,P195,Chong Chieng Jen,DAP,22901
+871,2008,P196,Datuk Yong Khoon Seng,SUPP,21966
+872,2008,P196,Voon Lee Shan,DAP,18896
+873,2008,P196,See Chee How,PKR,2198
+874,2008,P197,Sulaiman Abdul Rahman Abdul Taib,PBB,15559
+875,2008,P197,Hussain Bin Apok,PKR,4148
+876,2008,P197,Abu Bakar Awang Dawos,IND,898
+877,2008,P198,Datuk James Dawos Mamit,PBB,14182
+878,2008,P198,Majen Ak Panyog,PKR,7525
+879,2008,P199,Datuk Richard Riot Jaem,SUPP,15793
+880,2008,P199,Sylvester Belayong,SNAP,2366
+881,2008,P200,Nancy Shukri,PBB,8183
+882,2008,P200,Piee Ling,PKR,2758
+883,2008,P201,Datuk Rohani Abdul Karim,PBB,11015
+884,2008,P201,Abang Eddy Allyanni,PAS,2923
+885,2008,P201,Ali Semsu,IND,250
+886,2008,P202,Masir Kujat,PRS,9700
+887,2008,P202,Cobbold Lusoi,IND,5448
+888,2008,P203,William Nyallau Badak,PRS,6769
+889,2008,P203,Nicholas Bawin,IND,5159
+890,2008,P204,Datuk Douglas Uggah Embas,PBB,13708
+891,2008,P204,Edmond Stanley Jugol,SNAP,1999
+892,2008,P205,Jelaing Mersat,SPDP,12470
+893,2008,P205,Mohd Yahya Abdullah,PKR,3764
+894,2008,P206,Norah Tun Abdul Rahman (Walkover),PBB,0
+895,2008,P207,BN-PBB walkover,PBB,0
+896,2008,P208,Ding Kuong Hiing,SUPP,10588
+897,2008,P208,Dr wong Hua Seh,DAP,10537
+898,2008,P208,Lau Kain Chai,IND,116
+899,2008,P208,Kung Chin Chin,IND,545
+900,2008,P208,Ngu Tieng Hai,IND,105
+901,2008,P209,Datuk Joseph Salang Gandum,PRS,10351
+902,2008,P209,Ambrose Labang Jamba,PKR,2767
+903,2008,P210,Ago Dagang (Walkover),PRS,0
+904,2008,P211,Datuk Tiong Thai King,SUPP,19476
+905,2008,P211,Wong Kee Woan,DAP,14612
+906,2008,P212,Datuk Robert Lau Hoi Chew,SUPP,19138
+907,2008,P212,Wong Ho Leng,DAP,15903
+908,2008,P212,Lim Chin Chuang,PKR,812
+909,2008,P213,Datuk Seri Muhd Leo Michael Toyad,PBB,10090
+910,2008,P213,Hai Merawin,IND,3792
+911,2008,P214,Joseph Entulu Belaun (Walkover),PRS,0
+912,2008,P215,Alexander Nanta Linggi (walkover),PBB,0
+913,2008,P216,Abit Joo @ Billy Abit Joo,PRS,6590
+914,2008,P216,George Lagong,IND,4426
+915,2008,P217,Datuk Seri Tiong King Sing,SPDP,23628
+916,2008,P217,Lim Su Kien,DAP,8663
+917,2008,P218,Ahmad Lai Bujang,PBB,8238
+918,2008,P218,Dr Teo Yu Keng,PKR,4590
+919,2008,P219,Datuk Peter Chin Fah Kui,SUPP,19354
+920,2008,P219,Fong Pau Teck,DAP,14138
+921,2008,P220,Datuk Jacob Dungau Sagan,SPDP,7996
+922,2008,P220,Kebing Wan,SNAP,3952
+923,2008,P221,Hasbi Habibollah,PBB,6427
+924,2008,P221,Lau Liat Koi,PKR,5751
+925,2008,P222,Henry Sum Agong (walkover),PBB,8526
+944,2013,P1,AZAMHARI BIN MOHAMOOD,PAS,14047
+945,2013,P1,ZAHIDI BIN ZAINUL ABIDIN,UMNO,21473
+946,2013,P2,BAHARUDDIN BIN AHMAD,PAS,19306
+947,2013,P2,SHAHARUDDIN BIN ISMAIL,UMNO,23343
+948,2013,P3,HARON BIN DIN,PAS,18005
+949,2013,P3,SHAHIDAN BIN KASSIM,UMNO,19376
+950,2013,P3,ZAINUDIN BIN YOM,IND,406
+951,2013,P4,NAWAWI BIN AHMAD,UMNO,21407
+952,2013,P4,AHMAD BIN ABDULLAH,PKR,9546
+953,2013,P4,MARINA BINTI HUSSEIN,IND,180
+954,2013,P5,ISMAIL BIN SALLEH,PAS,20891
+955,2013,P5,OTHMAN BIN AZIZ,UMNO,24161
+956,2013,P6,MOHD JAMAL BIN NASIR,PAS,22890
+957,2013,P6,MOHD JOHARI BIN BAHARUM,UMNO,33334
+958,2013,P7,MOHD NASIR BIN ZAKARIA,PAS,16212
+959,2013,P7,MUHAMAD BAZLI BIN ABDULLAH,IND,243
+960,2013,P7,MAHDZIR BIN KHALID,UMNO,20654
+961,2013,P8,DATO' MAHFUZ BIN OMAR,PAS,36198
+962,2013,P8,SHAHLAN BIN ISMAIL,UMNO,32263
+963,2013,P9,CHOR CHEE HEUNG,MCA,25491
+964,2013,P9,GOOI HSIAO - LEUNG,PKR,27364
+965,2013,P9,ABDUL FISOL BIN MOHD ISA,BERJASA,3530
+966,2013,P9,JAWAHAR RAJA BIN ABDUL WAHID,BERSAMA,257
+967,2013,P10,AZMAN BIN ISMAIL,PKR,42870
+968,2013,P10,ZAKI ZAMANI BIN ABD RASHID,UMNO,37923
+969,2013,P11,OTHMAN BIN ABDUL,UMNO,32165
+970,2013,P11,MOHAMAD BIN SABU,PAS,29527
+971,2013,P12,JAMIL KHIR BIN BAHAROM,UMNO,32429
+972,2013,P12,MOHD FIRDAUS BIN JAAFAR,PAS,31233
+973,2013,P13,MANSOR BIN ABD RAHMAN,UMNO,22084
+974,2013,P13,CHE UDA BIN CHE NIK,PAS,19277
+975,2013,P14,ISMAIL BIN DAUT,UMNO,38538
+976,2013,P14,NOR AZRINA BINTI SURIP,PKR,34416
+977,2013,P15,SYAMSYUL ANUAR BIN CHE MEY @ ISMAIL,UMNO,34646
+978,2013,P15,ONG WEI SIN,IND,772
+979,2013,P15,SUHAIMI BIN HASHIM,KITA,200
+980,2013,P15,JOHARI BIN ABDUL,PKR,44194
+981,2013,P16,NAJMI BIN HJ AHMAD,PAS,38319
+982,2013,P16,ABDUL AZEEZ BIN ABDUL RAHIM,UMNO,43504
+983,2013,P17,HAMIDI BIN ABU HASSAN,BERJASA,2630
+984,2013,P17,OTHMAN BIN WAWI,IND,279
+985,2013,P17,GOBALAKRISHNAN A/L NAGAPAN,IND,390
+986,2013,P17,N SURENDRAN A/L K NAGARAJAN,PKR,34151
+987,2013,P17,HENG SEAI KIE,MCA,25714
+988,2013,P18,SAIFUDDIN NASUTION BIN ISMAIL,PKR,24911
+989,2013,P18,ABD. AZIZ BIN SHEIKH FADZIR,UMNO,26782
+990,2013,P19,KAMARUDIN BIN JAFFAR,PAS,46151
+991,2013,P19,MANSOR BIN SALLEH,UMNO,35527
+992,2013,P20,IZANI BIN HUSIN,PAS,34617
+993,2013,P20,DALI BIN HUSIN,UMNO,19497
+994,2013,P21,MOHAMAD FATMI BIN CHE SALLEH,UMNO,24650
+995,2013,P21,TAKIYUDDIN BIN HASSAN,PAS,40620
+996,2013,P21,MOHD ZAKIMAN BIN ABU BAKAR,IND,148
+997,2013,P22,IBRAHIM BIN ALI,IND,25384
+998,2013,P22,NIK MOHAMAD ABDUH BIN NIK ABDUL AZIZ,PAS,33431
+999,2013,P23,GHAZALI BIN ISMAIL,UMNO,17448
+1000,2013,P23,SITI ZAILAH BINTI MOHD YUSOFF,PAS,23724
+1001,2013,P24,AHMAD BAIHAKI BIN ATIQULLAH,PAS,35510
+1002,2013,P24,ANUAR BIN SAFIAN,UMNO,18769
+1003,2013,P25,AHMAD MARZUK BIN SHAARY,PAS,35419
+1004,2013,P25,AWANG ADEK BIN HUSSIN,UMNO,35218
+1005,2013,P26,ANNUAR BIN MUSA,UMNO,26912
+1006,2013,P26,AB AZIZ BIN AB KADIR,PKR,25938
+1007,2013,P27,NIK MAHMOOD BIN NIK HASSAN,PKR,22278
+1008,2013,P27,AHMAD FIZAL BIN CHE HARUN,IND,213
+1009,2013,P27,IKMAL HISHAM BIN ABDUL AZIZ,UMNO,26505
+1010,2013,P28,TUAN MUSTAFFA BIN TUAN MAT,UMNO,31691
+1011,2013,P28,NIK MAZIAN BIN NIK MOHAMAD,PAS,33579
+1012,2013,P29,AHMAD JAZLAN BIN YAAKUB,UMNO,25660
+1013,2013,P29,WAN ZAWAWI BIN WAN ISMAIL,PKR,24855
+1014,2013,P30,MUSTAPA BIN MOHAMED,UMNO,21223
+1015,2013,P30,MOHD APANDI BIN MOHAMAD,PAS,15954
+1016,2013,P31,TUAN AZIZ BIN TUAN HAMAT @ TUAN MAT,UMNO,25876
+1017,2013,P31,MOHD HATTA BIN MD RAMLI,PAS,27919
+1018,2013,P32,TENGKU RAZALEIGH BIN TENGKU MOHD HAMZAH,UMNO,21367
+1019,2013,P32,WAN ABD RAHIM BIN WAN ABDULLAH,PAS,12954
+1020,2013,P33,IDRIS BIN JUSOH,UMNO,35232
+1021,2013,P33,RIDUAN BIN MOHAMAD NOR,PAS,26890
+1022,2013,P34,CHE MOHAMAD ZULKIFLY BIN JUSOH,UMNO,33198
+1023,2013,P34,OMAR BIN SIDEK,PAS,25255
+1024,2013,P35,MOHD NASIR B. IBRAHIM @ IBRAHIM FIKRI,UMNO,33251
+1025,2013,P35,MOHD KHAIRUDDIN BIN AMAN RAZALI,PAS,33861
+1026,2013,P36,MOHD ZUBIR BIN EMBONG,UMNO,35043
+1027,2013,P36,RAJA KAMARUL BAHRIN SHAH,PAS,45828
+1028,2013,P36,MAIMUN BINTI YUSUF,IND,182
+1029,2013,P37,YAHYA BIN KHATIB MOHAMAD,UMNO,37860
+1030,2013,P37,ABDUL HADI BIN AWANG,PAS,42984
+1031,2013,P38,KAMARUZAMAN BIN ABDULLAH,PAS,23727
+1032,2013,P38,JAILANI BIN JOHARI,UMNO,31940
+1033,2013,P39,ROSLI BIN MAT HASSAN,UMNO,31406
+1034,2013,P39,WAN HASSAN BIN MOHD RAMLI,PAS,35348
+1035,2013,P39,MAZLAN BIN HARUN,IND,384
+1036,2013,P40,AHD SHABERY BIN CHEEK,UMNO,45525
+1037,2013,P40,KAMARUDIN BIN CHIK,PKR,33219
+1038,2013,P41,REEZAL MERICAN BIB NAINA MERICAN,UMNO,25128
+1039,2013,P41,AFNAN HAMIMI BIN TAIB AZAMUDDEN,PAS,20952
+1040,2013,P42,ABDUL RAHMAN BIN B MAIDIN,PAS,21351
+1041,2013,P42,MOHD SHARIFF BIN OMAR,IND,1590
+1042,2013,P42,SHABUDIN BIN YAHAYA,UMNO,24393
+1043,2013,P43,CHUA TEIK SIANG,MCA,12307
+1044,2013,P43,LIM GUAN ENG,DAP,46466
+1045,2013,P43,LIM KIM CHU,PCM,328
+1046,2013,P44,ABDULLAH ZAWAWI BIN SAMSUDIN,IND,201
+1047,2013,P44,ANWAR BIN IBRAHIM,PKR,37090
+1048,2013,P44,MAZLAN BIN ISMAIL,UMNO,25369
+1049,2013,P45,GUI GUAT LYE,MCA,12814
+1050,2013,P45,SIM CHEE KEONG,DAP,55877
+1051,2013,P46,GOBALAKRISHNAN A/L NARAYANASAMY,MIC,10674
+1052,2013,P46,HUAN CHENG GUAN,PCM,1801
+1053,2013,P46,KASTHURIRAANI A/P PATTO,DAP,36636
+1054,2013,P46,MOHAN A/L APPAROO,IND,305
+1055,2013,P47,MANSOR BIN OTHMAN,PKR,30003
+1056,2013,P47,TENG KOK PHENG,IND,297
+1057,2013,P47,ZAINAL ABIDIN BIN OSMAN,UMNO,21405
+1058,2013,P48,TEH LEONG MENG,GERAKAN,12813
+1059,2013,P48,ZAIRIL KHIR JOHARI,DAP,45591
+1060,2013,P49,NG SONG KHENG,GERAKAN,6865
+1061,2013,P49,NG WEI AIK,DAP,35510
+1062,2013,P50,NG FOOK ON,GERAKAN,17461
+1063,2013,P50,OOI CHUAN AUN,DAP,43211
+1064,2013,P51,KARPAL SINGH A/L RAM SINGH,DAP,55839
+1065,2013,P51,TEH BENG YEAM,MCA,14061
+1066,2013,P52,TANG HEAP SENG,MCA,24251
+1067,2013,P52,SIM TZE TZIN,PKR,43558
+1068,2013,P53,HILMI BIN YAHAYA,UMNO,22318
+1069,2013,P53,MUHAMMAD BAKHTIAR BIN WAN CHIK,PKR,20779
+1070,2013,P54,HASBULLAH BIN OSMAN,UMNO,16415
+1071,2013,P54,NORHAYATI BINTI KASIM,PAS,10199
+1072,2013,P55,RAZMAN BIN ZAKARIA,PAS,9832
+1073,2013,P55,SHAMSUL ANUAR BIN NASARAH,UMNO,13285
+1074,2013,P56,RAVEENDRAN A/L M.VALLIKANA,IND,278
+1075,2013,P56,MOHD FAUZI BIN SA'ARI,PAS,16888
+1076,2013,P57,MUA'AMAR GHADAFI JAMAL BIN JAMALUDIN,UMNO,17539
+1077,2013,P57,MUJAHID BIN YUSOF,PAS,26015
+1078,2013,P56,HAMZAH BIN ZAINUDIN,UMNO,22184
+1079,2013,P58,ABDUL LATIF BIN MASUD,IND,329
+1080,2013,P58,MOHD NOR BIN HJ. R. M. MONUTTY,PKR,21874
+1081,2013,P58,NOOR AZMI BIN GHAZALI,UMNO,23014
+1082,2013,P59,ISMAIL BIN SAFFIAN,UMNO,29577
+1083,2013,P59,IDRIS BIN AHMAD,PAS,30563
+1084,2013,P60,TAN LIAN HOE,GERAKAN,25530
+1085,2013,P60,NGA KOR MING,DAP,37275
+1086,2013,P61,MEOR AHMAD ISHARRA BIN ISHAK,PKR,10775
+1087,2013,P61,MOHAMED NAZRI BIN ABDUL AZIZ,UMNO,13005
+1088,2013,P62,NAGALINGAM A/L SINGARAVELLOO,IND,197
+1089,2013,P62,MICHAEL JEYAKUMAR DEVARAJ,PKR,21593
+1090,2013,P62,DEVAMANY A/L S KRISHNASAMY,MIC,18800
+1091,2013,P63,AHMAD HUSNI BIN MOHAMAD HANADZLAH,UMNO,42093
+1092,2013,P63,SITI AISHAH BINTI SHAIK ISMAIL,PKR,32768
+1093,2013,P64,KATHLEEN WONG MEI YIN,MCA,15086
+1094,2013,P64,SU KEONG SIONG,DAP,49086
+1095,2013,P65,KALWANT SINGH A/L SUJAN SINGH,IND,235
+1096,2013,P65,M. KULASEGARAN A/L V. MURUGESON,DAP,45420
+1097,2013,P65,CHENG WEI YEE,MCA,16382
+1098,2013,P66,SIVAKUMAR A/L VARATHARAJU NAIDU,DAP,53900
+1099,2013,P66,LOO THIN TUCK,MCA,15304
+1100,2013,P67,KAMILIA BINTI IBRAHIM,IND,447
+1101,2013,P67,KHALIL IDHAM LIM BIN ABDULLAH,PAS,13136
+1102,2013,P67,WAN MOHAMMAD KHAIR-IL ANUAR BIN WAN AHMAD,UMNO,14218
+1103,2013,P68,CHANG KO YOUN,GERAKAN,16882
+1104,2013,P68,NGEH KOO HAM,DAP,21939
+1105,2013,P69,MOHD ZAIM BIN ABU HASAN,UMNO,16253
+1106,2013,P69,MUHAMMAD ISMI BIN MAT TAIB,PAS,11756
+1107,2013,P70,LEE CHEE LEONG,MCA,21463
+1108,2013,P70,KO CHUNG SEN,DAP,26863
+1109,2013,P71,LEE BOON CHYE,PKR,47558
+1110,2013,P71,TAN CHIN MENG,MCA,32249
+1111,2013,P72,RIDZUAN BIN BANI,IND,337
+1112,2013,P72,SHAHARUZZAMAN BIN BISTAMAM,BERJASA,2053
+1113,2013,P72,VASANTHA KUMAR A/L KRISHNAN,PKR,12743
+1114,2013,P72,SARAVANAN A/L MURUGAN,MIC,20670
+1115,2013,P73,TAJUDDIN BIN ABDUL RAHMAN,UMNO,24875
+1116,2013,P73,MUSTAFFA KAMIL BIN AYUB,PKR,17489
+1117,2013,P74,KONG CHO HA,MCA,32140
+1118,2013,P74,MOHAMAD IMRAN BIN ABD HAMID,PKR,40308
+1119,2013,P75,MADHI BIN HASAN,PKR,15068
+1120,2013,P75,AHMAD ZAHID BIN HAMIDI,UMNO,17176
+1121,2013,P76,SEAH LEONG PENG,DAP,27399
+1122,2013,P76,MAH SIEW KEONG,MCA,20086
+1123,2013,P76,MORALINGAM A/L KANNAN,IND,279
+1124,2013,P77,DATO' SERI ONG KA CHUAN,MCA,28225
+1125,2013,P77,TAN YEE KEW,PKR,23897
+1126,2013,P78,ALAGU A/L THANGARAJOO,IND,308
+1127,2013,P78,KISHO KUMAR A/L KATHIRVELOO,IND,101
+1128,2013,P78,MANOGARAN A/L MARIMUTHU,DAP,10044
+1129,2013,P78,MOHD SHOKRI BIN MAHMOOD,BERJASA,912
+1130,2013,P78,PALANIVEL A/L K. GOVINDASAMY,MIC,10506
+1131,2013,P79,ABDUL RAHMAN BIN MOHAMAD,UMNO,14863
+1132,2013,P79,AISHATON BINTI ABU BAKAR,IND,303
+1133,2013,P79,MOHD MAHYUDDIN BIN GHAZAL @ RAZALI,PAS,11394
+1134,2013,P80,HOH KHAI MUN,MCA,20601
+1135,2013,P80,MOHD ARIFF SABRI BIN ABDUL AZIZ,DAP,23415
+1136,2013,P81,AHMAD NAZLAN BIN IDRIS,UMNO,26544
+1137,2013,P81,DR. HAMZAH BIN JAAFFAR,PAS,22012
+1138,2013,P82,ADNAN BIN WAN MAMAT,UMNO,23061
+1139,2013,P82,FAUZI BIN ABDUL RAHMAN,PKR,30584
+1140,2013,P82,PONUSAMY A/L GOVINDASAMY,IND,193
+1141,2013,P83,FUZIAH BINTI SALLEH,PKR,25834
+1142,2013,P83,MOHAMED SUFFIAN BIN AWANG,UMNO,21319
+1143,2013,P84,ABDUL MANAN BIN ISMAIL,UMNO,23747
+1144,2013,P84,MURNIE HIDAYAH BINTI ANUAR,PKR,16032
+1145,2013,P84,ZAHARI BIN MAMAT,IND,272
+1146,2013,P85,MOHD NAJIB BIN HJ ABD RAZAK,UMNO,51278
+1147,2013,P85,MOHD. FARIZ B. ABD. TALIB @ MUSA,PKR,15665
+1148,2013,P86,ISMAIL BIN ABD. MUTTALIB,UMNO,19249
+1149,2013,P86,MUJIBUR RAHMAN BIN ISHAK,PAS,12774
+1150,2013,P87,ISMAIL BIN MOHAMED SAID,UMNO,21575
+1151,2013,P87,SHAHRIL AZMAN BIN ABD HALIM,PAS,15370
+1152,2013,P88,NASRUDIN BIN HASSAN,PAS,28267
+1153,2013,P88,SAIFUDDIN BIN ABDULLAH,UMNO,27197
+1154,2013,P89,LIOW TIONG LAI,MCA,25947
+1155,2013,P89,WONG TACK,DAP,25568
+1156,2013,P90,ISMAIL SABRI BIN YAAKOB,UMNO,21669
+1157,2013,P90,MOHD WALI BIN ALANG AHAMAD,IND,670
+1158,2013,P90,ZAKARIA BIN ABDUL HAMID,PKR,19526
+1159,2013,P91,JAMALUDIN BIN JARJIS,UMNO,30040
+1160,2013,P91,NURIDAH BINTI MOHD SALLEH,PAS,14926
+1161,2013,P92,ABDUL AZIZ BIN BARI,PKR,14743
+1162,2013,P92,MOHD FASIAH BIN MOHD FAKEH,UMNO,16387
+1163,2013,P93,MOHAMED SALLEH BIN M HUSIN,PAS,18296
+1164,2013,P93,NORIAH BINTI KASNON,UMNO,18695
+1165,2013,P94,KHALID BIN JAAFAR,PKR,33989
+1166,2013,P94,P.KAMALANATHAN A/L P.PANCHANATHAN,MIC,37403
+1167,2013,P94,RADZALI BIN MOKHTAR,IND,1105
+1168,2013,P94,SANTHARA KUMAR A/L RAMANAIDU,IND,999
+1169,2013,P95,MASRUN BIN TAMSI,IND,340
+1170,2013,P95,NOH BIN OMAR,UMNO,20548
+1171,2013,P95,MOHAMAD RASHDI BIN DERAMAN,PAS,16154
+1172,2013,P96,DZULKEFLY BIN AHMAD,PAS,27040
+1173,2013,P96,IRMOHIZAM BIN IBRAHIM,UMNO,27500
+1174,2013,P97,WILLIAM LEONG JEE KEEN,PKR,52287
+1175,2013,P97,LIM SIANG CHAI,MCA,34441
+1176,2013,P97,HAJI MOHD HAZIZI BIN AB. RAHMAN,BERJASA,4152
+1177,2013,P98,MOHAMED AZMIN BIN ALI,PKR,54827
+1178,2013,P98,SAID NAZAR BIN ABU BAKER,IND,474
+1179,2013,P98,RAMAN BIN ISMAIL,UMNO,50093
+1180,2013,P99,ZURAIDA BINTI KAMARUDDIN,PKR,41969
+1181,2013,P99,ROZAIDAH BINTI TALIB,UMNO,28691
+1182,2013,P100,MOHD RAFIZI BIN RAMLI,PKR,48183
+1183,2013,P100,TAN YEW LENG,IND,2415
+1184,2013,P100,LIM CHIN YEE,MCA,21454
+1185,2013,P101,ADZHALIZA BINTI MOHD NOR,UMNO,46860
+1186,2013,P101,CHE ROSLI BIN CHE MAT,PAS,64127
+1187,2013,P102,YAP PIAN HON,MCA,37032
+1188,2013,P102,ONG KIAN MING,DAP,79238
+1189,2013,P103,GOBIND SINGH DEO,DAP,62938
+1190,2013,P103,A. KOHILAN PILLAY A/L G. APPU,GERAKAN,30136
+1191,2013,P104,LOH SENG KOK,MCA,27963
+1192,2013,P104,TOH SIN WAH,IND,363
+1193,2013,P104,WONG CHEN,PKR,56790
+1194,2013,P105,IBRAHIM BIN KHATIB,IND,1447
+1195,2013,P105,HEE LOY SIAN,PKR,41062
+1196,2013,P105,SHEAH KOK FAH,MCA,21846
+1197,2013,P106,CHEW HOONG LING,MCA,12735
+1198,2013,P106,PUA KIAM WEE,DAP,57407
+1199,2013,P107,SIVARASA A/L K. RASIAH,PKR,66268
+1200,2013,P107,PAKAS RAO A/L APPLANAIDOO,MIC,39549
+1201,2013,P107,EDROS BIN ABDULLAH,IND,218
+1202,2013,P107,MOHAMAD BIN ISMAIL,BERJASA,4454
+1203,2013,P107,NAZARUDDIN BIN MOHAMED FERDOOS,IND,460
+1204,2013,P108,KHALID BIN ABD SAMAD,PAS,49009
+1205,2013,P109,SAKTHIVEL A/L ALAGAPPAN,MIC,46059
+1206,2013,P109,NORHAMZAH BIN SURATMAN,IND,1067
+1207,2013,P109,PALAYA A/L RENGAIAH,IND,231
+1208,2013,P109,MOHD PATHAN BIN HUSSIN,BERJASA,6289
+1209,2013,P109,G MANIVANNAN A/L GOWINDASAMY,PKR,69849
+1210,2013,P109,MOHD NAZRI BIN ABDUL AZIZ,IND,835
+1211,2013,P110,TEH KIM POO,MCA,29034
+1212,2013,P110,CHARLES ANTHONY A/L R. SANTIAGO,DAP,53719
+1213,2013,P111,UTHAYAKUMAR A/L PONNUSAMY,IND,2364
+1214,2013,P111,MURUGESAN A/L SINNANDAVAR,MIC,29711
+1215,2013,P111,AZMAN BIN IDRUS,IND,280
+1216,2013,P111,SITI MARIAH BINTI MAHMUD,PAS,59106
+1217,2013,P112,SHARUDDIN BIN OMAR,UMNO,35625
+1218,2013,P112,KOTTAPPAN A/L SUPPAIAH,IND,426
+1219,2013,P112,ABDULLAH SANI BIN ABDUL HAMID,PKR,40983
+1220,2013,P113,HANAPIAH BIN MOHAMAD,IND,318
+1221,2013,P113,SUHAIMI BIN MOHD GHAZALI,IND,963
+1222,2013,P113,MOHD ZIN BIN MOHAMED,UMNO,35670
+1223,2013,P114,YEE POH PING,IND,2757
+1224,2013,P114,TAN SENG GIAW @ TAN CHUN TIN,DAP,47837
+1225,2013,P114,CHANDRAKUMANAN A/L ARUMUGAM,PPP,7530
+1227,2013,P115,CHUA TIAN CHANG,PKR,41672
+1228,2013,P115,ATAN BIN JASIN,IND,164
+1229,2013,P115,HASHIM BIN ABDUL KARIM,BERJASA,949
+1230,2013,P115,DOMINIC LAU HOE CHAI,GERAKAN,28388
+1231,2013,P115,NAZARIAH BINTI ABBAS,IND,209
+1232,2013,P116,MOHD SHAFEI BIN ABDULLAH,UMNO,26130
+1233,2013,P116,TAN KEE KWONG,PKR,31641
+1234,2013,P117,LIM LIP ENG,DAP,41383
+1235,2013,P117,JAYANTHI DEVI A/P BALAGURU,GERAKAN,22184
+1236,2013,P118,AHMAD FAUZI BIN ZAHARI,UMNO,26809
+1237,2013,P118,IBRAHIM BIN YAACOB,PKR,25419
+1238,2013,P119,JOHARI BIN ABDUL GHANI,UMNO,23034
+1239,2013,P119,AHMAD ZAMRI BIN ASA'AD KHUZAMI,PAS,22168
+1240,2013,P120,GAN JOON ZIN,MCA,11009
+1241,2013,P120,FONG KUI LUN,DAP,30408
+1242,2013,P121,NURUL IZZAH BINTI ANWAR,PKR,31008
+1243,2013,P121,RUSLI BIN BABA,IND,167
+1244,2013,P121,RAJA NONG CHIK BIN RAJA ZAINAL ABIDIN,UMNO,29161
+1245,2013,P122,TERESA KOK SUH SIM,DAP,61500
+1246,2013,P122,WONG SIAW TING,MCA,9948
+1247,2013,P123,TEOH CHEE HOOI,MCA,10840
+1248,2013,P123,TAN KOK WAI,DAP,48249
+1249,2013,P124,MOHAMAD SUKERI BIN ABDUL SAMAT,IND,793
+1250,2013,P124,MOKHTAR BIN SALAHUDIN,IND,191
+1251,2013,P124,TAN KOK ENG,MCA,32235
+1252,2013,P124,ABD KHALID BIN IBRAHIM,PKR,44067
+1253,2013,P125,TENGKU ADNAN BIN TENGKU MANSOR,UMNO,9943
+1254,2013,P125,HUSAM BIN MUSA,PAS,4402
+1255,2013,P126,ZAINUDIN BIN ISMAIL,UMNO,22114
+1256,2013,P126,RAJ MUNNI BINTI SABU,PAS,15013
+1257,2013,P127,WAN AISHAH BINTI WAN ARIFFIN,PAS,22495
+1258,2013,P127,MOHD ISA BIN ABDUL SAMAD,UMNO,31109
+1259,2013,P128,ABDUL HALIM BIN ABDULLAH,BERJASA,6866
+1260,2013,P128,JOHN A/L FERNANDEZ,IND,221
+1261,2013,P128,BUJANG BIN ABU,IND,83
+1262,2013,P128,LOKE SIEW FOOK,DAP,45628
+1263,2013,P128,YEOW CHAI THIAM,MCA,33075
+1264,2013,P129,HASAN BIN MALEK,UMNO,24507
+1265,2013,P129,MOHD NAZREE BIN MOHD YUNUS,PKR,14846
+1266,2013,P130,TEO ENG KIAN,MCA,25479
+1267,2013,P130,TEO KOK SEONG,DAP,48964
+1268,2013,P131,ABDUL AZIZ BIN HASSAN,IND,325
+1269,2013,P131,KHAIRY JAMALUDDIN ABU BAKAR,UMNO,43053
+1270,2013,P131,RADZALI BIN A. GHANI,PKR,24696
+1271,2013,P132,KAMARUDIN KUMARAVEL BIN ABDULLAH,IND,394
+1272,2013,P132,KAMARUL BAHARIN BIN ABBAS,PKR,29848
+1273,2013,P132,MOGAN A/L VELAYATHAM,MIC,28269
+1274,2013,P133,ABDUL RAZAKEK BIN ABDUL RAHIM,PAS,18228
+1275,2013,P133,SHAZIMAN BIN ABU MANSOR,UMNO,29390
+1276,2013,P134,MAS ERMIEYATI BINTI SAMSUDIN,UMNO,27688
+1277,2013,P134,MOHD NASAIE BIN ISMAIL,PAS,11488
+1278,2013,P135,DAMIAN YEO SHEN LI,DAP,20997
+1279,2013,P135,KOH NAI KWONG,MCA,32594
+1280,2013,P136,ABU BAKAR BIN MOHAMAD DIAH,UMNO,39468
+1281,2013,P136,RAHIM BIN ALI,PKR,23835
+1282,2013,P137,SHAMSUL ISKANDAR @ YUSRE BIN MOHD AKIN,PKR,46167
+1283,2013,P137,HAJI MOHD ALI BIN HAJI MOHD RUSTAM,UMNO,40720
+1284,2013,P138,YEE KOK WAH,MCA,28775
+1285,2013,P138,SIM TONG HIM,DAP,49521
+1286,2013,P139,RAHMAT BIN YUSOF,PKR,21973
+1287,2013,P139,AHMAD BIN HAMZAH,UMNO,33736
+1288,2013,P140,SUBRAMANIAM A/L K.V SATHASIVAM,MIC,20037
+1289,2013,P140,DATO CHUA JUI MENG,PKR,18820
+1290,2013,P141,JULAILEY BIN JEMADI,PKR,16927
+1291,2013,P141,ANUAR BIN ABD. MANAP,UMNO,19934
+1292,2013,P142,RAMAKRISHNAN A/L SUPPIAH,DAP,15468
+1293,2013,P142,CHUA TEE YONG,MCA,15821
+1294,2013,P143,MAHIADDIN BIN MD YASIN,UMNO,26274
+1295,2013,P143,MOHAMAD ROZALI BIN JAMIL,PAS,13432
+1296,2013,P144,HAMIM BIN SAMURI,UMNO,30619
+1297,2013,P144,HASSAN BIN ABDUL KARIM,PKR,28652
+1298,2013,P145,LEE CHING YONG,MCA,26051
+1299,2013,P145,ER TECK HWA,DAP,31118
+1300,2013,P146,NOR HIZWAN BIN AHMAD,PKR,19221
+1301,2013,P146,RAZALI BIN IBRAHIM,UMNO,20867
+1302,2013,P147,KHAIRUDDIN BIN A RAHIM,PAS,18505
+1303,2013,P147,NORAINI BINTI AHMAD,UMNO,30258
+1304,2013,P148,HU PANG CHAW,PAS,14735
+1305,2013,P148,WEE KA SIONG,MCA,22045
+1306,2013,P149,MOHD KHUZZAN BIN ABU BAKAR,PKR,16692
+1307,2013,P149,AB AZIZ BIN KAPRAWI,UMNO,22453
+1308,2013,P150,MOHD IDRIS BIN JUSI,PKR,38667
+1309,2013,P150,MOHD PUAD BIN ZARKASHI,UMNO,36935
+1310,2013,P151,SUHAIZAN BIN KAIAT,PAS,14048
+1311,2013,P151,LIANG TECK MENG,GERAKAN,19754
+1312,2013,P152,HOU KOK CHUNG,MCA,33215
+1313,2013,P152,LIEW CHIN TONG,DAP,40574
+1314,2013,P153,HISHAMMUDDIN BIN DATUK HUSSEIN,UMNO,22841
+1315,2013,P153,ONN BIN ABU BAKAR,PKR,12210
+1316,2013,P154,ROSLAN BIN NIKMAT,PAS,10437
+1317,2013,P154,ABD. LATIFF BIN AHMAD,UMNO,26184
+1318,2013,P155,HALIMAH BINTI MOHD SADIQUE,UMNO,25698
+1319,2013,P155,MUHAMAD SAID BIN JONIT,PAS,8502
+1320,2013,P156,ONN BIN JAAFAR,PAS,5799
+1321,2013,P156,NOOR EHSANUDDIN BIN MOHD HARUN NARRASHID,UMNO,30373
+1322,2013,P157,TENGKU INTAN BINTI TENGKU ABDUL HAMID,PKR,4484
+1323,2013,P157,AZALINA BINTI OTHMAN,UMNO,26992
+1324,2013,P157,MOHD AZAMAN BIN JOHARI,IND,795
+1325,2013,P158,CHOONG SHIAU YOON,PKR,38218
+1326,2013,P158,KHOO SOO SEANG,MCA,39985
+1327,2013,P159,AHMAD FAIDHI BIN SAIDI,PKR,42899
+1328,2013,P159,NORMALA BINTI ABDUL SAMAD,UMNO,43834
+1329,2013,P160,SHARIL @ SHAHRIR BIN AB SAMAD,UMNO,44285
+1330,2013,P160,MD HASHIM BIN HUSSEIN,PKR,34151
+1331,2013,P161,NUR JAZLAN BIN MOHAMED,UMNO,43751
+1332,2013,P161,SALAHUDDIN BIN AYUB,PAS,40525
+1333,2013,P162,A. GHANI BIN OTHMAN,UMNO,39522
+1334,2013,P162,LIM KIT SIANG,DAP,54284
+1335,2013,P163,TEO NIE CHING,DAP,43338
+1336,2013,P163,TAY CHIN HEIN,MCA,29888
+1337,2013,P163,SURENDIRAN A/L KUPPAYAH,IND,238
+1338,2013,P164,HANIFF @ GHAZALI BIN HOSMAN,PKR,14077
+1339,2013,P164,AHMAD BIN MASLAN,UMNO,27804
+1340,2013,P165,WEE JECK SENG,MCA,25038
+1341,2013,P165,MAHDZIR BIN IBRAHIM,DAP,19581
+1342,2013,P166,TAN SRI IBRAHIM BIN MENUDIN,PKR,6069
+1343,2013,P166,ROZMAN BIN ISLI,UMNO,12694
+1344,2013,P166,HADNAN BIN MOHAMAD,PAS,386
+1345,2013,P167,MOJURIP BIN DIYUN,SAPP,963
+1346,2013,P167,RAHIMAH BINTI MAJID,PKR,9507
+1347,2013,P167,DATUK ABD RAHIM BIN BAKRI,UMNO,21883
+1348,2013,P167,JUTIRIM BIN GALIBAI GALABI,STAR,3083
+1349,2013,P168,MAJAMIS BIN TIMBONG,STAR,2228
+1350,2013,P168,JOHNITY @ MAXIMUS BIN ONGKILI,PBS,15168
+1351,2013,P168,YUNTAU BIN KOLOD @ KUNTAU BIN KOLOD,SAPP,444
+1352,2013,P168,MAIJOL BIN MAHAP,PKR,14326
+1353,2013,P169,JALUMIN BIN BAYOGOH,STAR,2709
+1354,2013,P169,LAMSIL BIN AMIDSOR,IND,979
+1355,2013,P169,DATO' ABD RAHMAN BIN DAHLAN,UMNO,21768
+1356,2013,P169,KANUL BIN GINDOL,IND,185
+1357,2013,P169,ISNARAISSAH MUNIRAH BT. MAJILIS @ FAKHARUDY,PKR,16673
+1358,2013,P170,ERVEANA ANSARI ALI,IND,2264
+1359,2013,P170,MADIUS BIN TANGAU,UPKO,20685
+1360,2013,P170,MOJILIP BIN BUMBURING @ WILFRED,PKR,15495
+1361,2013,P170,SAMIN @ JASMIN BIN DULIN,STAR,1509
+1362,2013,P171,CHIN HON KIONG,SAPP,4070
+1363,2013,P171,DANIEL JOHN JAMBUN,STAR,1931
+1364,2013,P171,JEFFREY KUMIN @ JOHN,DAP,13403
+1365,2013,P171,DATUK JUMAT BIN IDRIS,UMNO,22845
+1366,2013,P172,WONG SZE PHIN @ JIMMY,DAP,28516
+1367,2013,P172,CHIN TEK MING,PBS,9557
+1368,2013,P172,LIEW HOCK LEONG @ MICHAEL,STAR,909
+1369,2013,P173,LEE HAN KYUN @ JOSEPH LEE,DAP,7958
+1370,2013,P173,MAKIN @ MARCUS MOJIGOH,UPKO,17465
+1371,2013,P173,AWANG AHMAD SAH,STAR,2604
+1372,2013,P173,DULI @ DULLIE BIN MARI @ MARIE,SAPP,1068
+1373,2013,P174,BERNARD GILUK DOMPOK,UPKO,12382
+1374,2013,P174,MELANIA @ MELANIE ANNOL,STAR,1119
+1375,2013,P174,IGNATIUS DORELL LEIKING,PKR,22598
+1376,2013,P175,BALON BIN MUJIM,STAR,838
+1377,2013,P175,MOHAMMAD YAHYA @ YAHYA BIN LAMPONG,PKR,10661
+1378,2013,P175,DATUK ROSNAH BINTI HJ ABD RASHID SHIRLIN,UMNO,21196
+1379,2013,P176,LUSIN BIN BALANGON,STAR,240
+1380,2013,P176,JAMIL BIN WILLIAM CORE,SAPP,650
+1381,2013,P176,DATUK ANIFAH BIN AMAN @ HANIFF AMMAN,UMNO,13754
+1382,2013,P176,JAAFAR BIN ISMAIL,PKR,8031
+1383,2013,P177,GUAN DEE BIN KOH HOI,STAR,409
+1384,2013,P177,DATUK AZIZAH BINTI MOHD DUN,UMNO,12827
+1385,2013,P177,LAJIM BIN UKIN,PKR,12154
+1386,2013,P178,DATUK SAPAWI BIN AMAT WASALI @ AHMAD,UMNO,16377
+1387,2013,P178,KAMIS BIN DAMING,SAPP,505
+1388,2013,P178,RAMLE BIN DUA @ RAMLI DUA LEE,PKR,6908
+1389,2013,P179,JONATHAN BIN YASIN,PKR,11823
+1390,2013,P179,YAZID BIN SAHJINAN,IND,914
+1391,2013,P179,EWON EBIN,UPKO,15434
+1392,2013,P179,ULIANAH BTE SITUN @ WIDYA JULIA,STAR,2559
+1393,2013,P180,GAPARI BIN KATINGAN @ GEOFFREY KITINGAN,STAR,11900
+1394,2013,P180,JOSEPH PAIRIN KITINGAN,PBS,15818
+1395,2013,P180,STEPHEN SANDOR,PKR,7825
+1396,2013,P181,JAINEH BIN JUAYA @ JIMMY JAWATAH,SAPP,1766
+1397,2013,P181,HASMIN @ AZROY BIN ABDULLAH,STAR,2449
+1398,2013,P181,DATUK RAIME BIN UNGGI,UMNO,9771
+1399,2013,P181,MASDIN BIN TUMAS,PKR,5885
+1400,2013,P181,MUTANG @ SYLVESTER BIN DAWAT,KITA,423
+1401,2013,P182,MARTIN TOMY @ TOMMY,STAR,3554
+1402,2013,P182,RICHARD SAKIAN BIN GUNTING,PKR,7723
+1403,2013,P182,JOSEPH KURUP,PBRS,9467
+1404,2013,P182,FATIMAH BINTI AGITOR @ MOHD DAUD,IND,152
+1405,2013,P183,RONALD KIANDEE,UMNO,13174
+1406,2013,P183,RAIMON BIN LANJAT,STAR,1460
+1407,2013,P183,JAMES BIN MIKI,PKR,3186
+1408,2013,P183,DATU KAMARUDDIN BIN DATU MUSTAPHA,IND,542
+1409,2013,P184,DATUK JUSLIE BIN AJIROL,UMNO,19584
+1410,2013,P184,SAHAR BIN SAKA,IND,3219
+1411,2013,P184,MOHD SERMAN BIN HASSNAR,PKR,7998
+1412,2013,P184,ROSNAH BINTI UNSARI,STAR,502
+1413,2013,P185,TSEN THAU LIN,PBS,13085
+1414,2013,P185,SAIFUL BAHARI RASHADA BIN AHMAD,STAR,410
+1415,2013,P185,HAMZA BIN A. ABDULLAH @ HAMZAH,PAS,9287
+1416,2013,P186,LIEW VUI KEONG,LDP,13138
+1417,2013,P186,WONG TIEN FATT @ WONG NYUK FOH,DAP,14226
+1418,2013,P187,ABDULLAH BIN ABDUL SANI,PKR,3646
+1419,2013,P187,DATUK MOKTAR BIN RADIN,UMNO,13377
+1420,2013,P187,HAJI ALI LATIP BIN HAJI TAHA,IND,1130
+1421,2013,P187,YAMBUYA BIN PARANTIS @ CYRIL PONGOD,STAR,1153
+1422,2013,P188,DUMI BIN PG. MASDAL,IND,4959
+1423,2013,P188,BADRULAMIN BIN BAHRON,PKR,9671
+1424,2013,P188,DATU NASRUN BIN DATU MANSUR,UMNO,23058
+1425,2013,P188,APAS @ NAWAWIE BIN SAKING,STAR,841
+1426,2013,P189,DATUK SERI MOHD SHAFIE BIN APDAL,UMNO,25559
+1427,2013,P189,ZAMREE @ MOHD SUFFIAN B ABDUL HABI,PKR,4654
+1428,2013,P189,DATU BADARUDDIN BIN TUN DATU HJ MUSTAPHA,IND,325
+1429,2013,P190,YAP KAIN CHING @ MARY YAP KEN JIN,PBS,21331
+1430,2013,P190,KONG HONG MING @ KONG FO MIN,PKR,16352
+1431,2013,P190,CHUA SOON BUI,SAPP,633
+1432,2013,P190,AHMAD BIN AWANG @ MADON,IND,553
+1433,2013,P191,YAHYA BIN ZAINAL,IND,132
+1434,2013,P191,MALVINE REYES,STAR,603
+1435,2013,P191,SIAMSIR BIN BORHAN,IND,891
+1436,2013,P191,FREDDIE JAPAT ANAK SIMBOL,IND,137
+1437,2013,P191,MOHD BIN MANUKE,IND,1313
+1438,2013,P191,ABDUL GHAPUR BIN SALLEH,UMNO,23125
+1439,2013,P191,USMAN BIN MADEAMING,PAS,8904
+1440,2013,P192,NOGEH ANAK GUMBEK,SPDP,8265
+1441,2013,P192,PATRICK ANEK UREN,STAR,462
+1442,2013,P192,MORDI ANAK BIMOL,DAP,5293
+1443,2013,P192,TEKHEE @ TIKI ANAK LAFE,IND,6109
+1444,2013,P193,WAN JUNAIDI BIN TUANKU JAAFAR,PBB,24655
+1445,2013,P193,AFFENDI BIN JEMAN,IND,233
+1446,2013,P193,ZULRUSDI BIN MOHAMAD HOL,PKR,3719
+1447,2013,P193,MURA BIN KADIR,STAR,206
+1448,2013,P194,AHMAD NAZIB BIN JOHARI,PKR,8116
+1449,2013,P194,FADILLAH BIN YUSOF,PBB,29559
+1450,2013,P195,TAN KAI,SUPP,10491
+1451,2013,P195,CHONG CHIENG JEN,DAP,30133
+1452,2013,P196,YONG KHOON HIAN @ YONG KHOON SENG,SUPP,22993
+1453,2013,P196,JULIAN TAN KOK PING,DAP,41663
+1454,2013,P196,SOO LINA,STAR,239
+1455,2013,P197,RUBIAH BINTI WANG,PBB,24202
+1456,2013,P197,ABANG AHMAD KERDEE BIN ABANG MASAGUS,PAS,6801
+1457,2013,P198,WILLIE ANAK MONGIN,PKR,10740
+1458,2013,P198,DRIPIN ANAK SAKOI,STAR,704
+1459,2013,P198,JAMES DAWOS MAMIT,PBB,20461
+1460,2013,P199,EDWARD ANAK ANDREW LUWAK,DAP,6343
+1461,2013,P199,JOHNNY ANAK APUT,STAR,390
+1462,2013,P199,RICHARD RIOT ANAK JAEM,SUPP,19494
+1463,2013,P200,MOHAMAD BIN JOLHI,PAS,2017
+1464,2013,P200,NANCY BINTI SHUKRI,PBB,13277
+1465,2013,P201,ABANG ZULKIFLI BIN ABANG ENGKEH,PKR,4661
+1466,2013,P201,ROHANI BINTI ABDUL KARIM,PBB,15625
+1467,2013,P202,NICHOLAS MUJAH ANAK ASON,PKR,5618
+1468,2013,P202,MASIR ANAK KUJAT,PRS,12168
+1469,2013,P202,WILFRED STEPHEN,SWP,476
+1470,2013,P202,DONALD LAWAN,IND,3867
+1471,2013,P203,NICHOLAS BAWIN ANAK ANGGAT,PKR,2530
+1472,2013,P203,WILLIAM @ NYALLAU ANAK BADAK,PRS,8278
+1473,2013,P203,LARRY SOON @ LARRY SNG WEI SHIEN,SWP,4187
+1474,2013,P204,DOUGLAS UGGAH EMBAS,PBB,15476
+1475,2013,P204,CECILIA SITI UNA @ SITTIE ENDEK,PKR,4589
+1476,2013,P205,ALI ANAK BIJU,PKR,9519
+1477,2013,P205,ROSLI BIN LEK @ ABG ROSELIE BIN ABG PALENG,IND,681
+1478,2013,P205,WILLIAM IKOM,SPDP,11600
+1479,2013,P206,JURINA BINTI MUT,PAS,1571
+1480,2013,P206,NORAH BINTI ABD RAHMAN,PBB,12535
+1481,2013,P207,WAHAB BIN HAJI DOLAH,PBB,11896
+1482,2013,P207,AJIJI BIN FAUZAN,PAS,1747
+1483,2013,P208,DING KUONG HIING,SUPP,13758
+1484,2013,P208,WONG LING BIU,DAP,14263
+1485,2013,P209,WONG ANAK JUDAT,SWP,3936
+1486,2013,P209,WONG HONG YU,PKR,2852
+1487,2013,P209,JOSEPH SALANG ANAK GANDUM,PRS,9891
+1488,2013,P210,ELLISON LUDAN ANAK MUYAN,SWP,417
+1489,2013,P210,THOMAS LAJA ANAK BESI,PKR,5004
+1490,2013,P210,AGO ANAK DAGANG,PRS,8046
+1491,2013,P211,TIONG THAI KING,SUPP,17983
+1492,2013,P211,ALICE LAU KIONG YIENG,DAP,26613
+1493,2013,P212,LAU LEE MING,SUPP,23967
+1494,2013,P212,OSCAR LING CHAI YEW,DAP,26808
+1495,2013,P212,NARAWI BIN HARON,IND,203
+1496,2013,P213,SYLVESTER AJAH SUBAH @ AJAH BIN SUBAH,IND,2219
+1497,2013,P213,HAI BIN MERAWIN @ BONAVENTURE,DAP,2219
+1498,2013,P213,MUHAMMAD LEO MICHAEL TOYAD ABDULLAH,PBB,14983
+1499,2013,P214,JOSEPH ENTULU ANAK BELAUN,PRS,12040
+1500,2013,P214,SNG CHEE HUA,SWP,4485
+1501,2013,P214,JOSHUA ANAK JABING @ JOSHUA JABENG,PKR,3891
+1502,2013,P215,ALEXANDER NANTA LINGGI,PBB,13446
+1503,2013,P215,RAMLI ANAK MALAKA,DAP,3715
+1504,2013,P216,GEORGE ANAK LAGONG,SWP,2129
+1505,2013,P216,ABUN SUI ANYIT,PKR,3283
+1506,2013,P216,UGAK ANAK KUMBONG,PRS,9117
+1507,2013,P217,TIONG KING SING,SPDP,26458
+1508,2013,P217,JOHN BRIAN ANTHONY ANAK JEREMY GUANG,DAP,19025
+1509,2013,P218,MUHAMMAD ZAID BIN TANDANG,PAS,7282
+1510,2013,P218,AHMAD LAI BIN BUJANG,PBB,13348
+1511,2013,P219,MICHAEL TEO YU KENG,PKR,26909
+1512,2013,P219,SEBASTIAN TING CHIEW YEW,SUPP,24917
+1513,2013,P219,CHONG KON FATT,STAR,306
+1514,2013,P220,ANYI NGAU,SPDP,9182
+1515,2013,P220,PATRICK SIBAT SUJANG,IND,363
+1516,2013,P220,ROLAND ENGAN,PKR,8988
+1517,2013,P221,BARU BIAN,PKR,4698
+1518,2013,P221,HASBI BIN HABIBOLLAH,PBB,12999
+1519,2013,P222,HENRY SUM AGONG,PBB,9928
+1520,2013,P222,BARU LANGUB,DAP,3898
+1521,2013,P222,ALIRAHMAN BIN KAMSEH,STAR,69
+1522,2013,P108,ZULKIFLI BIN NOORDIN,BN,38070
+1523,2013,P113,MOHAMED HANIPA BIN MAIDIN,PAS,36774
+1524,2013,P56,HAMZAH BIN ZAINUDIN,BN,22184
