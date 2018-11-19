@@ -13,3 +13,7 @@ Data is available in 4 formats
 Some data is missing, run the following command (in the SQLite folder to get more details)
 
 python3 compare.py election-db
+
+# 2018 results available at the following gist
+Parliament [https://gist.github.com/keithrozario/1438a3baaf93e0d28c74c730a0b4f577]
+State [https://gist.github.com/keithrozario/49c8b46ffbacb2a703ec28a9c8973c29]
